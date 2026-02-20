@@ -18,7 +18,7 @@ This project automatically generates a markdown file with a list of your GitHub 
 ## Customization
 
 - To change the schedule, edit `.github/workflows/update-starred-repos.yml` and modify the `cron` expression.
-- To change the output filename, edit `scripts/update-starred-repos.clj` and modify the `output-file` variable.
+- To change the output filename, edit `scripts/update_starred_repos.clj` and modify the `output-file` variable.
 - To modify the markdown format, edit the `generate-markdown` function in the script.
 
 ## Manual run
