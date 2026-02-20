@@ -77,9 +77,9 @@
 
 (defn -main []
   (println "Starting update of starred repositories list...")
-  (let [username (or (get-username-from-token)
+  (let [username (or (System/getenv "GITHUB_REPOSITORY_OWNER")
                      (do
-                       (println "Could not determine username from token, using repository owner")
+                       (println "GITHUB_REPOSITORY_OWNER not set, falling back to repository owner via API")
                        (-> (curl/get (str github-api-url "/repos/" (System/getenv "GITHUB_REPOSITORY"))
                                      {:headers {"Accept" "application/vnd.github.v3+json"}})
                            :body
