@@ -2,182 +2,183 @@
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [mysticaltech/terraform-hcloud-kube-hetzner](https://github.com/mysticaltech/terraform-hcloud-kube-hetzner) | Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command! | HCL | 3887 |
+| [borkdude/cljbang.el](https://github.com/borkdude/cljbang.el) | A Clojure-like language that runs as Emacs Lisp. | Emacs Lisp | 74 |
+| [mysticaltech/terraform-hcloud-kube-hetzner](https://github.com/mysticaltech/terraform-hcloud-kube-hetzner) | Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command! | HCL | 3889 |
 | [sheaf-lang/sheaf](https://github.com/sheaf-lang/sheaf) | A functional language for machine learning. Inspired by Clojure, compiled to GPUs. | Rust | 49 |
 | [amiorin/green](https://github.com/amiorin/green) | Green ia A babashka-compatible Clojure library for building idempotent devops CLIs | HTML | 14 |
 | [damn/com.badlogic.gdx](https://github.com/damn/com.badlogic.gdx) | Clojure FFI layer for libgdx-core | Clojure | 11 |
 | [thivyan-studios/hark-app](https://github.com/thivyan-studios/hark-app) | The Android hearing aid streaming & transcription app | C++ | 37 |
 | [InsipidPoint/ghostty-windows](https://github.com/InsipidPoint/ghostty-windows) | 👻 Native Windows port of the Ghostty terminal emulator. Win32 API, OpenGL rendering, ConPTY, no WSL required. | Zig | 30 |
 | [traccar/traccar-client-sdk](https://github.com/traccar/traccar-client-sdk) |  | Kotlin | 16 |
-| [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. | C# | 20636 |
-| [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) | A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more. | Python | 4516 |
+| [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. | C# | 21102 |
+| [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) | A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more. | Python | 4518 |
 | [lispyclouds/claxon](https://github.com/lispyclouds/claxon) | Minimal, pure clojure, data-driven NATS client | Clojure | 24 |
-| [earendil-works/pi](https://github.com/earendil-works/pi) | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI | TypeScript | 74669 |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | The open source coding agent. | TypeScript | 188326 |
-| [dirge-code/dirge](https://github.com/dirge-code/dirge) | Dynamic Intent Resolution Grounding Engine | Rust | 224 |
+| [earendil-works/pi](https://github.com/earendil-works/pi) | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI | TypeScript | 75538 |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | The open source coding agent. | TypeScript | 188677 |
+| [dirge-code/dirge](https://github.com/dirge-code/dirge) | Dynamic Intent Resolution Grounding Engine | Rust | 225 |
 | [avanelsas/bareforge](https://github.com/avanelsas/bareforge) | Companion visual builder for BareDOM web components. Drag components, declare reactive state, export fully interactive CLJS or JS project | Clojure | 6 |
 | [yogthos/stepvine](https://github.com/yogthos/stepvine) | form building platform | Clojure | 16 |
 | [vipenzo/ridley](https://github.com/vipenzo/ridley) | A turtle graphics-based 3D modeling tool for 3D printing. Write Clojure scripts, see real-time 3D preview, export STL. WebXR support for VR/AR visualization. | Clojure | 38 |
 | [Kpa-clawbot/CoreScope](https://github.com/Kpa-clawbot/CoreScope) | MeshCore mesh network analyzer — live packet visualization, VCR replay, channel decryption, node health, analytics | JavaScript | 150 |
-| [control-theory/gonzo](https://github.com/control-theory/gonzo) | Gonzo! The Go based TUI log analysis tool | Go | 2727 |
-| [zitadel/zitadel](https://github.com/zitadel/zitadel) | ZITADEL - Identity infrastructure, simplified for you. | Go | 14499 |
+| [control-theory/gonzo](https://github.com/control-theory/gonzo) | Gonzo! The Go based TUI log analysis tool | Go | 2729 |
+| [zitadel/zitadel](https://github.com/zitadel/zitadel) | ZITADEL - Identity infrastructure, simplified for you. | Go | 14517 |
 | [yogthos/flatiron](https://github.com/yogthos/flatiron) | A columnar database for analytics  | Clojure | 41 |
 | [kpassapk/atomstream](https://github.com/kpassapk/atomstream) | Cross-render TUIs to the Web | Clojure | 21 |
 | [csm/clojurust](https://github.com/csm/clojurust) | Clojure and Rust | Rust | 50 |
 | [storrito/tool-shortform-subtitles](https://github.com/storrito/tool-shortform-subtitles) | Subtitles tool for shortform videos | HTML | 1 |
 | [yellowcooln/meshcore-mqtt-live-map](https://github.com/yellowcooln/meshcore-mqtt-live-map) | Live Map of Meshcore MQTT feed | Python | 78 |
 | [RikoDEV/litescope](https://github.com/RikoDEV/litescope) | A lightweight, self-hosted dashboard for monitoring MeshCore networks. | TypeScript | 6 |
-| [aaif-goose/goose](https://github.com/aaif-goose/goose) | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM | Rust | 51425 |
+| [aaif-goose/goose](https://github.com/aaif-goose/goose) | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM | Rust | 51495 |
 | [realgenekim/datastar-helpers](https://github.com/realgenekim/datastar-helpers) | Shared Clojure + Datastar + http-kit building blocks: safe expression helpers, reliable SSE broadcast, and fixes for the sharp edges every Datastar app hits. | Clojure | 3 |
 | [rururu/ClojureFxMiniIDE](https://github.com/rururu/ClojureFxMiniIDE) | This is a special edition of the ClojureMiniIDE project for the Clojure wrapper of JavaFX HumbleUI. | Clojure | 2 |
-| [jolt-lang/jolt](https://github.com/jolt-lang/jolt) | A Clojure compiler implemented on top of Chez Scheme | Scheme | 106 |
-| [fatedier/frp](https://github.com/fatedier/frp) | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. | Go | 108241 |
+| [jolt-lang/jolt](https://github.com/jolt-lang/jolt) | A Clojure compiler implemented on top of Chez Scheme | Scheme | 108 |
+| [fatedier/frp](https://github.com/fatedier/frp) | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. | Go | 108279 |
 | [gersak/tyrell](https://github.com/gersak/tyrell) | Clojurescript WebComponents library | TypeScript | 29 |
 | [samuk/awesome-meshcore](https://github.com/samuk/awesome-meshcore) | A curated list of amazingly awesome MeshCore resources |  | 282 |
 | [agessaman/meshcore-packet-capture](https://github.com/agessaman/meshcore-packet-capture) | Standalone Python script for capturing and analyzing packets from MeshCore companion radios with MQTT support | Python | 73 |
-| [MatthewZMD/aidermacs](https://github.com/MatthewZMD/aidermacs) | AI Pair Programming in Emacs with Aider | Emacs Lisp | 911 |
+| [MatthewZMD/aidermacs](https://github.com/MatthewZMD/aidermacs) | AI Pair Programming in Emacs with Aider | Emacs Lisp | 913 |
 | [replikativ/muschel](https://github.com/replikativ/muschel) | Bash interpreter with git-like memory and fine grained access control. | Clojure | 18 |
-| [russellromney/honker](https://github.com/russellromney/honker) | SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler | Python | 2949 |
+| [russellromney/honker](https://github.com/russellromney/honker) | SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler | Python | 2953 |
 | [mustafaakin/kubernetes-event-exporter](https://github.com/mustafaakin/kubernetes-event-exporter) | Export Kubernetes events to multiple destinations with routing and filtering | Go | 1036 |
 | [ertugrulcetin/code-bubble](https://github.com/ertugrulcetin/code-bubble) |  | Clojure | 11 |
 | [chrisdavis2110/meshcore-decoder-py](https://github.com/chrisdavis2110/meshcore-decoder-py) |  | Python | 8 |
 | [xit-vcs/haxy](https://github.com/xit-vcs/haxy) | a git forge from the future-past | Zig | 237 |
-| [defilantech/LLMKube](https://github.com/defilantech/LLMKube) | Kubernetes operator for self-hosted LLM inference across a heterogeneous GPU fleet: NVIDIA CUDA, AMD Vulkan, and Apple Silicon Metal. Runtimes: llama.cpp, vLLM, TGI, mlx-server. Multi-GPU sharding, model caching, OpenAI-compatible endpoints. Apache-2.0, run across homelab and on-prem fleets, actively developed. | Go | 176 |
+| [defilantech/LLMKube](https://github.com/defilantech/LLMKube) | Kubernetes operator for self-hosted LLM inference across a heterogeneous GPU fleet: NVIDIA CUDA, AMD Vulkan, and Apple Silicon Metal. Runtimes: llama.cpp, vLLM, TGI, mlx-server. Multi-GPU sharding, model caching, OpenAI-compatible endpoints. Apache-2.0, run across homelab and on-prem fleets, actively developed. | Go | 177 |
 | [int128/kubelogin](https://github.com/int128/kubelogin) | kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) | Go | 2324 |
-| [karl-zylinski/odin-raylib-hot-reload-game-template](https://github.com/karl-zylinski/odin-raylib-hot-reload-game-template) | An Odin + Raylib game template with Hot Reloading pre-setup | Odin | 596 |
+| [karl-zylinski/odin-raylib-hot-reload-game-template](https://github.com/karl-zylinski/odin-raylib-hot-reload-game-template) | An Odin + Raylib game template with Hot Reloading pre-setup | Odin | 594 |
 | [rcarmo/go-joker](https://github.com/rcarmo/go-joker) | A personal twist on the original Clojure interpreter and linter, slightly mad, Go-ing places | Go | 26 |
 | [leifericf/mino](https://github.com/leifericf/mino) | Embeddable Clojure-inspired Lisp. | C | 20 |
-| [BrownNPC/Raylib-Go-Wasm](https://github.com/BrownNPC/Raylib-Go-Wasm) | raylib-go bindings for the web | Go | 62 |
+| [BrownNPC/Raylib-Go-Wasm](https://github.com/BrownNPC/Raylib-Go-Wasm) | raylib-go bindings for the web | Go | 61 |
 | [mlimotte/gsheetplus](https://github.com/mlimotte/gsheetplus) | Low-level and high-level wrapper to work with Google Sheets.  Reading, writing and sheet management. | Clojure | 10 |
-| [vicliu624/trail-mate](https://github.com/vicliu624/trail-mate) | Trail Mate is an offline‑first handheld system for GPS navigation, LoRa communication, and real‑time team situational awareness in no‑network environments. | C++ | 430 |
-| [grafana/alloy](https://github.com/grafana/alloy) | OpenTelemetry Collector distribution with programmable pipelines | Go | 3355 |
+| [vicliu624/trail-mate](https://github.com/vicliu624/trail-mate) | Trail Mate is an offline‑first handheld system for GPS navigation, LoRa communication, and real‑time team situational awareness in no‑network environments. | C++ | 432 |
+| [grafana/alloy](https://github.com/grafana/alloy) | OpenTelemetry Collector distribution with programmable pipelines | Go | 3356 |
 | [nooga/let-go](https://github.com/nooga/let-go) | Almost Clojure written in Go. | Go | 528 |
 | [nooga/lgcr](https://github.com/nooga/lgcr) | A small Linux container runtime written in let-go  | Clojure | 20 |
 | [o11ylite/o11ylite](https://github.com/o11ylite/o11ylite) |  Free, open-source OpenTelemetry backend powered by DuckDB 🦆 and SQLite | Clojure | 23 |
 | [magnars/optimus](https://github.com/magnars/optimus) | A Ring middleware for frontend performance optimization. | Clojure | 374 |
-| [BatchDrake/SigDigger](https://github.com/BatchDrake/SigDigger) | Qt-based digital signal analyzer, using Suscan core and Sigutils DSP library | C++ | 2769 |
-| [databasus/databasus](https://github.com/databasus/databasus) | PostgreSQL backup tool with Point-In-Time-Recovery and restore verification | Go | 7728 |
-| [aattaran/deepclaude](https://github.com/aattaran/deepclaude) | Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper. | JavaScript | 2220 |
-| [magiblot/tvision](https://github.com/magiblot/tvision) | A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross-platform and with Unicode support. | C++ | 3108 |
+| [BatchDrake/SigDigger](https://github.com/BatchDrake/SigDigger) | Qt-based digital signal analyzer, using Suscan core and Sigutils DSP library | C++ | 2772 |
+| [databasus/databasus](https://github.com/databasus/databasus) | PostgreSQL backup tool with Point-In-Time-Recovery and restore verification | Go | 7744 |
+| [aattaran/deepclaude](https://github.com/aattaran/deepclaude) | Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper. | JavaScript | 2221 |
+| [magiblot/tvision](https://github.com/magiblot/tvision) | A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross-platform and with Unicode support. | C++ | 3111 |
 | [gloathub/gloat](https://github.com/gloathub/gloat) | Glojure AOT Tool | Clojure | 46 |
-| [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) | Kimi K2 is the large language model series developed by Moonshot AI team |  | 10990 |
+| [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) | Kimi K2 is the large language model series developed by Moonshot AI team |  | 11002 |
 | [electronstudio/jaylib](https://github.com/electronstudio/jaylib) | Java JNI bindings for Raylib | C | 206 |
 | [filipesilva/sqlatom](https://github.com/filipesilva/sqlatom) | Clojure library that stores atoms in a SQLite database | Clojure | 14 |
-| [apache/cloudstack](https://github.com/apache/cloudstack) | Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform | Java | 2989 |
-| [siderolabs/omni](https://github.com/siderolabs/omni) | SaaS-simple deployment of Kubernetes - on your own hardware. | Go | 1240 |
+| [apache/cloudstack](https://github.com/apache/cloudstack) | Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform | Java | 2991 |
+| [siderolabs/omni](https://github.com/siderolabs/omni) | SaaS-simple deployment of Kubernetes - on your own hardware. | Go | 1244 |
 | [avanelsas/baredom](https://github.com/avanelsas/baredom) | BareDOM: Lightweight CLJS UI components built on web standards (Custom Elements, Shadow DOM, ES modules). No framework, just the DOM | Clojure | 39 |
 | [replikativ/pg-datahike](https://github.com/replikativ/pg-datahike) | Postgres compatibility layer for Datahike. | Clojure | 14 |
 | [plumce/plumcp](https://github.com/plumce/plumcp) | Clojure/ClojureScript library for making MCP server and client | Clojure | 42 |
-| [tasks/tasks](https://github.com/tasks/tasks) | Bringing Astrid Tasks back from the dead | Kotlin | 5424 |
+| [tasks/tasks](https://github.com/tasks/tasks) | Bringing Astrid Tasks back from the dead | Kotlin | 5427 |
 | [clojurewerkz/balagan](https://github.com/clojurewerkz/balagan) | Clojure data structure manipulation and querying library  | Clojure | 124 |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. | Rust | 82709 |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. | Rust | 83829 |
 | [xit-vcs/xitdb](https://github.com/xit-vcs/xitdb) | an immutable database for zig | Zig | 107 |
 | [xit-vcs/xit](https://github.com/xit-vcs/xit) | a git alternative written in zig | Zig | 707 |
 | [gloathub/glojure](https://github.com/gloathub/glojure) | Clojure interpreter hosted on Go, with extensible interop support. | Go | 12 |
 | [hectorqlucero/webgen](https://github.com/hectorqlucero/webgen) | Parameter driven web app generator | Clojure | 8 |
 | [libgoc/libgoc](https://github.com/libgoc/libgoc) | Go-style CSP concurrency for plain C: fibers, channels, select, async I/O, HTTP, and GC in one runtime 🚀 | C | 34 |
 | [flatcar/Flatcar](https://github.com/flatcar/Flatcar) | Flatcar project repository for issue tracking, project documentation, etc. | Python | 1213 |
-| [krallin/tini](https://github.com/krallin/tini) | A tiny but valid `init` for containers | C | 11175 |
+| [krallin/tini](https://github.com/krallin/tini) | A tiny but valid `init` for containers | C | 11178 |
 | [mintylinux/Meshcore-Wardrive-Android](https://github.com/mintylinux/Meshcore-Wardrive-Android) | A Flutter-based mobile wardriving application for mapping MeshCore mesh network coverage in real-time. | Dart | 95 |
 | [SeniorCareMarket/eve](https://github.com/SeniorCareMarket/eve) | Extensible Value Encoding | Clojure | 63 |
-| [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) | CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance | Go | 9015 |
-| [google/magika](https://github.com/google/magika) | Fast and accurate AI powered file content types detection  | Python | 17262 |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |  | 195104 |
-| [keycloak/keycloak](https://github.com/keycloak/keycloak) | Open Source Identity and Access Management For Modern Applications and Services | Java | 35776 |
-| [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) | 💅🏻 ⚒ A collection of awesome design systems |  | 25487 |
+| [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) | CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance | Go | 9026 |
+| [google/magika](https://github.com/google/magika) | Fast and accurate AI powered file content types detection  | Python | 17268 |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |  | 195427 |
+| [keycloak/keycloak](https://github.com/keycloak/keycloak) | Open Source Identity and Access Management For Modern Applications and Services | Java | 35796 |
+| [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) | 💅🏻 ⚒ A collection of awesome design systems |  | 25495 |
 | [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) | expose yourself | JavaScript | 22410 |
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python tool for converting files and office documents to Markdown. | Python | 167959 |
-| [xandemon/developer-icons](https://github.com/xandemon/developer-icons) | A collection of well-optimized SVG tech logos for developers and designers—customizable, scalable, and free. | TypeScript | 2545 |
-| [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources) |  :video_game: :game_die: A wonderful list of Game Development resources. |  | 6754 |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python tool for converting files and office documents to Markdown. | Python | 168288 |
+| [xandemon/developer-icons](https://github.com/xandemon/developer-icons) | A collection of well-optimized SVG tech logos for developers and designers—customizable, scalable, and free. | TypeScript | 2547 |
+| [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources) |  :video_game: :game_die: A wonderful list of Game Development resources. |  | 6756 |
 | [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) | 🛠Helpful items for making open source hardware projects. |  | 991 |
 | [realgenekim/thin-jar-build](https://github.com/realgenekim/thin-jar-build) |  | Clojure | 2 |
-| [espressif/esptool](https://github.com/espressif/esptool) | Serial utility for flashing, provisioning, and interacting with Espressif SoCs | Python | 6417 |
-| [sgl-project/sglang](https://github.com/sgl-project/sglang) | SGLang is a high-performance serving framework for large language models and multimodal models. | Python | 30592 |
-| [microsoft/RustTraining](https://github.com/microsoft/RustTraining) | Beginner, advanced, expert level Rust training material | Rust | 14735 |
-| [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) | Kubernetes Native Edge Computing Framework (project under CNCF) | Go | 7522 |
-| [goauthentik/authentik](https://github.com/goauthentik/authentik) | The authentication glue you need. | Python | 22424 |
+| [espressif/esptool](https://github.com/espressif/esptool) | Serial utility for flashing, provisioning, and interacting with Espressif SoCs | Python | 6420 |
+| [sgl-project/sglang](https://github.com/sgl-project/sglang) | SGLang is a high-performance serving framework for large language models and multimodal models. | Python | 30643 |
+| [microsoft/RustTraining](https://github.com/microsoft/RustTraining) | Beginner, advanced, expert level Rust training material | Rust | 14738 |
+| [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) | Kubernetes Native Edge Computing Framework (project under CNCF) | Go | 7521 |
+| [goauthentik/authentik](https://github.com/goauthentik/authentik) | The authentication glue you need. | Python | 22447 |
 | [devtron-labs/devtron](https://github.com/devtron-labs/devtron) | The only Kubernetes dashboard you need | Go | 5550 |
 | [blendi-remade/sprite-sheet-creator](https://github.com/blendi-remade/sprite-sheet-creator) | Create your own playable 2D characters and maps, powered by fal.ai | TypeScript | 1487 |
-| [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | Hundreds of models & providers. One command to find what runs on your hardware. | Rust | 30203 |
-| [TNG/ArchUnit](https://github.com/TNG/ArchUnit) | A Java architecture test library, to specify and assert architecture rules in plain Java | Java | 3775 |
-| [mycelium-clj/mycelium](https://github.com/mycelium-clj/mycelium) | Mycelium uses Maestro state machines and Malli contracts to define "The Law of the Graph," providing a high-integrity environment where humans architect and AI agents implement. | Clojure | 80 |
+| [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | Hundreds of models & providers. One command to find what runs on your hardware. | Rust | 30464 |
+| [TNG/ArchUnit](https://github.com/TNG/ArchUnit) | A Java architecture test library, to specify and assert architecture rules in plain Java | Java | 3779 |
+| [mycelium-clj/mycelium](https://github.com/mycelium-clj/mycelium) | Mycelium uses Maestro state machines and Malli contracts to define "The Law of the Graph," providing a high-integrity environment where humans architect and AI agents implement. | Clojure | 81 |
 | [TimoKramer/charm.clj](https://github.com/TimoKramer/charm.clj) |  A Clojure TUI (Terminal User Interface) library inspired by Bubble Tea | Clojure | 105 |
-| [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) | A powerful little TUI framework 🏗 | Go | 43856 |
+| [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) | A powerful little TUI framework 🏗 | Go | 43881 |
 | [leaflet-extras/leaflet-providers](https://github.com/leaflet-extras/leaflet-providers) | An extension to Leaflet that contains configurations for various free tile providers. | JavaScript | 2368 |
-| [cjohansen/dataspex](https://github.com/cjohansen/dataspex) | See the shape of your data: point-and-click Clojure(Script) data browser | Clojure | 133 |
+| [cjohansen/dataspex](https://github.com/cjohansen/dataspex) | See the shape of your data: point-and-click Clojure(Script) data browser | Clojure | 134 |
 | [maxweber/schael](https://github.com/maxweber/schael) | A pure Clojure LSM-tree key-value store, inspired by SlateDB. Pluggable storage backends: local filesystem, in-memory, or Google Cloud Storage. | Clojure | 2 |
 | [maxweber/schaeldb](https://github.com/maxweber/schaeldb) |  | Clojure | 1 |
 | [Yeraze/meshmonitor](https://github.com/Yeraze/meshmonitor) | Web tool for monitoring Mesh Node Deployment over TCP/HTTP | TypeScript | 579 |
-| [LibrePDF/OpenPDF](https://github.com/LibrePDF/OpenPDF) | OpenPDF is an open-source Java library for creating, editing, rendering, and encrypting PDF documents, as well as generating PDFs from HTML. It is licensed under the LGPL and MPL. | Java | 4322 |
+| [LibrePDF/OpenPDF](https://github.com/LibrePDF/OpenPDF) | OpenPDF is an open-source Java library for creating, editing, rendering, and encrypting PDF documents, as well as generating PDFs from HTML. It is licensed under the LGPL and MPL. | Java | 4324 |
 | [borkdude/cream](https://github.com/borkdude/cream) | Fast starting Clojure runtime built with GraalVM native-image + Crema | Clojure | 148 |
-| [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) | A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK | TypeScript | 30312 |
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |  | 142149 |
+| [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) | A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK | TypeScript | 30314 |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |  | 142185 |
 | [Netflix/PigPen](https://github.com/Netflix/PigPen) | Map-Reduce for Clojure | Clojure | 564 |
-| [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) | Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. | Shell | 18609 |
+| [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) | Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. | Shell | 18614 |
 | [kazuhikoarase/qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator) | QR Code Generator implementation in JavaScript, Java and more. | HTML | 2354 |
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | Fully automatic censorship removal for language models | Python | 26595 |
-| [alibaba/zvec](https://github.com/alibaba/zvec) | A lightweight, lightning-fast, in-process vector database | C++ | 15204 |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | Fully automatic censorship removal for language models | Python | 26642 |
+| [alibaba/zvec](https://github.com/alibaba/zvec) | A lightweight, lightning-fast, in-process vector database | C++ | 15224 |
 | [phishman3579/java-algorithms-implementation](https://github.com/phishman3579/java-algorithms-implementation) | Algorithms and Data Structures implemented in Java | Java | 4527 |
 | [owntracks/recorder](https://github.com/owntracks/recorder) | Store and access data published by OwnTracks apps | C | 1188 |
-| [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | Generate audiobooks from e-books, voice cloning & 1158+ languages! | Python | 19559 |
+| [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | Generate audiobooks from e-books, voice cloning & 1158+ languages! | Python | 19565 |
 | [unclebob/empire-2025](https://github.com/unclebob/empire-2025) |  | Clojure | 87 |
 | [Jimx-/zem](https://github.com/Jimx-/zem) | Extensible Emacs-like text editor with Guile | C++ | 51 |
 | [zachwick/ze](https://github.com/zachwick/ze) | A simple extensible text editor | C | 3 |
-| [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) | Open source, self-hosted omnichannel customer support desk. Live chat, email, and more in a single binary. | Go | 2648 |
-| [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) | A collection of *arrs and related stuff. |  | 4123 |
+| [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) | Open source, self-hosted omnichannel customer support desk. Live chat, email, and more in a single binary. | Go | 2649 |
+| [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) | A collection of *arrs and related stuff. |  | 4130 |
 | [eclipse-mat/mat](https://github.com/eclipse-mat/mat) | The Eclipse Memory Analyzer is a fast and feature-rich Java heap dump analyzer that helps you find memory leaks and reduce memory consumption. | Java | 257 |
 | [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) | A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups |  | 35204 |
 | [zjs81/meshcore-open](https://github.com/zjs81/meshcore-open) | Open-source Flutter client for MeshCore LoRa mesh networking devices | Dart | 568 |
-| [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore) | A new lightweight, hybrid routing mesh protocol for packet radios | C | 3281 |
-| [likec4/likec4](https://github.com/likec4/likec4) | Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code | TypeScript | 4021 |
+| [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore) | A new lightweight, hybrid routing mesh protocol for packet radios | C | 3291 |
+| [likec4/likec4](https://github.com/likec4/likec4) | Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code | TypeScript | 4283 |
 | [ShubhamRasal/n2s](https://github.com/ShubhamRasal/n2s) | Like k9s, but for NATS | Go | 15 |
 | [solidpulse/natsdash](https://github.com/solidpulse/natsdash) | NATS GUI - GUI for NATS Core, GUI for NATS Jetstream | Go | 40 |
 | [nats-nui/nui](https://github.com/nats-nui/nui) | Free and Open Source NATS management GUI. | TypeScript | 644 |
 | [FKMTime/FKMTime](https://github.com/FKMTime/FKMTime) | A system for running speedcubing competitions without scorecards! | TypeScript | 11 |
-| [liquibase/liquibase](https://github.com/liquibase/liquibase) | Main Liquibase Source | Java | 5562 |
-| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic. | TypeScript | 23470 |
+| [liquibase/liquibase](https://github.com/liquibase/liquibase) | Main Liquibase Source | Java | 5564 |
+| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic. | TypeScript | 23507 |
 | [cjohansen/clj-nats](https://github.com/cjohansen/clj-nats) | Clojure wrapper for the official NATS.io Java SDK | Clojure | 30 |
 | [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) | Obsessive cheat sheet to favicon sizes/types. |  | 9906 |
 | [semantic-namespace/atlas](https://github.com/semantic-namespace/atlas) | Atlas rethinks how system entities are identified. Query, validate, and visualize your system semantics as a single graph  | Clojure | 25 |
-| [ggerganov/ggwave](https://github.com/ggerganov/ggwave) | Tiny data-over-sound library | C++ | 7750 |
+| [ggerganov/ggwave](https://github.com/ggerganov/ggwave) | Tiny data-over-sound library | C++ | 7752 |
 | [avelino/jbundle](https://github.com/avelino/jbundle) | Package JVM applications (Clojure, Java) into self-contained binaries. No JVM installation required to run the output. | Rust | 177 |
 | [Zimbra/zm-build](https://github.com/Zimbra/zm-build) | zm-build for Zimbra Collaboration Suite, FOSS Edition | Perl | 241 |
 | [apinanaivot/IKEA-3D-Model-Download-Button](https://github.com/apinanaivot/IKEA-3D-Model-Download-Button) | Adds ability to download models from IKEA website | JavaScript | 1278 |
-| [Free-TV/IPTV](https://github.com/Free-TV/IPTV) | M3U Playlist for free TV channels | Python | 19418 |
-| [originalankur/maptoposter](https://github.com/originalankur/maptoposter) | Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code. | Python | 13808 |
+| [Free-TV/IPTV](https://github.com/Free-TV/IPTV) | M3U Playlist for free TV channels | Python | 19438 |
+| [originalankur/maptoposter](https://github.com/originalankur/maptoposter) | Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code. | Python | 13814 |
 | [codeboost/xitdb-clj](https://github.com/codeboost/xitdb-clj) | Immutable database | Clojure | 43 |
 | [ertugrulcetin/raylib-clojure-playground](https://github.com/ertugrulcetin/raylib-clojure-playground) |  | Clojure | 42 |
 | [talios/clojure-maven-plugin](https://github.com/talios/clojure-maven-plugin) | Apache Maven Mojo for compiling clojure scripts to class files | Java | 267 |
-| [juicedata/juicefs](https://github.com/juicedata/juicefs) | JuiceFS is a distributed POSIX file system built on top of Redis and S3. | Go | 14218 |
+| [juicedata/juicefs](https://github.com/juicedata/juicefs) | JuiceFS is a distributed POSIX file system built on top of Redis and S3. | Go | 14221 |
 | [gaul/s3proxy](https://github.com/gaul/s3proxy) | Access other storage backends via the S3 API | Java | 2297 |
-| [redis/redis](https://github.com/redis/redis) | For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine. | C | 75623 |
-| [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) | Classic Shell Reborn. | C++ | 9179 |
+| [redis/redis](https://github.com/redis/redis) | For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine. | C | 75618 |
+| [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) | Classic Shell Reborn. | C++ | 9184 |
 | [Zer0-bit/gaggiuino](https://github.com/Zer0-bit/gaggiuino) | A Gaggia Classic control project using microcontrollers. |  | 2624 |
-| [TailGrids/tailgrids](https://github.com/TailGrids/tailgrids) | Open-source React UI library built with Tailwind CSS. Production-ready components, blocks, and templates to help you build modern, accessible web apps faster. | TypeScript | 1614 |
+| [TailGrids/tailgrids](https://github.com/TailGrids/tailgrids) | Open-source React UI library built with Tailwind CSS. Production-ready components, blocks, and templates to help you build modern, accessible web apps faster. | TypeScript | 1616 |
 | [rururu/ClojureMiniIDE](https://github.com/rururu/ClojureMiniIDE) | A minimalistic integrated development environment for the Clojure programming language. | C++ | 33 |
-| [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) | A simple zero-config tool to make locally trusted development certificates with any names you'd like. | Go | 59350 |
+| [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) | A simple zero-config tool to make locally trusted development certificates with any names you'd like. | Go | 59357 |
 | [Kimbsy/clunk](https://github.com/Kimbsy/clunk) | Clojure game engine built using LWJGL | Clojure | 11 |
-| [rendercv/rendercv](https://github.com/rendercv/rendercv) | Resume builder for academics and engineers | Python | 17173 |
+| [rendercv/rendercv](https://github.com/rendercv/rendercv) | Resume builder for academics and engineers | Python | 17186 |
 | [travisghansen/argo-cd-helmfile](https://github.com/travisghansen/argo-cd-helmfile) | Integration between argo-cd and helmfile | Shell | 266 |
-| [jscad/OpenJSCAD.org](https://github.com/jscad/OpenJSCAD.org) | JSCAD is an open source set of modular, browser and command line tools for creating parametric 2D and 3D designs with JavaScript code. It provides a quick, precise and reproducible method for generating 3D models, and is especially useful for creating ready-to-print 3D designs. | JavaScript | 3209 |
+| [jscad/OpenJSCAD.org](https://github.com/jscad/OpenJSCAD.org) | JSCAD is an open source set of modular, browser and command line tools for creating parametric 2D and 3D designs with JavaScript code. It provides a quick, precise and reproducible method for generating 3D models, and is especially useful for creating ready-to-print 3D designs. | JavaScript | 3210 |
 | [monkey-projects/monkeyci](https://github.com/monkey-projects/monkeyci) | Next-generation CI/CD tool that uses the full power of Clojure! | Clojure | 45 |
 | [uncomplicate/diamond-onnxrt](https://github.com/uncomplicate/diamond-onnxrt) | Fast Clojure Machine Learning Model Integration | Clojure | 25 |
-| [tonsky/clj-simple-stats](https://github.com/tonsky/clj-simple-stats) | Simple statistics for Clojure/Ring webapps | Clojure | 79 |
+| [tonsky/clj-simple-stats](https://github.com/tonsky/clj-simple-stats) | Simple statistics for Clojure/Ring webapps | Clojure | 80 |
 | [roman01la/ps1ender](https://github.com/roman01la/ps1ender) | Retro 3D Graphics Editor | TypeScript | 1 |
 | [maxweber/dbval](https://github.com/maxweber/dbval) | A Datomic-like database library on top of Sqlite | Clojure | 47 |
 | [camsaul/toucan2](https://github.com/camsaul/toucan2) | Successor library to Toucan with a modern and more-extensible API, more consistent behavior, and support for different backends including non-JDBC databases and non-HoneySQL queries. Currently in active beta. | Clojure | 119 |
 | [uroni/hs5](https://github.com/uroni/hs5) | High-performance scale-up self-hosted s3-compatible object storage (hs5) | C++ | 171 |
-| [rustfs/rustfs](https://github.com/rustfs/rustfs) | 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. | Rust | 30068 |
+| [rustfs/rustfs](https://github.com/rustfs/rustfs) | 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. | Rust | 30111 |
 | [hexagonal-sun/moss-kernel](https://github.com/hexagonal-sun/moss-kernel) | Rust Linux-compatible kernel | Rust | 1953 |
 | [Cobenian/shai-hulud-detect](https://github.com/Cobenian/shai-hulud-detect) | A simple project to detect the Shai-Hulud npm supply chain attack | Shell | 388 |
-| [MCCTeam/Minecraft-Console-Client](https://github.com/MCCTeam/Minecraft-Console-Client) | Lightweight console for Minecraft chat and automated scripts. Currently supports up to Minecraft 26.1 | C# | 2083 |
+| [MCCTeam/Minecraft-Console-Client](https://github.com/MCCTeam/Minecraft-Console-Client) | Lightweight console for Minecraft chat and automated scripts. Currently supports up to Minecraft 26.1 | C# | 2085 |
 | [lingy-lang/lingy](https://github.com/lingy-lang/lingy) |  | Perl | 44 |
 | [medusajs/medusa-starter-default](https://github.com/medusajs/medusa-starter-default) |  | TypeScript | 202 |
-| [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) | ⚠️ Browser fingerprinting via favicon! | HTML | 7365 |
-| [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know about |  | 100138 |
+| [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) | ⚠️ Browser fingerprinting via favicon! | HTML | 7366 |
+| [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know about |  | 100140 |
 | [andersmurphy/hyperlith](https://github.com/andersmurphy/hyperlith) | Hyperlith: the hypermedia based monolith | Clojure | 229 |
 | [bigconfig-ai/big-config](https://github.com/bigconfig-ai/big-config) | The first agentic package manager. | TypeScript | 58 |
-| [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | C | 146124 |
+| [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | C | 146191 |
 | [duct-framework/duct-framework.github.io](https://github.com/duct-framework/duct-framework.github.io) | Source code for the Duct Framework site | HTML | 5 |
 | [chr15m/sidlive](https://github.com/chr15m/sidlive) | Live-coding c64 SID 6581 music in ClojureScript | Clojure | 2 |
 | [fluxcd/image-automation-controller](https://github.com/fluxcd/image-automation-controller) | GitOps Toolkit controller that patches container image tags in Git | Go | 204 |
@@ -187,48 +188,48 @@
 | [mpenet/legba](https://github.com/mpenet/legba) | Clojure library for building OpenAPI services | Clojure | 39 |
 | [itsfrank/MinecraftHDL](https://github.com/itsfrank/MinecraftHDL) | A Verilog synthesis flow for Minecraft redstone circuits | SystemVerilog | 1567 |
 | [unravel-team/litellm-clj](https://github.com/unravel-team/litellm-clj) | A universal translator for LLM models | Clojure | 49 |
-| [luanti-org/luanti](https://github.com/luanti-org/luanti) | Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation | C++ | 13320 |
+| [luanti-org/luanti](https://github.com/luanti-org/luanti) | Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation | C++ | 13329 |
 | [latacora/replik8s](https://github.com/latacora/replik8s) | A modern open-source Kubernetes auditing and investigation tool | Clojure | 22 |
-| [longbridge/gpui-component](https://github.com/longbridge/gpui-component) | Rust GUI components for building fantastic cross-platform desktop application by using GPUI. | Rust | 12195 |
+| [longbridge/gpui-component](https://github.com/longbridge/gpui-component) | Rust GUI components for building fantastic cross-platform desktop application by using GPUI. | Rust | 12208 |
 | [duct-framework/main](https://github.com/duct-framework/main) |  | Clojure | 6 |
-| [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator) | NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes | Go | 2797 |
+| [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator) | NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes | Go | 2801 |
 | [uzhne/alabaster-emacs](https://github.com/uzhne/alabaster-emacs) | Alabaster theme for emacs. | Emacs Lisp | 27 |
 | [bigskysoftware/idiomorph](https://github.com/bigskysoftware/idiomorph) | A DOM-merging algorithm | HTML | 1104 |
-| [servo/servo](https://github.com/servo/servo) | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. | Rust | 37458 |
+| [servo/servo](https://github.com/servo/servo) | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. | Rust | 37465 |
 | [fmnoise/flow](https://github.com/fmnoise/flow) | Functional (and opinionated) errors handling in Clojure | Clojure | 249 |
-| [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | Bootstrap Kubernetes the hard way. No scripts. |  | 49190 |
+| [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | Bootstrap Kubernetes the hard way. No scripts. |  | 49206 |
 | [paintparty/fireworks](https://github.com/paintparty/fireworks) | Live Code library for Clojure, ClojureScript, and Babashka. | Clojure | 110 |
 | [oantolin/embark](https://github.com/oantolin/embark) | Emacs Mini-Buffer Actions Rooted in Keymaps | Emacs Lisp | 1213 |
-| [hunvreus/devpush](https://github.com/hunvreus/devpush) | Like Vercel, but open source and for all languages. | Python | 4727 |
+| [hunvreus/devpush](https://github.com/hunvreus/devpush) | Like Vercel, but open source and for all languages. | Python | 4724 |
 | [lone-lang/lone](https://github.com/lone-lang/lone) | The standalone Linux Lisp | C | 415 |
 | [FyshOS/tyde](https://github.com/FyshOS/tyde) | A full desktop environment for Linux/Unix using Fyne | Go | 1484 |
 | [apache/servicemix](https://github.com/apache/servicemix) | Apache ServiceMix | Java | 170 |
-| [QwenLM/Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni) | Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time. | Jupyter Notebook | 3900 |
+| [QwenLM/Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni) | Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time. | Jupyter Notebook | 3902 |
 | [pedestal/pedestal-docs](https://github.com/pedestal/pedestal-docs) | Documentation for Pedestal. | HTML | 42 |
 | [protesilaos/emacs-lisp-elements](https://github.com/protesilaos/emacs-lisp-elements) | A book that provides a big picture view of the Emacs Lisp programming language. |  | 270 |
 | [wedesoft/sfsim](https://github.com/wedesoft/sfsim) | Space flight simulator (under development) | Clojure | 91 |
-| [orbitersim/orbiter](https://github.com/orbitersim/orbiter) | Open-source repository of Orbiter Space Flight Simulator | C++ | 1953 |
+| [orbitersim/orbiter](https://github.com/orbitersim/orbiter) | Open-source repository of Orbiter Space Flight Simulator | C++ | 1954 |
 | [chr15m/ai-context](https://github.com/chr15m/ai-context) | My AI context files | Python | 12 |
 | [kazetaos/kazeta](https://github.com/kazetaos/kazeta) | Retro 90s style gaming operating system | Rust | 681 |
 | [snjypl/airflow-provider-grafana-loki](https://github.com/snjypl/airflow-provider-grafana-loki) | Airflow Provider plugin for writing and reading task logs to and from Grafana Loki | Python | 32 |
 | [orispok/OpenAnimationApp](https://github.com/orispok/OpenAnimationApp) | Discover beautiful Lottie animations powered by Kotlin Multiplatform. | Kotlin | 375 |
-| [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) | Quick deployment, distributed, multi-user, modern management panel for Minecraft and Steam game servers  /  快速安装，分布式架构，多用户销售，现代化的 Minecraft 和 Steam 游戏服务器管理面板 | TypeScript | 4862 |
-| [pufferpanel/pufferpanel](https://github.com/pufferpanel/pufferpanel) | PufferPanel is an open source game server management panel, designed for both small networks and personal use | Go | 1718 |
-| [lewish/asciiflow](https://github.com/lewish/asciiflow) | ASCIIFlow | TypeScript | 5815 |
+| [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) | Quick deployment, distributed, multi-user, modern management panel for Minecraft and Steam game servers  /  快速安装，分布式架构，多用户销售，现代化的 Minecraft 和 Steam 游戏服务器管理面板 | TypeScript | 4868 |
+| [pufferpanel/pufferpanel](https://github.com/pufferpanel/pufferpanel) | PufferPanel is an open source game server management panel, designed for both small networks and personal use | Go | 1719 |
+| [lewish/asciiflow](https://github.com/lewish/asciiflow) | ASCIIFlow | TypeScript | 5816 |
 | [chr15m/eucalypt](https://github.com/chr15m/eucalypt) | Tiny Reagent-compatible-ish Squint-cljs UIs with no React | Clojure | 70 |
 | [timothypratley/scittle-kitchen](https://github.com/timothypratley/scittle-kitchen) | Plugins for Scittle | Clojure | 9 |
 | [cjohansen/nexus](https://github.com/cjohansen/nexus) | Data-driven action dispatch for Clojure(Script): Build systems that are easier to test, observe, and extend | Clojure | 119 |
 | [brianium/datastar.wow](https://github.com/brianium/datastar.wow) | A data-oriented approach to Datastar using the official SDK and Nexus. Wow! | Clojure | 55 |
 | [piglet-lang/piglet-emacs](https://github.com/piglet-lang/piglet-emacs) |  | Emacs Lisp | 3 |
 | [chr15m/awesome-clojure-likes](https://github.com/chr15m/awesome-clojure-likes) | Curated list of Clojure-like programming languages. | Shell | 265 |
-| [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | The financial transactions database designed for mission critical safety and performance. | Zig | 16613 |
-| [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) | YugabyteDB - the cloud native distributed SQL database for mission-critical applications. | C | 10423 |
+| [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | The financial transactions database designed for mission critical safety and performance. | Zig | 16623 |
+| [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) | YugabyteDB - the cloud native distributed SQL database for mission-critical applications. | C | 10422 |
 | [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) | 📋 Creating your own Awesome List of GitHub stars!  | JavaScript | 503 |
 | [nubank/matcher-combinators](https://github.com/nubank/matcher-combinators) | Library for creating matcher combinator to compare nested data structures | Clojure | 543 |
-| [qarmin/czkawka](https://github.com/qarmin/czkawka) | Multi functional app to find duplicates, empty folders, similar images etc. | Fluent | 32213 |
-| [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) | Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data | Python | 5671 |
-| [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) | Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.) |  | 9025 |
-| [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) | PixiEditor is a Universal Editor for all your 2D needs | C# | 7892 |
+| [qarmin/czkawka](https://github.com/qarmin/czkawka) | Multi functional app to find duplicates, empty folders, similar images etc. | Fluent | 32234 |
+| [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) | Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data | Python | 5677 |
+| [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) | Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.) |  | 9030 |
+| [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) | PixiEditor is a Universal Editor for all your 2D needs | C# | 7891 |
 | [editor-code-assistant/eca-emacs](https://github.com/editor-code-assistant/eca-emacs) | Editor Code Assistant (ECA) integration for Emacs | Emacs Lisp | 470 |
 | [unravel-team/mcp-clojure-sdk](https://github.com/unravel-team/mcp-clojure-sdk) | A Clojure SDK to create MCP servers (and eventually clients) | Clojure | 62 |
 | [metosin/mcp-toolkit](https://github.com/metosin/mcp-toolkit) | a lib to build MCP clients and MCP servers in Clojure(script) | Clojure | 39 |
@@ -236,123 +237,123 @@
 | [cuberite/cuberite](https://github.com/cuberite/cuberite) | A lightweight, fast and extensible game server for Minecraft | C++ | 5422 |
 | [chr15m/scittle-template-2d-game](https://github.com/chr15m/scittle-template-2d-game) | Scittle ClojureScript starter template for 2d games using reagent | Clojure | 2 |
 | [theronic/eacl](https://github.com/theronic/eacl) | 🦅 EACL: Enterprise Access ControL is a ReBAC Authorization system based on SpiceDB, built in Clojure and backed by Datomic | Clojure | 86 |
-| [themactep/thingino-firmware](https://github.com/themactep/thingino-firmware) | Open-source firmware for Ingenic SoC IP cameras | Shell | 1797 |
-| [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) | NVR with realtime local object detection for IP cameras | TypeScript | 34472 |
-| [editor-code-assistant/eca](https://github.com/editor-code-assistant/eca) | Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor | Clojure | 924 |
+| [themactep/thingino-firmware](https://github.com/themactep/thingino-firmware) | Open-source firmware for Ingenic SoC IP cameras | Shell | 1799 |
+| [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) | NVR with realtime local object detection for IP cameras | TypeScript | 34496 |
+| [editor-code-assistant/eca](https://github.com/editor-code-assistant/eca) | Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor | Clojure | 956 |
 | [trykimu/videoeditor](https://github.com/trykimu/videoeditor) | Your Creative Copilot for Video Editing | TypeScript | 2138 |
-| [9001/copyparty](https://github.com/9001/copyparty) | Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file | Python | 45788 |
+| [9001/copyparty](https://github.com/9001/copyparty) | Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file | Python | 45815 |
 | [sebkur/forceterm](https://github.com/sebkur/forceterm) | Fully featured terminal based on jediterm | Java | 66 |
-| [sigstore/cosign](https://github.com/sigstore/cosign) | Code signing and transparency for containers and binaries | Go | 6146 |
+| [sigstore/cosign](https://github.com/sigstore/cosign) | Code signing and transparency for containers and binaries | Go | 6148 |
 | [DomeQdev/zbiorkom.live](https://github.com/DomeQdev/zbiorkom.live) | source code of the best public transport app in poland | TypeScript | 124 |
 | [chr15m/cljs-minecraft-websocket](https://github.com/chr15m/cljs-minecraft-websocket) | Minecraft ClojureScript websocket repl | Clojure | 6 |
 | [darkleaf/di](https://github.com/darkleaf/di) | DI is a dependency injection framework that allows you to define dependencies as cheaply as defining function arguments. | Clojure | 57 |
-| [skeeto/endlessh](https://github.com/skeeto/endlessh) | SSH tarpit that slowly sends an endless banner | C | 8497 |
-| [siderolabs/talos](https://github.com/siderolabs/talos) | Talos Linux is a modern Linux distribution built for Kubernetes. | Go | 10808 |
-| [k0sproject/k0s](https://github.com/k0sproject/k0s) | k0s - The Zero Friction Kubernetes | Go | 6354 |
+| [skeeto/endlessh](https://github.com/skeeto/endlessh) | SSH tarpit that slowly sends an endless banner | C | 8495 |
+| [siderolabs/talos](https://github.com/siderolabs/talos) | Talos Linux is a modern Linux distribution built for Kubernetes. | Go | 10813 |
+| [k0sproject/k0s](https://github.com/k0sproject/k0s) | k0s - The Zero Friction Kubernetes | Go | 6382 |
 | [instrumenta/kubernetes-json-schema](https://github.com/instrumenta/kubernetes-json-schema) | Schemas for every version of every object in every version of Kubernetes |  | 337 |
 | [xmlui-org/xmlui](https://github.com/xmlui-org/xmlui) | A framework for building user interfaces declaratively, with XML markup and flexible theming | TypeScript | 213 |
 | [bhauman/clojure-mcp](https://github.com/bhauman/clojure-mcp) | Clojure MCP | Clojure | 770 |
 | [lk-geimfari/secrets.clj](https://github.com/lk-geimfari/secrets.clj) | A library designed to generate cryptographically strong random numbers suitable for managing data such as passwords, account authentication, security tokens, and related secrets. | Clojure | 98 |
-| [aws/pgactive](https://github.com/aws/pgactive) |  | C | 1103 |
+| [aws/pgactive](https://github.com/aws/pgactive) |  | C | 1104 |
 | [beakman/medusa-stack-dockerized](https://github.com/beakman/medusa-stack-dockerized) | 🪼 + 🐋 = ❤️ | JavaScript | 78 |
 | [binshops/prestashop-rest](https://github.com/binshops/prestashop-rest) | PrestaShop REST API module to expose your PrestaShop website's REST endpoints. Compatible with PrestaShop 9 and lower versions. | PHP | 108 |
 | [antrea-io/antrea](https://github.com/antrea-io/antrea) | Kubernetes networking based on Open vSwitch | Go | 1806 |
-| [saleor/saleor](https://github.com/saleor/saleor) | Saleor Core: the high performance, composable, headless commerce API. | Python | 23121 |
+| [saleor/saleor](https://github.com/saleor/saleor) | Saleor Core: the high performance, composable, headless commerce API. | Python | 23125 |
 | [rpuls/medusajs-2.0-for-railway-boilerplate](https://github.com/rpuls/medusajs-2.0-for-railway-boilerplate) | Monorepo including medusajs 2.0 backend and storefront | TypeScript | 227 |
 | [jaspreet237/MedusajsV2](https://github.com/jaspreet237/MedusajsV2) | my-medusa-store V2 | TypeScript | 3 |
-| [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | bluetooth mesh chat, IRC vibes | Swift | 26166 |
-| [n8n-io/n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | TypeScript | 197384 |
+| [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | bluetooth mesh chat, IRC vibes | Swift | 26174 |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | TypeScript | 197520 |
 | [markmanx/isoflow](https://github.com/markmanx/isoflow) |  | TypeScript | 1406 |
 | [wevre/transit-cljd](https://github.com/wevre/transit-cljd) | Transit for ClojureDart | Clojure | 10 |
 | [wevre/transit-dart](https://github.com/wevre/transit-dart) | Transit for Dart | Dart | 6 |
-| [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) | a truly censorship-resistant alternative to Twitter that has a chance of working |  | 11479 |
+| [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) | a truly censorship-resistant alternative to Twitter that has a chance of working |  | 11505 |
 | [cjohansen/lookup](https://github.com/cjohansen/lookup) | Find content of interest in hiccup data | Clojure | 50 |
 | [ebourg/jsign](https://github.com/ebourg/jsign) | Java implementation of Microsoft Authenticode for signing Windows executables, installers & scripts | Java | 404 |
 | [traccar/traccar-client](https://github.com/traccar/traccar-client) | Traccar Client app | Dart | 165 |
 | [traccar/traccar-manager-android](https://github.com/traccar/traccar-manager-android) | Traccar Manager for Android | Kotlin | 316 |
-| [traccar/traccar-web](https://github.com/traccar/traccar-web) | Traccar GPS Tracking System | JavaScript | 1139 |
+| [traccar/traccar-web](https://github.com/traccar/traccar-web) | Traccar GPS Tracking System | JavaScript | 1140 |
 | [traccar/traccar](https://github.com/traccar/traccar) | Traccar GPS Tracking System | Java | 7513 |
 | [templui/templui](https://github.com/templui/templui) | A growing collection of beautifully designed UI components for Go and templ. Install via CLI. Customize everything. Own your code. | templ | 1626 |
 | [argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin) | An Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes secrets | Go | 971 |
-| [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) | An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime. | Rust | 5404 |
-| [microsoft/edit](https://github.com/microsoft/edit) | We all edit. | Rust | 14400 |
-| [medusajs/medusa](https://github.com/medusajs/medusa) | The world's most flexible commerce platform. | TypeScript | 35281 |
-| [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) | The fastest way to create an HTML app | Jupyter Notebook | 6966 |
+| [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) | An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime. | Rust | 5407 |
+| [microsoft/edit](https://github.com/microsoft/edit) | We all edit. | Rust | 14405 |
+| [medusajs/medusa](https://github.com/medusajs/medusa) | The world's most flexible commerce platform. | TypeScript | 35295 |
+| [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) | The fastest way to create an HTML app | Jupyter Notebook | 6964 |
 | [PaulleDemon/PyUIBuilder](https://github.com/PaulleDemon/PyUIBuilder) | Python GUI builder. GUI builder for Tkinter, CustomTkinter, Kivy(upcoming) and PySide  | JavaScript | 2476 |
 | [SouthwestAir/queryblast](https://github.com/SouthwestAir/queryblast) | Enable openCypher queries to AWS Neptune graph databases from Babashka or YAMLscript projects | TypeScript | 11 |
 | [vvvvalvalval/datomock](https://github.com/vvvvalvalval/datomock) | Mocking and forking Datomic Peer connections in-memory. | Clojure | 133 |
 | [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) | Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Run anywhere - desktop, cluster, docker. | Go | 1748 |
-| [axllent/mailpit](https://github.com/axllent/mailpit) | An email and SMTP testing tool with API for developers | Go | 9918 |
+| [axllent/mailpit](https://github.com/axllent/mailpit) | An email and SMTP testing tool with API for developers | Go | 9923 |
 | [BroadleafCommerce/BroadleafCommerce](https://github.com/BroadleafCommerce/BroadleafCommerce) | Broadleaf Commerce CE - an eCommerce framework based on Java and Spring | Java | 1911 |
-| [valkey-io/valkey](https://github.com/valkey-io/valkey) | A flexible distributed key-value database that is optimized for caching and other realtime workloads. | C | 26575 |
+| [valkey-io/valkey](https://github.com/valkey-io/valkey) | A flexible distributed key-value database that is optimized for caching and other realtime workloads. | C | 26583 |
 | [gfredericks/test.chuck](https://github.com/gfredericks/test.chuck) | A utility library for test.check | Clojure | 224 |
 | [bsless/more.async](https://github.com/bsless/more.async) | A small library to do more stuff with core.async | Clojure | 72 |
 | [ctford/traversy](https://github.com/ctford/traversy) | Multilenses for Clojure | Clojure | 149 |
 | [clojure/core.async.flow-monitor](https://github.com/clojure/core.async.flow-monitor) | A real-time monitoring and interaction tool for clojure.core.async.flow | Clojure | 82 |
-| [alpinejs/alpine](https://github.com/alpinejs/alpine) | A rugged, minimal framework for composing JavaScript behavior in your markup.  | HTML | 31789 |
-| [unpoly/unpoly](https://github.com/unpoly/unpoly) | Progressive enhancement for HTML | JavaScript | 2762 |
+| [alpinejs/alpine](https://github.com/alpinejs/alpine) | A rugged, minimal framework for composing JavaScript behavior in your markup.  | HTML | 31794 |
+| [unpoly/unpoly](https://github.com/unpoly/unpoly) | Progressive enhancement for HTML | JavaScript | 2763 |
 | [bigskysoftware/fixi](https://github.com/bigskysoftware/fixi) |  | HTML | 1294 |
 | [dadav/helm-schema](https://github.com/dadav/helm-schema) | Generate jsonschemas from helm charts. | Go | 276 |
-| [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest) | Write tests against structured configuration data using the Open Policy Agent Rego query language | Go | 3224 |
-| [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library | Svelte | 41755 |
+| [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest) | Write tests against structured configuration data using the Open Policy Agent Rego query language | Go | 3225 |
+| [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library | Svelte | 41770 |
 | [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) | Community-maintained Kubernetes config and Helm chart for Langfuse | Go Template | 263 |
-| [abogoyavlensky/clojure-stack-lite](https://github.com/abogoyavlensky/clojure-stack-lite) | 🪶A quick way to start a full-stack Clojure app with Server-side Rendering. Built on SQLite/PostgreSQL, HTMX, AlpineJS and TailwindCSS v4 | Clojure | 87 |
-| [starfederation/datastar](https://github.com/starfederation/datastar) | The hypermedia framework. | TypeScript | 4654 |
+| [abogoyavlensky/clojure-stack-lite](https://github.com/abogoyavlensky/clojure-stack-lite) | 🪶A quick way to start a full-stack Clojure app with Server-side Rendering. Built on SQLite/PostgreSQL, HTMX, AlpineJS and TailwindCSS v4 | Clojure | 88 |
+| [starfederation/datastar](https://github.com/starfederation/datastar) | The hypermedia framework. | TypeScript | 4659 |
 | [domino-clj/domino-ui](https://github.com/domino-clj/domino-ui) | UI component library for Domino | Clojure | 10 |
 | [gersak/toddler](https://github.com/gersak/toddler) | UI library based on lilactown/helix and shadow-css libraries | Clojure | 28 |
 | [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) | Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns. | TypeScript | 2710 |
 | [theronic/modex](https://github.com/theronic/modex) | Modex is a Clojure MCP Library to augment your AI models with Tools, Resources & Prompts using Clojure (Model Context Protocol). Implements MCP Server & Client. | Clojure | 117 |
-| [vitejs/vite](https://github.com/vitejs/vite) | Next generation frontend tooling. It's fast! | TypeScript | 82019 |
-| [LionyxML/emacs-solo](https://github.com/LionyxML/emacs-solo) | A Pure Emacs (no external packages) IDE like configuration. | Emacs Lisp | 561 |
-| [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations. | Go | 29896 |
+| [vitejs/vite](https://github.com/vitejs/vite) | Next generation frontend tooling. It's fast! | TypeScript | 82035 |
+| [LionyxML/emacs-solo](https://github.com/LionyxML/emacs-solo) | A Pure Emacs (no external packages) IDE like configuration. | Emacs Lisp | 562 |
+| [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations. | Go | 29916 |
 | [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) | PrestaShop is the universal open-source software platform to build your e-commerce solution. | PHP | 9163 |
-| [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) | SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility. | C# | 4362 |
-| [Aider-AI/aider](https://github.com/Aider-AI/aider) | aider is AI pair programming in your terminal | Python | 47592 |
+| [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) | SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility. | C# | 4365 |
+| [Aider-AI/aider](https://github.com/Aider-AI/aider) | aider is AI pair programming in your terminal | Python | 47620 |
 | [smparsons/retroboy](https://github.com/smparsons/retroboy) | A Game Boy emulator written in Rust. | Rust | 1038 |
-| [FiloSottile/age](https://github.com/FiloSottile/age) | A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. | Go | 22958 |
-| [beego/beego](https://github.com/beego/beego) | beego is an open-source, high-performance web framework for the Go programming language. | Go | 32408 |
+| [FiloSottile/age](https://github.com/FiloSottile/age) | A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. | Go | 22971 |
+| [beego/beego](https://github.com/beego/beego) | beego is an open-source, high-performance web framework for the Go programming language. | Go | 32409 |
 | [theronic/datomic-mcp](https://github.com/theronic/datomic-mcp) | Datomic MCP Server so your AI model can query your database (uses Modex MCP library) | Clojure | 26 |
-| [Safe3/uusec-waf](https://github.com/Safe3/uusec-waf) | Industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF. | Shell | 1678 |
+| [Safe3/uusec-waf](https://github.com/Safe3/uusec-waf) | Industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF. | Shell | 1677 |
 | [cubing/cubing.js](https://github.com/cubing/cubing.js) | 🛠 A library for displaying and working with twisty puzzles. Also currently home to the code for Twizzle. | TypeScript | 344 |
 | [kaepr/cljcc](https://github.com/kaepr/cljcc) | Toy C compiler implemented in Clojure | Clojure | 10 |
 | [albersola/airo](https://github.com/albersola/airo) | Deploy your projects from local to your production VPS. | Go | 518 |
 | [Mooncake-Labs/pg_mooncake](https://github.com/Mooncake-Labs/pg_mooncake) | Real-time analytics on Postgres tables | Rust | 1989 |
 | [brianium/blah](https://github.com/brianium/blah) | A library for working with microphones in ClojureScript | Clojure | 16 |
 | [rpub-clj/rpub](https://github.com/rpub-clj/rpub) | A free open-source CMS written in Clojure. | JavaScript | 62 |
-| [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) | An Open Source YouTube app for privacy | Vue | 21508 |
-| [thonny/thonny](https://github.com/thonny/thonny) | Python IDE for beginners | Python | 3882 |
+| [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) | An Open Source YouTube app for privacy | Vue | 21513 |
+| [thonny/thonny](https://github.com/thonny/thonny) | Python IDE for beginners | Python | 3883 |
 | [kelsey-sorrels/zaffre](https://github.com/kelsey-sorrels/zaffre) | A fast clojure console library | Clojure | 111 |
 | [dmiller/go-seq](https://github.com/dmiller/go-seq) | Port of Clojure's persistent immutable collections to Go | Go | 12 |
-| [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun) | An open source, cross-platform, extensible app launcher. | TypeScript | 1297 |
-| [wailsapp/wails](https://github.com/wailsapp/wails) | Create beautiful applications using Go | Go | 35290 |
-| [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System - Server Backend & API | C# | 54523 |
+| [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun) | An open source, cross-platform, extensible app launcher. | TypeScript | 1295 |
+| [wailsapp/wails](https://github.com/wailsapp/wails) | Create beautiful applications using Go | Go | 35301 |
+| [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System - Server Backend & API | C# | 54576 |
 | [roman01la/uix-cloudflare-template](https://github.com/roman01la/uix-cloudflare-template) | Template project with UIx web app hosted on Cloudflare workers with REST API served from Cloudflare D1 (SQLite) | Clojure | 28 |
-| [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) | Simple, modern and fast file watching and code reload for Python, written in Rust | Python | 2519 |
+| [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) | Simple, modern and fast file watching and code reload for Python, written in Rust | Python | 2518 |
 | [brettatoms/zodiac](https://github.com/brettatoms/zodiac) | A simple web framework for Clojure | Clojure | 128 |
-| [kubernetes-client/python](https://github.com/kubernetes-client/python) | Official Python client library for kubernetes | Python | 7624 |
-| [monasticacademy/httptap](https://github.com/monasticacademy/httptap) | View HTTP/HTTPS requests made by any Linux program | Go | 4165 |
-| [tonsky/clojure-plus](https://github.com/tonsky/clojure-plus) | A project to improve experience of using Clojure stdlib | Clojure | 217 |
-| [cloudflare/cfssl](https://github.com/cloudflare/cfssl) | CFSSL: Cloudflare's PKI and TLS toolkit | Go | 9453 |
-| [johanhaleby/kubetail](https://github.com/johanhaleby/kubetail) | Bash script to tail Kubernetes logs from multiple pods at the same time | Shell | 3489 |
-| [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) | Woodpecker is a simple, yet powerful CI/CD engine with great extensibility. | Go | 7485 |
-| [clojure/core.async](https://github.com/clojure/core.async) | Facilities for async programming and communication in Clojure | Clojure | 2049 |
+| [kubernetes-client/python](https://github.com/kubernetes-client/python) | Official Python client library for kubernetes | Python | 7626 |
+| [monasticacademy/httptap](https://github.com/monasticacademy/httptap) | View HTTP/HTTPS requests made by any Linux program | Go | 4164 |
+| [tonsky/clojure-plus](https://github.com/tonsky/clojure-plus) | A project to improve experience of using Clojure stdlib | Clojure | 218 |
+| [cloudflare/cfssl](https://github.com/cloudflare/cfssl) | CFSSL: Cloudflare's PKI and TLS toolkit | Go | 9452 |
+| [johanhaleby/kubetail](https://github.com/johanhaleby/kubetail) | Bash script to tail Kubernetes logs from multiple pods at the same time | Shell | 3488 |
+| [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) | Woodpecker is a simple, yet powerful CI/CD engine with great extensibility. | Go | 7489 |
+| [clojure/core.async](https://github.com/clojure/core.async) | Facilities for async programming and communication in Clojure | Clojure | 2050 |
 | [jaredkrinke/100-languages](https://github.com/jaredkrinke/100-languages) | Solving the first 100 Project Euler problems using 100 different programming languages! | TypeScript | 240 |
-| [edubart/nelua-lang](https://github.com/edubart/nelua-lang) | Minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code. | Lua | 2398 |
-| [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) | A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers. | Go | 14697 |
+| [edubart/nelua-lang](https://github.com/edubart/nelua-lang) | Minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code. | Lua | 2397 |
+| [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) | A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers. | Go | 14702 |
 | [cjohansen/replicant-docs](https://github.com/cjohansen/replicant-docs) | Documentation website for Replicant | Clojure | 6 |
 | [hazelgrove/hazel](https://github.com/hazelgrove/hazel) | Hazel, a live functional programming environment with typed holes | Reason | 1121 |
-| [nocodb/nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative | TypeScript | 64198 |
-| [mantinedev/mantine](https://github.com/mantinedev/mantine) | A fully featured React components library | TypeScript | 31467 |
-| [louis-e/arnis](https://github.com/louis-e/arnis) | Generate any location from the real world in Minecraft with a high level of detail. | Rust | 17070 |
-| [tursodatabase/turso](https://github.com/tursodatabase/turso) | A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases. | Rust | 23316 |
+| [nocodb/nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative | TypeScript | 64216 |
+| [mantinedev/mantine](https://github.com/mantinedev/mantine) | A fully featured React components library | TypeScript | 31468 |
+| [louis-e/arnis](https://github.com/louis-e/arnis) | Generate any location from the real world in Minecraft with a high level of detail. | Rust | 17078 |
+| [tursodatabase/turso](https://github.com/tursodatabase/turso) | A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases. | Rust | 23354 |
 | [psanford/wormhole-william](https://github.com/psanford/wormhole-william) | End-to-end encrypted file transfer. A magic wormhole CLI and API in Go (golang). | Go | 1241 |
 | [metosin/signaali](https://github.com/metosin/signaali) | A small, portable & flexible implementation of lazy signals | Clojure | 91 |
 | [domkm/silk](https://github.com/domkm/silk) | Routing for Clojure & ClojureScript | Clojure | 224 |
-| [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. | Zig | 58482 |
+| [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. | Zig | 58539 |
 | [btco/panda](https://github.com/btco/panda) | A panda platformer game | Lua | 60 |
 | [btco/qx82](https://github.com/btco/qx82) | Tiny Javascript engine for retro games | JavaScript | 437 |
 | [btco/so12l](https://github.com/btco/so12l) | Shadow Over the Twelve Lands, a retro CRPG | Lua | 50 |
-| [kitao/pyxel](https://github.com/kitao/pyxel) | A retro game engine for Python | Rust | 17604 |
+| [kitao/pyxel](https://github.com/kitao/pyxel) | A retro game engine for Python | Rust | 17608 |
 | [cjohansen/m1p](https://github.com/cjohansen/m1p) | Map interpolation and DIY i18n/theming toolkit | Clojure | 38 |
 | [timothypratley/clayva](https://github.com/timothypratley/clayva) | A VS Code Extension for using Clay to show Kindly visualizations in a webview | Clojure | 3 |
 | [magnars/multiple-cursors.el](https://github.com/magnars/multiple-cursors.el) | Multiple cursors for emacs. | Emacs Lisp | 2529 |
@@ -360,7 +361,7 @@
 | [fluxcd/flux2-multi-tenancy](https://github.com/fluxcd/flux2-multi-tenancy) | Manage multi-tenant clusters with Flux |  | 602 |
 | [chr15m/clojurescript-tiny-slides](https://github.com/chr15m/clojurescript-tiny-slides) | Minimal presentation slides for ClojureScript | Clojure | 38 |
 | [glojurelang/glojure](https://github.com/glojurelang/glojure) | Clojure interpreter hosted on Go, with extensible interop support. | Go | 711 |
-| [netbrain/zwift](https://github.com/netbrain/zwift) | Easily zwift on linux | Shell | 648 |
+| [netbrain/zwift](https://github.com/netbrain/zwift) | Easily zwift on linux | Shell | 649 |
 | [neyho/eywa](https://github.com/neyho/eywa) |  | Clojure | 10 |
 | [paintparty/bling](https://github.com/paintparty/bling) | Rich text console printing for Clojure, ClojureScript, and Babashka. | Clojure | 224 |
 | [chr15m/cljs-josh](https://github.com/chr15m/cljs-josh) | Scittle cljs live-reloading server | Clojure | 49 |
@@ -370,76 +371,76 @@
 | [aphyr/less-awful-ssl](https://github.com/aphyr/less-awful-ssl) | Sssh no tears, only TLS now. For Clojure. | Clojure | 159 |
 | [unravel-team/instructor-clj](https://github.com/unravel-team/instructor-clj) | instructor-clj is a Clojure lib to get structured output from LLMs | Clojure | 65 |
 | [openstack/barbican](https://github.com/openstack/barbican) | Barbican is a ReST API designed for the secure storage, provisioning and management of secrets, including in OpenStack environments. Mirror of code maintained at opendev.org. | Python | 249 |
-| [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | VictoriaMetrics: fast, cost-effective monitoring solution and time series database | Go | 17377 |
+| [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | VictoriaMetrics: fast, cost-effective monitoring solution and time series database | Go | 17379 |
 | [moclojer/mockingbird](https://github.com/moclojer/mockingbird) | Our frontend components | Clojure | 5 |
 | [fabiospampinato/cash](https://github.com/fabiospampinato/cash) | An absurdly small jQuery alternative for modern browsers. | JavaScript | 7033 |
 | [roman01la/uix.css](https://github.com/roman01la/uix.css) | CSS-in-CLJS | Clojure | 47 |
 | [oakmac/standard-clojure-style-js](https://github.com/oakmac/standard-clojure-style-js) | Standard Clojure Style in JavaScript | JavaScript | 136 |
-| [openobserve/openobserve](https://github.com/openobserve/openobserve) | Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment. | TypeScript | 20330 |
-| [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) | Continuous Inspection | Java | 10816 |
-| [zellij-org/zellij](https://github.com/zellij-org/zellij) | A terminal workspace with batteries included | Rust | 34422 |
+| [openobserve/openobserve](https://github.com/openobserve/openobserve) | Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment. | TypeScript | 20343 |
+| [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) | Continuous Inspection | Java | 10817 |
+| [zellij-org/zellij](https://github.com/zellij-org/zellij) | A terminal workspace with batteries included | Rust | 34440 |
 | [mvallim/kubernetes-under-the-hood](https://github.com/mvallim/kubernetes-under-the-hood) | This tutorial is someone planning to install a Kubernetes cluster and wants to understand how everything fits together. | Shell | 497 |
 | [pyToshka/vault-autounseal](https://github.com/pyToshka/vault-autounseal) | Auto unseal Hashicorp Vault using Kubernetes secrets  | Python | 49 |
 | [digihunch/korthweb](https://github.com/digihunch/korthweb) | Orthanc on Kubernetes | Smarty | 25 |
 | [JanSuran03/task-scheduler](https://github.com/JanSuran03/task-scheduler) |  | Clojure | 16 |
 | [m3tti/borkweb](https://github.com/m3tti/borkweb) | 🥇 babashka`s first fullstack clojure framework. That works with jvm clojure.  ❗Batteries included❗ | Clojure | 117 |
 | [gimlet-io/capacitor](https://github.com/gimlet-io/capacitor) | A general purpose UI for FluxCD. | TypeScript | 1165 |
-| [tim-koehler/Helm-Intellisense](https://github.com/tim-koehler/Helm-Intellisense) | Extension for Visual Studio Code - Intellisense in helm-templates from the values.yaml | TypeScript | 2291 |
-| [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) | Define Kubernetes native apps and abstractions using object-oriented programming | JavaScript | 4833 |
+| [tim-koehler/Helm-Intellisense](https://github.com/tim-koehler/Helm-Intellisense) | Extension for Visual Studio Code - Intellisense in helm-templates from the values.yaml | TypeScript | 2292 |
+| [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) | Define Kubernetes native apps and abstractions using object-oriented programming | JavaScript | 4834 |
 | [wolfpacs/wolfpacs](https://github.com/wolfpacs/wolfpacs) | WolfPACS is an DICOM load balancer written in Erlang. | Erlang | 14 |
-| [apache/superset](https://github.com/apache/superset) | Apache Superset is a Data Visualization and Data Exploration Platform | Python | 73918 |
+| [apache/superset](https://github.com/apache/superset) | Apache Superset is a Data Visualization and Data Exploration Platform | Python | 73931 |
 | [maplibre/maplibre-react-native](https://github.com/maplibre/maplibre-react-native) | MapLibre React Native – Interactive vector tile maps with MapLibre Native in Expo and React Native supporting Android & iOS. | TypeScript | 634 |
-| [fyne-io/fyne](https://github.com/fyne-io/fyne) | Cross platform GUI toolkit in Go inspired by Material Design | Go | 28505 |
+| [fyne-io/fyne](https://github.com/fyne-io/fyne) | Cross platform GUI toolkit in Go inspired by Material Design | Go | 28512 |
 | [cnlohr/rawdrawandroid](https://github.com/cnlohr/rawdrawandroid) | Build android apps without any java, entirely in C and Make | C | 4294 |
 | [zlwaterfield/scramble](https://github.com/zlwaterfield/scramble) | Open-Source Grammarly Alternative | JavaScript | 1677 |
-| [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) | Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite | C++ | 8078 |
+| [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) | Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite | C++ | 8082 |
 | [Shirakumo/trial](https://github.com/Shirakumo/trial) | A modular Common Lisp game engine | Common Lisp | 1137 |
 | [POV-Ray/povray](https://github.com/POV-Ray/povray) | The Persistence of Vision Raytracer (POV-Ray) | C++ | 1510 |
-| [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) | The JSON Schema specification | JavaScript | 5073 |
+| [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) | The JSON Schema specification | JavaScript | 5074 |
 | [damn/moon](https://github.com/damn/moon) | Action RPG Game | Clojure | 427 |
-| [rxi/microui](https://github.com/rxi/microui) | A tiny immediate-mode UI library | C | 6626 |
+| [rxi/microui](https://github.com/rxi/microui) | A tiny immediate-mode UI library | C | 6639 |
 | [zserge/fenster](https://github.com/zserge/fenster) | The most minimal cross-platform GUI library | C++ | 1541 |
-| [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) | A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition. | Java | 5702 |
+| [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) | A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition. | Java | 5704 |
 | [signalapp/libsignal](https://github.com/signalapp/libsignal) | Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible. | Rust | 5911 |
 | [nebogeo/scheme-bricks](https://github.com/nebogeo/scheme-bricks) | experimental visual programming in scheme for making rave music, uses fluxus | Scheme | 61 |
-| [libsdl-org/SDL](https://github.com/libsdl-org/SDL) | Simple DirectMedia Layer | C | 16148 |
-| [MCreator/MCreator](https://github.com/MCreator/MCreator) | MCreator is an open-source software used to make Minecraft Java Edition mods, Minecraft Bedrock Edition Add-Ons, resource packs, and data packs using an intuitive easy-to-learn interface or with an integrated code editor. It is used worldwide by Minecraft players, aspiring mod developers, for education, online classes, and STEM workshops. | Java | 1179 |
-| [calcom/cal.diy](https://github.com/calcom/cal.diy) | Scheduling infrastructure for absolutely everyone. | TypeScript | 46673 |
-| [qdrant/qdrant](https://github.com/qdrant/qdrant) | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ | Rust | 33482 |
+| [libsdl-org/SDL](https://github.com/libsdl-org/SDL) | Simple DirectMedia Layer | C | 16161 |
+| [MCreator/MCreator](https://github.com/MCreator/MCreator) | MCreator is an open-source software used to make Minecraft Java Edition mods, Minecraft Bedrock Edition Add-Ons, resource packs, and data packs using an intuitive easy-to-learn interface or with an integrated code editor. It is used worldwide by Minecraft players, aspiring mod developers, for education, online classes, and STEM workshops. | Java | 1181 |
+| [calcom/cal.diy](https://github.com/calcom/cal.diy) | Scheduling infrastructure for absolutely everyone. | TypeScript | 46695 |
+| [qdrant/qdrant](https://github.com/qdrant/qdrant) | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ | Rust | 33510 |
 | [lambdaisland/xml-select](https://github.com/lambdaisland/xml-select) | XPath-style selectors for Clojure | Clojure | 15 |
-| [instantdb/instant](https://github.com/instantdb/instant) | Instant is the best backend for AI-coded apps.  You get auth, permissions, storage, presence, and streams — everything you need to ship apps your users will love. | TypeScript | 10358 |
-| [cubefs/cubefs](https://github.com/cubefs/cubefs) | cloud-native distributed storage | Go | 5611 |
-| [veloren/veloren](https://github.com/veloren/veloren) | [mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page. | Rust | 7422 |
+| [instantdb/instant](https://github.com/instantdb/instant) | Instant is the best backend for AI-coded apps.  You get auth, permissions, storage, presence, and streams — everything you need to ship apps your users will love. | TypeScript | 10360 |
+| [cubefs/cubefs](https://github.com/cubefs/cubefs) | cloud-native distributed storage | Go | 5612 |
+| [veloren/veloren](https://github.com/veloren/veloren) | [mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page. | Rust | 7426 |
 | [cubing/AnimCubeJS](https://github.com/cubing/AnimCubeJS) | ▶️ Play around with a Rubik's Cube simulator. | JavaScript | 37 |
 | [pragtical/pragtical](https://github.com/pragtical/pragtical) | The practical and pragmatic code editor. | C | 688 |
 | [mtommila/apfloat](https://github.com/mtommila/apfloat) | Apfloat is a high performance arbitrary precision arithmetic library. | Java | 67 |
-| [pgvector/pgvector](https://github.com/pgvector/pgvector) | Open-source vector similarity search for Postgres | C | 22295 |
-| [immich-app/immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. | TypeScript | 108392 |
+| [pgvector/pgvector](https://github.com/pgvector/pgvector) | Open-source vector similarity search for Postgres | C | 22311 |
+| [immich-app/immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. | TypeScript | 108494 |
 | [tpecholt/imrad](https://github.com/tpecholt/imrad) | ImRAD is a GUI builder for the ImGui library | C++ | 1378 |
-| [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) | OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch. | Python | 13896 |
-| [openbao/openbao](https://github.com/openbao/openbao) | OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. | Go | 6750 |
+| [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) | OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch. | Python | 13899 |
+| [openbao/openbao](https://github.com/openbao/openbao) | OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. | Go | 6765 |
 | [dupontgu/pov_pong_mouse](https://github.com/dupontgu/pov_pong_mouse) | Implementation of Pong that runs within a mouse's firmware and renders by moving the cursor fast enough to acheive persistence of vision | C | 164 |
 | [bitnami/charts](https://github.com/bitnami/charts) | Bitnami Helm Charts | Go Template | 10391 |
 | [phronmophobic/clj-manifold3d](https://github.com/phronmophobic/clj-manifold3d) | Manifold (3D) wrapper for Clojure |  | 2 |
-| [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) | 📂 Web File Browser | Go | 35630 |
+| [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) | 📂 Web File Browser | Go | 35637 |
 | [rqlite/rqlite-java](https://github.com/rqlite/rqlite-java) | Java client for rqlite, the lightweight distributed relational database | Java | 31 |
-| [rqlite/rqlite](https://github.com/rqlite/rqlite) | The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort. | Go | 17639 |
+| [rqlite/rqlite](https://github.com/rqlite/rqlite) | The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort. | Go | 17642 |
 | [cables-gl/cables_dev](https://github.com/cables-gl/cables_dev) | cables development environment | JavaScript | 99 |
 | [msoap/shell2http](https://github.com/msoap/shell2http) | Executing shell commands via HTTP server | Go | 1496 |
 | [vouch-opensource/fugato](https://github.com/vouch-opensource/fugato) | Data-first stateful generator for Clojure | Clojure | 112 |
-| [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) | External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. | Go | 6747 |
+| [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) | External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. | Go | 6746 |
 | [arduino/ArduinoCore-avr](https://github.com/arduino/ArduinoCore-avr) | The Official Arduino AVR core | C | 1487 |
-| [kubernetes/minikube](https://github.com/kubernetes/minikube) | Run Kubernetes locally | Go | 31974 |
+| [kubernetes/minikube](https://github.com/kubernetes/minikube) | Run Kubernetes locally | Go | 31978 |
 | [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm) | Aggregator for issues filed against kubeadm | Go | 3991 |
-| [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI | TypeScript | 26241 |
-| [Xpra-org/xpra](https://github.com/Xpra-org/xpra) | Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows. | Python | 2898 |
+| [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI | TypeScript | 26245 |
+| [Xpra-org/xpra](https://github.com/Xpra-org/xpra) | Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows. | Python | 2900 |
 | [damavis/airflow-pentaho-plugin](https://github.com/damavis/airflow-pentaho-plugin) | Pentaho plugin for Apache Airflow - Orquestate pentaho transformations and jobs from Airflow | Python | 40 |
-| [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) | Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop | JavaScript | 10742 |
-| [ambientelivre/legacy-pentaho-ce](https://github.com/ambientelivre/legacy-pentaho-ce) | Legacy versions - Pentaho CE |  | 428 |
-| [maxpert/marmot](https://github.com/maxpert/marmot) | A distributed SQLite server with MySQL wire compatible interface | Go | 2806 |
+| [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) | Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop | JavaScript | 10743 |
+| [ambientelivre/legacy-pentaho-ce](https://github.com/ambientelivre/legacy-pentaho-ce) | Legacy versions - Pentaho CE |  | 429 |
+| [maxpert/marmot](https://github.com/maxpert/marmot) | A distributed SQLite server with MySQL wire compatible interface | Go | 2807 |
 | [seancorfield/next-jdbc](https://github.com/seancorfield/next-jdbc) | A modern low-level Clojure wrapper for JDBC-based access to databases. | Clojure | 861 |
 | [pfeodrippe/vybe](https://github.com/pfeodrippe/vybe) | A Clojure framework for game dev | Clojure | 82 |
-| [gravitational/teleport](https://github.com/gravitational/teleport) | The easiest, and most secure way to access and protect all of your infrastructure. | Go | 20679 |
+| [gravitational/teleport](https://github.com/gravitational/teleport) | The easiest, and most secure way to access and protect all of your infrastructure. | Go | 20682 |
 | [thomaschampagne/elevate](https://github.com/thomaschampagne/elevate) | A sport app to "Elevate" your training experience and goals! Track your fitness and progressions over time. Analyse deeper your activities. And more... | TypeScript | 1453 |
 | [buaacyw/MeshAnything](https://github.com/buaacyw/MeshAnything) | [ICLR 2025] From anything to mesh like human artists. Official impl. of "MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers" | Python | 2294 |
 | [weavejester/meta-merge](https://github.com/weavejester/meta-merge) | A standalone implementation of Leiningen's meta-merge function | Clojure | 111 |
@@ -449,28 +450,28 @@
 | [timothypratley/happygapi](https://github.com/timothypratley/happygapi) | A Clojure library with source generated functions for using Google APIs. | Clojure | 28 |
 | [SURFnet/apie](https://github.com/SURFnet/apie) | Apie 🙈 OpenAPI Service Validator | Clojure | 6 |
 | [cartesian-theatrics/plexus](https://github.com/cartesian-theatrics/plexus) | A Solid Modeling Library | Clojure | 16 |
-| [appwrite/appwrite](https://github.com/appwrite/appwrite) | Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more | TypeScript | 56633 |
-| [air-verse/air](https://github.com/air-verse/air) | ☁️ Live reload for Go apps | Go | 23796 |
+| [appwrite/appwrite](https://github.com/appwrite/appwrite) | Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more | TypeScript | 56631 |
+| [air-verse/air](https://github.com/air-verse/air) | ☁️ Live reload for Go apps | Go | 23798 |
 | [janetacarr/enjure](https://github.com/janetacarr/enjure) | An opinionated web framework for Clojure, probably. | Clojure | 43 |
-| [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) | A virtual DOM library with focus on simplicity, modularity, powerful features and performance. | TypeScript | 12389 |
+| [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) | A virtual DOM library with focus on simplicity, modularity, powerful features and performance. | TypeScript | 12390 |
 | [weaveworks/weave](https://github.com/weaveworks/weave) | Simple, resilient multi-host containers networking and more. | Go | 6613 |
-| [yaml/yamlscript](https://github.com/yaml/yamlscript) | Programming in YAML | Clojure | 630 |
+| [yaml/yamlscript](https://github.com/yaml/yamlscript) | Programming in YAML | Clojure | 631 |
 | [oliyh/re-jump.el](https://github.com/oliyh/re-jump.el) | emacs navigation for re-frame projects | Emacs Lisp | 77 |
-| [thomaspark/gridgarden](https://github.com/thomaspark/gridgarden) | A game for learning CSS grid layout 🥕 | JavaScript | 3385 |
-| [basecamp/kamal](https://github.com/basecamp/kamal) | Deploy web apps anywhere. | Ruby | 14418 |
+| [thomaspark/gridgarden](https://github.com/thomaspark/gridgarden) | A game for learning CSS grid layout 🥕 | JavaScript | 3384 |
+| [basecamp/kamal](https://github.com/basecamp/kamal) | Deploy web apps anywhere. | Ruby | 14416 |
 | [filipesilva/fdb](https://github.com/filipesilva/fdb) | Reactive database environment for your files. | Clojure | 104 |
 | [openkoda/openkoda](https://github.com/openkoda/openkoda) | Open source business application platform for fast development | Java | 1034 |
 | [webview/webview](https://github.com/webview/webview) | Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows). | C++ | 14165 |
-| [mapeditor/tiled](https://github.com/mapeditor/tiled) | Flexible level editor | C++ | 12745 |
+| [mapeditor/tiled](https://github.com/mapeditor/tiled) | Flexible level editor | C++ | 12751 |
 | [theforeman/foreman](https://github.com/theforeman/foreman) | an application that automates the lifecycle of servers  | Ruby | 2892 |
 | [kaplayjs/kaplay](https://github.com/kaplayjs/kaplay) | 🦖 A JavaScript/TypeScript Game Library that feels like a game. | TypeScript | 1757 |
 | [roblillack/spot](https://github.com/roblillack/spot) | React-like desktop GUI toolkit for Go | Go | 1257 |
-| [actions/runner](https://github.com/actions/runner) | The Runner for GitHub Actions :rocket: | C# | 6137 |
+| [actions/runner](https://github.com/actions/runner) | The Runner for GitHub Actions :rocket: | C# | 6141 |
 | [misohena/el-easydraw](https://github.com/misohena/el-easydraw) | Embedded drawing tool for Emacs | Emacs Lisp | 904 |
 | [Kimbsy/quip](https://github.com/Kimbsy/quip) | Clojure game engine built using Quil | Clojure | 36 |
 | [mbrock/wisp](https://github.com/mbrock/wisp) | Lisp in WebAssembly | JavaScript | 306 |
-| [marchaesen/vcxsrv](https://github.com/marchaesen/vcxsrv) | Windows X-server based on the xorg git sources (like xming or cygwin's xwin), but compiled with Visual Studio 2012 Community Edition. | C | 1200 |
-| [ahrm/sioyek](https://github.com/ahrm/sioyek) | Sioyek is a PDF viewer with a focus on textbooks and research papers | C | 9718 |
+| [marchaesen/vcxsrv](https://github.com/marchaesen/vcxsrv) | Windows X-server based on the xorg git sources (like xming or cygwin's xwin), but compiled with Visual Studio 2012 Community Edition. | C | 1203 |
+| [ahrm/sioyek](https://github.com/ahrm/sioyek) | Sioyek is a PDF viewer with a focus on textbooks and research papers | C | 9721 |
 | [griffinbank/test.contract](https://github.com/griffinbank/test.contract) | quickcheck of stateful protocols | Clojure | 125 |
 | [ring-clojure/ring-examples](https://github.com/ring-clojure/ring-examples) | A collection of example projects for Ring | Clojure | 29 |
 | [nubank/k8s-api](https://github.com/nubank/k8s-api) | Kubernetes client, data driven | Clojure | 164 |
@@ -480,18 +481,18 @@
 | [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) | A MySQL-compatible relational database with a storage agnostic query engine. Implemented in Go. | Go | 2646 |
 | [zoriya/Kyoo](https://github.com/zoriya/Kyoo) | A portable and vast media library solution. | TypeScript | 2476 |
 | [tonsky/sane-math](https://github.com/tonsky/sane-math) | Clojure/Script library for infix (normal) math expressions | Clojure | 37 |
-| [getsentry/self-hosted](https://github.com/getsentry/self-hosted) | Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept | Shell | 9460 |
+| [getsentry/self-hosted](https://github.com/getsentry/self-hosted) | Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept | Shell | 9461 |
 | [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) | LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed. | Go | 5955 |
-| [walmartlabs/lacinia](https://github.com/walmartlabs/lacinia) | GraphQL implementation in pure Clojure | Clojure | 1861 |
+| [walmartlabs/lacinia](https://github.com/walmartlabs/lacinia) | GraphQL implementation in pure Clojure | Clojure | 1862 |
 | [roboli/balloon](https://github.com/roboli/balloon) | Deflate/Inflate (Flat/Unflat) your Clojure/Script maps | Clojure | 16 |
 | [renderlet/wander](https://github.com/renderlet/wander) | wander - the Wasm Renderer | C | 782 |
-| [upscayl/upscayl](https://github.com/upscayl/upscayl) | 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. | TypeScript | 47441 |
-| [directus/directus](https://github.com/directus/directus) | The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. | TypeScript | 36733 |
-| [ratatui/ratatui](https://github.com/ratatui/ratatui) | A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs | Rust | 21816 |
-| [Olical/conjure](https://github.com/Olical/conjure) | Interactive evaluation for Neovim (Clojure, Fennel, Scheme, Python, JavaScript, PHP, R, Lua, Rust and more!) | Fennel | 2119 |
-| [BetterThanTomorrow/calva](https://github.com/BetterThanTomorrow/calva) | Clojure & ClojureScript Interactive Programming for VS Code | TypeScript | 2076 |
+| [upscayl/upscayl](https://github.com/upscayl/upscayl) | 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. | TypeScript | 47473 |
+| [directus/directus](https://github.com/directus/directus) | The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. | TypeScript | 36795 |
+| [ratatui/ratatui](https://github.com/ratatui/ratatui) | A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs | Rust | 21841 |
+| [Olical/conjure](https://github.com/Olical/conjure) | Interactive evaluation for Neovim (Clojure, Fennel, Scheme, Python, JavaScript, PHP, R, Lua, Rust and more!) | Fennel | 2120 |
+| [BetterThanTomorrow/calva](https://github.com/BetterThanTomorrow/calva) | Clojure & ClojureScript Interactive Programming for VS Code | TypeScript | 2072 |
 | [openai/grok](https://github.com/openai/grok) |  | Python | 4258 |
-| [lizrice/learning-ebpf](https://github.com/lizrice/learning-ebpf) | Learning eBPF, published by O'Reilly - out now! Here's where you'll find a VM config for the examples, and more | C | 1783 |
+| [lizrice/learning-ebpf](https://github.com/lizrice/learning-ebpf) | Learning eBPF, published by O'Reilly - out now! Here's where you'll find a VM config for the examples, and more | C | 1782 |
 | [goretk/redress](https://github.com/goretk/redress) | Redress - A tool for analyzing stripped Go binaries | Go | 1179 |
 | [shirok/Gauche](https://github.com/shirok/Gauche) | Scheme Scripting Engine | Scheme | 898 |
 | [janetacarr/match-set-and-get](https://github.com/janetacarr/match-set-and-get) | convenience macros for messing with Clojure type definitions.  | Clojure | 2 |
@@ -501,73 +502,73 @@
 | [andersmurphy/clj-cookbook](https://github.com/andersmurphy/clj-cookbook) |  | Clojure | 64 |
 | [jaredwray/keyv](https://github.com/jaredwray/keyv) | Simple key-value storage with support for multiple backends | TypeScript | 3164 |
 | [joaotavora/eglot](https://github.com/joaotavora/eglot) | A client for Language Server Protocol servers | Emacs Lisp | 2545 |
-| [getsops/sops](https://github.com/getsops/sops) | Simple and flexible tool for managing secrets | Go | 22564 |
-| [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development! | C++ | 14810 |
+| [getsops/sops](https://github.com/getsops/sops) | Simple and flexible tool for managing secrets | Go | 22568 |
+| [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development! | C++ | 14827 |
 | [iczelia/kamilalisp](https://github.com/iczelia/kamilalisp) | A functional, flexible and concise Lisp. | Java | 303 |
-| [hunvreus/pagescms](https://github.com/hunvreus/pagescms) | The simplest CMS you'll ever need. Manage content and media right in your GitHub repository. | TypeScript | 3850 |
-| [cilium/cilium](https://github.com/cilium/cilium) | eBPF-based Networking, Security, and Observability | Go | 24763 |
-| [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) | Run GGUF models easily with a KoboldAI UI. One File. Zero Install. | C++ | 11104 |
+| [hunvreus/pagescms](https://github.com/hunvreus/pagescms) | The simplest CMS you'll ever need. Manage content and media right in your GitHub repository. | TypeScript | 3854 |
+| [cilium/cilium](https://github.com/cilium/cilium) | eBPF-based Networking, Security, and Observability | Go | 24771 |
+| [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) | Run GGUF models easily with a KoboldAI UI. One File. Zero Install. | C++ | 11176 |
 | [ryfow/clojure-crac-example](https://github.com/ryfow/clojure-crac-example) | Example demonstrating checkpoint/restore for a clojure application | Dockerfile | 6 |
 | [ihucos/counter.dev](https://github.com/ihucos/counter.dev) | Web Analytics made simple | JavaScript | 1006 |
-| [electric-sql/pglite](https://github.com/electric-sql/pglite) | Embeddable Postgres with real-time, reactive bindings. | TypeScript | 15628 |
+| [electric-sql/pglite](https://github.com/electric-sql/pglite) | Embeddable Postgres with real-time, reactive bindings. | TypeScript | 15641 |
 | [onionpancakes/chassis](https://github.com/onionpancakes/chassis) | Fast HTML5 templating in Clojure | Clojure | 159 |
-| [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀 | JavaScript | 38241 |
+| [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀 | JavaScript | 38243 |
 | [janet-lang/jaylib](https://github.com/janet-lang/jaylib) | Janet bindings to Raylib | C | 189 |
 | [veandco/go-sdl2](https://github.com/veandco/go-sdl2) | SDL2 binding for Go | C | 2325 |
 | [IBM/plex](https://github.com/IBM/plex) | The package of IBM’s typeface, IBM Plex. | CSS | 11515 |
 | [tonsky/clj-reload](https://github.com/tonsky/clj-reload) | Smarter way to reload Clojure code | Clojure | 300 |
-| [micro-editor/micro](https://github.com/micro-editor/micro) | A modern and intuitive terminal-based text editor | Go | 29077 |
+| [micro-editor/micro](https://github.com/micro-editor/micro) | A modern and intuitive terminal-based text editor | Go | 29080 |
 | [awesome-gocui/gocui](https://github.com/awesome-gocui/gocui) | Minimalist Go package aimed at creating Console User Interfaces. | Go | 382 |
 | [juxt/reap](https://github.com/juxt/reap) | A Clojure library for decoding and encoding strings used by web protocols. | Clojure | 79 |
 | [AltraMayor/f3](https://github.com/AltraMayor/f3) | F3 - Fight Flash Fraud | C | 3316 |
 | [lem-project/lem](https://github.com/lem-project/lem) | General-purpose editor/IDE with high expansibility in Common Lisp | Common Lisp | 3003 |
 | [seaweedfs/seaweedfs-csi-driver](https://github.com/seaweedfs/seaweedfs-csi-driver) | SeaweedFS CSI Driver https://github.com/seaweedfs/seaweedfs | Go | 327 |
-| [kleampa/not-paid](https://github.com/kleampa/not-paid) | Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away | JavaScript | 15585 |
+| [kleampa/not-paid](https://github.com/kleampa/not-paid) | Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away | JavaScript | 15586 |
 | [abahmed/kwatch](https://github.com/abahmed/kwatch) | :eyes: monitor & detect crashes in your Kubernetes(K8s) cluster instantly | Go | 1011 |
-| [ricktu288/ray-optics](https://github.com/ricktu288/ray-optics) | A web app for creating and simulating 2D geometric optical scenes, with a gallery of (interactive) demos. | JavaScript | 1749 |
-| [Textualize/toolong](https://github.com/Textualize/toolong) | A terminal application to view, tail, merge, and search log files (plus JSONL). | Python | 3931 |
+| [ricktu288/ray-optics](https://github.com/ricktu288/ray-optics) | A web app for creating and simulating 2D geometric optical scenes, with a gallery of (interactive) demos. | JavaScript | 1748 |
+| [Textualize/toolong](https://github.com/Textualize/toolong) | A terminal application to view, tail, merge, and search log files (plus JSONL). | Python | 3932 |
 | [applied-science/waqi](https://github.com/applied-science/waqi) | REPL-driven data visualizations with Clojure and Vega/Vega-Lite in the browser | Clojure | 25 |
 | [GoogleCloudPlatform/localllm](https://github.com/GoogleCloudPlatform/localllm) |  | Python | 1548 |
-| [RustPython/RustPython](https://github.com/RustPython/RustPython) | A Python Interpreter written in Rust | Rust | 22211 |
-| [atopile/atopile](https://github.com/atopile/atopile) | Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️ | Python | 3523 |
+| [RustPython/RustPython](https://github.com/RustPython/RustPython) | A Python Interpreter written in Rust | Rust | 22213 |
+| [atopile/atopile](https://github.com/atopile/atopile) | Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️ | Python | 3529 |
 | [lambdaisland/cli](https://github.com/lambdaisland/cli) | Opinionated command line argument handling, with excellent support for subcommands | Clojure | 56 |
 | [chrisDaniel/contra-2000](https://github.com/chrisDaniel/contra-2000) | Online Multiplayer Contra Game | JavaScript | 16 |
-| [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) | SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling. | Go | 33623 |
-| [slint-ui/slint](https://github.com/slint-ui/slint) | Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps. | Rust | 23274 |
+| [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) | SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling. | Go | 33647 |
+| [slint-ui/slint](https://github.com/slint-ui/slint) | Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps. | Rust | 23286 |
 | [unclebob/functor](https://github.com/unclebob/functor) | experimental macro for allowing Algol-like block structure scoping in clojure | Clojure | 22 |
-| [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) | Schema.org - schemas and supporting software | HTML | 6182 |
+| [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) | Schema.org - schemas and supporting software | HTML | 6181 |
 | [luissantos/ffclj](https://github.com/luissantos/ffclj) | Clojure ffmpeg wrapper | Clojure | 59 |
-| [luau-lang/luau](https://github.com/luau-lang/luau) | A small, fast, and embeddable programming language based on Lua with a gradual type system. | C++ | 5708 |
+| [luau-lang/luau](https://github.com/luau-lang/luau) | A small, fast, and embeddable programming language based on Lua with a gradual type system. | C++ | 5711 |
 | [piglet-lang/piglet](https://github.com/piglet-lang/piglet) |  | JavaScript | 69 |
-| [CERT-Polska/Artemis](https://github.com/CERT-Polska/Artemis) | A modular vulnerability scanner with automatic report generation capabilities. | Python | 1191 |
-| [rclone/rclone](https://github.com/rclone/rclone) | "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files | Go | 58588 |
+| [CERT-Polska/Artemis](https://github.com/CERT-Polska/Artemis) | A modular vulnerability scanner with automatic report generation capabilities. | Python | 1192 |
+| [rclone/rclone](https://github.com/rclone/rclone) | "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files | Go | 58643 |
 | [flant/shell-operator](https://github.com/flant/shell-operator) | Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster | Go | 2607 |
-| [metacontroller/metacontroller](https://github.com/metacontroller/metacontroller) | Writing kubernetes controllers can be simple | Go | 995 |
-| [nesbox/TIC-80](https://github.com/nesbox/TIC-80) | TIC-80 is a fantasy computer for making, playing and sharing tiny games. | C | 6051 |
+| [metacontroller/metacontroller](https://github.com/metacontroller/metacontroller) | Writing kubernetes controllers can be simple | Go | 996 |
+| [nesbox/TIC-80](https://github.com/nesbox/TIC-80) | TIC-80 is a fantasy computer for making, playing and sharing tiny games. | C | 6052 |
 | [zelark/nano-id](https://github.com/zelark/nano-id) | A unique string ID generator for Clojure and ClojureScript (・_・)ノ | Clojure | 197 |
 | [Clozure/ccl](https://github.com/Clozure/ccl) | Clozure Common Lisp | Common Lisp | 943 |
 | [Rohan2002/IFEval](https://github.com/Rohan2002/IFEval) | Evaluator for LLMs | Clojure | 28 |
 | [placemark/placemark](https://github.com/placemark/placemark) | A flexible web-based editor, converter, visualization tool, for geospatial data | TypeScript | 1443 |
-| [strapi/strapi](https://github.com/strapi/strapi) | 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. | TypeScript | 72701 |
-| [primocms/primo](https://github.com/primocms/primo) | Agent-native visual CMS. Build sites with Claude/Codex/whatever, manage them visually.  | Svelte | 2348 |
-| [zed-industries/zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | Rust | 87360 |
+| [strapi/strapi](https://github.com/strapi/strapi) | 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. | TypeScript | 72707 |
+| [primocms/primo](https://github.com/primocms/primo) | Agent-native visual CMS. Build sites with Claude/Codex/whatever, manage them visually.  | Svelte | 2349 |
+| [zed-industries/zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | Rust | 87382 |
 | [bytecodealliance/javy](https://github.com/bytecodealliance/javy) | JS to WebAssembly toolchain | Rust | 2708 |
 | [ieugen/cherry-wasm-demo](https://github.com/ieugen/cherry-wasm-demo) | Compile ClojureScript via cherry to wasm | JavaScript | 20 |
-| [wazuh/wazuh](https://github.com/wazuh/wazuh) | Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. | C++ | 16247 |
+| [wazuh/wazuh](https://github.com/wazuh/wazuh) | Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. | C++ | 16258 |
 | [sshaw/copy-as-format](https://github.com/sshaw/copy-as-format) | Emacs function to copy buffer locations as GitHub/Slack/JIRA etc... formatted code | Emacs Lisp | 146 |
 | [OHDSI/Atlas](https://github.com/OHDSI/Atlas) | ATLAS is an open source software tool for researchers to conduct scientific analyses on standardized observational data | JavaScript | 318 |
-| [nats-io/nats-server](https://github.com/nats-io/nats-server) | High-Performance server for NATS.io, the cloud and edge native messaging system. | Go | 20293 |
+| [nats-io/nats-server](https://github.com/nats-io/nats-server) | High-Performance server for NATS.io, the cloud and edge native messaging system. | Go | 20294 |
 | [clj-commons/potemkin](https://github.com/clj-commons/potemkin) | some ideas which are almost good | Clojure | 592 |
 | [radixbio/timberland](https://github.com/radixbio/timberland) | A self-bootstrapping Kubernetes alternative with package management capabilities based on Hashicorp software | Scala | 10 |
-| [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) | Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework. | TypeScript | 25839 |
+| [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) | Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework. | TypeScript | 25846 |
 | [zalando/logbook](https://github.com/zalando/logbook) | An extensible Java library for HTTP request and response logging | Java | 2051 |
 | [everydaythingssoftware/citadel](https://github.com/everydaythingssoftware/citadel) | Manage your ebook library without frustrations. Calibre compatible. | Rust | 1264 |
 | [fulcrologic/fulcro-rad](https://github.com/fulcrologic/fulcro-rad) | Fulcro Rapid Application Development | Clojure | 210 |
-| [acme-dns/acme-dns](https://github.com/acme-dns/acme-dns) | Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely. | Go | 2794 |
-| [tabler/tabler](https://github.com/tabler/tabler) | Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap | HTML | 41343 |
+| [acme-dns/acme-dns](https://github.com/acme-dns/acme-dns) | Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely. | Go | 2795 |
+| [tabler/tabler](https://github.com/tabler/tabler) | Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap | HTML | 41347 |
 | [TestLinkOpenSourceTRMS/testlink-code](https://github.com/TestLinkOpenSourceTRMS/testlink-code) | TestLink Open Source Test & Requirement Management System | PHP | 1604 |
-| [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter) | Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. | Go | 2047 |
-| [devcontainers/spec](https://github.com/devcontainers/spec) | Development Containers: Use a container as a full-featured development environment. |  | 5603 |
+| [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter) | Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. | Go | 2052 |
+| [devcontainers/spec](https://github.com/devcontainers/spec) | Development Containers: Use a container as a full-featured development environment. |  | 5605 |
 | [zmedelis/bosquet](https://github.com/zmedelis/bosquet) | Tooling to build LLM applications: prompt templating and composition, agents, LLM memory, and other instruments for builders of AI applications. | Clojure | 375 |
 | [cjohansen/replicant](https://github.com/cjohansen/replicant) | A data-driven rendering library for Clojure(Script) that renders hiccup to DOM or to strings. | Clojure | 518 |
 | [nearform/temporal_tables](https://github.com/nearform/temporal_tables) | Postgresql temporal_tables extension in PL/pgSQL, without the need for external c extension. | PLpgSQL | 756 |
@@ -580,25 +581,25 @@
 | [clasp-developers/clasp](https://github.com/clasp-developers/clasp) | clasp Common Lisp environment | Common Lisp | 2776 |
 | [rjray/advent-2023-clojure](https://github.com/rjray/advent-2023-clojure) | Advent of Code 2023 (Clojure) | Clojure | 4 |
 | [optimatika/ojAlgo](https://github.com/optimatika/ojAlgo) | oj! Algorithms | Java | 502 |
-| [generateme/fastmath](https://github.com/generateme/fastmath) | Fast primitive based math library | Clojure | 284 |
+| [generateme/fastmath](https://github.com/generateme/fastmath) | Fast primitive based math library | Clojure | 285 |
 | [rough-stuff/rough](https://github.com/rough-stuff/rough) | Create graphics with a hand-drawn, sketchy, appearance | HTML | 21085 |
 | [leporello-js/leporello-js](https://github.com/leporello-js/leporello-js) |  | JavaScript | 162 |
 | [scicloj/clay](https://github.com/scicloj/clay) | A REPL-friendly Clojure tool for notebooks and datavis | Clojure | 204 |
 | [clyfe/clara-eav](https://github.com/clyfe/clara-eav) | EAV triplets for Clara Rules, solving the update problem. | Clojure | 51 |
 | [prepor/liveview-clj](https://github.com/prepor/liveview-clj) |  | CSS | 55 |
 | [gen2brain/raylib-go](https://github.com/gen2brain/raylib-go) | Go bindings for raylib, a simple and easy-to-use library to enjoy videogames programming. | C | 2490 |
-| [juanfont/headscale](https://github.com/juanfont/headscale) | An open source, self-hosted implementation of the Tailscale control server | Go | 41951 |
+| [juanfont/headscale](https://github.com/juanfont/headscale) | An open source, self-hosted implementation of the Tailscale control server | Go | 41984 |
 | [cldwalker/table](https://github.com/cldwalker/table) | Display ascii tables for almost any data structure with ease. | Clojure | 115 |
 | [aroemers/redelay](https://github.com/aroemers/redelay) | Clojure library for first class lifecycle-managed state. | Clojure | 64 |
-| [OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) | Micro second messaging that stores everything to disk | Java | 3781 |
+| [OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) | Micro second messaging that stores everything to disk | Java | 3782 |
 | [adobe/k8s-shredder](https://github.com/adobe/k8s-shredder) | K8s-shredder - an opinionated way of parking in Kubernetes | Go | 86 |
-| [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) | The ZAP by Checkmarx Core project | Java | 15445 |
+| [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) | The ZAP by Checkmarx Core project | Java | 15450 |
 | [roman01la/cljs-react-devtools](https://github.com/roman01la/cljs-react-devtools) | React DevTools for ClojureScript wrappers | Clojure | 50 |
 | [skuttleman/defacto](https://github.com/skuttleman/defacto) | A light-weight, highly customizable state store for clojure(script) | Clojure | 20 |
 | [raystubbs/zero](https://github.com/raystubbs/zero) | Build Web UIs in ClojureScript | Clojure | 107 |
 | [rururu/pro-figwheel](https://github.com/rururu/pro-figwheel) | Clojure/ClojureScript IDE on Protege and Figwheel-main | JavaScript | 4 |
-| [anchore/grype](https://github.com/anchore/grype) | A vulnerability scanner for container images and filesystems | Go | 12611 |
-| [xaos-project/XaoS](https://github.com/xaos-project/XaoS) | Real-time interactive fractal zoomer | C++ | 609 |
+| [anchore/grype](https://github.com/anchore/grype) | A vulnerability scanner for container images and filesystems | Go | 12622 |
+| [xaos-project/XaoS](https://github.com/xaos-project/XaoS) | Real-time interactive fractal zoomer | C++ | 610 |
 | [tatut/bearsql](https://github.com/tatut/bearsql) | Bare words SQL macro for Clojure | Clojure | 33 |
 | [Olical/depot](https://github.com/Olical/depot) | Find newer versions of your dependencies in your deps.edn file | Clojure | 268 |
 | [magnars/s.el](https://github.com/magnars/s.el) | The long lost Emacs string manipulation library. | Emacs Lisp | 1069 |
@@ -606,20 +607,20 @@
 | [overtone/mini-beast](https://github.com/overtone/mini-beast) | Digital clone of an analog synthesizer using Overtone and Quil | Clojure | 72 |
 | [rekola/nanoclj](https://github.com/rekola/nanoclj) | A Tiny Clojure Interpreter | C | 78 |
 | [wingo/whiffle](https://github.com/wingo/whiffle) | A simple incomplete Scheme-to-C compiler | C | 75 |
-| [lapce/lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust | Rust | 38677 |
+| [lapce/lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust | Rust | 38678 |
 | [Jcparkyn/dpoint](https://github.com/Jcparkyn/dpoint) | Open-source digital stylus using camera tracking and inertial measurements | Python | 1066 |
 | [benfry/processing4](https://github.com/benfry/processing4) | Processing 4.x releases for Java 17 | Java | 1329 |
-| [google/cadvisor](https://github.com/google/cadvisor) | Analyzes resource usage and performance characteristics of running containers. | Go | 19299 |
+| [google/cadvisor](https://github.com/google/cadvisor) | Analyzes resource usage and performance characteristics of running containers. | Go | 19302 |
 | [teawaterwire/web4th](https://github.com/teawaterwire/web4th) | Starter kit for temporal web applications (NOT CRYPTO RELATED) | Clojure | 18 |
 | [amokfa/datest](https://github.com/amokfa/datest) | A clojure(script) unit testing framework designed to be used from the REPL | Clojure | 8 |
-| [ory/hydra](https://github.com/ory/hydra) | Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on Ory Network or self-host. Trusted by OpenAI and many others for scale and security. Written in Go. | Go | 17415 |
+| [ory/hydra](https://github.com/ory/hydra) | Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on Ory Network or self-host. Trusted by OpenAI and many others for scale and security. Written in Go. | Go | 17418 |
 | [aiba/helix-react-native](https://github.com/aiba/helix-react-native) | example project using helix and react-native | Objective-C | 3 |
-| [evilsocket/legba](https://github.com/evilsocket/legba) | The fastest and more comprehensive multiprotocol credentials bruteforcer / password sprayer and enumerator.  🥷 | Rust | 1910 |
-| [apache/pouchdb](https://github.com/apache/pouchdb) | :kangaroo: - PouchDB is a pocket-sized database. | JavaScript | 17591 |
+| [evilsocket/legba](https://github.com/evilsocket/legba) | The fastest and more comprehensive multiprotocol credentials bruteforcer / password sprayer and enumerator.  🥷 | Rust | 1911 |
+| [apache/pouchdb](https://github.com/apache/pouchdb) | :kangaroo: - PouchDB is a pocket-sized database. | JavaScript | 17593 |
 | [tonsky/extend-clj](https://github.com/tonsky/extend-clj) | Easily extend clojure.core built-in protocols | Clojure | 27 |
 | [cjohansen/courier](https://github.com/cjohansen/courier) | A high-level http client for Clojure and ClojureScript | Clojure | 48 |
 | [derailed/popeye](https://github.com/derailed/popeye) | 👀 A Kubernetes cluster resource sanitizer | Go | 6321 |
-| [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) | SumatraPDF reader | C | 17154 |
+| [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) | SumatraPDF reader | C | 17157 |
 | [mva/tcljc](https://github.com/mva/tcljc) | Tiny Clojure Compiler | Java | 4 |
 | [adam-james-v/sdfx](https://github.com/adam-james-v/sdfx) | A Signed Distance Field art tool built with Clojure, WebGL, and HTMX. | JavaScript | 22 |
 | [michaelklishin/langohr](https://github.com/michaelklishin/langohr) | A small, feature complete Clojure client for RabbitMQ that embraces the AMQP 0.9.1 model | Clojure | 357 |
@@ -627,17 +628,17 @@
 | [clojure-emacs/enrich-classpath](https://github.com/clojure-emacs/enrich-classpath) | Enriches Lein/deps.edn dependency trees with Java sources, JDK sources, javadocs, etc | Clojure | 36 |
 | [razum2um/awesome-clojure](https://github.com/razum2um/awesome-clojure) | A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff | Clojure | 2833 |
 | [adam-james-v/svg-clj](https://github.com/adam-james-v/svg-clj) | DSL for compiling SVG elements with Clojure(script) | Clojure | 115 |
-| [datreeio/datree](https://github.com/datreeio/datree) | Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our docs: https://hub.datree.io | Go | 6339 |
-| [coder/code-server](https://github.com/coder/code-server) | VS Code in the browser | TypeScript | 78467 |
-| [MultiMC/Launcher](https://github.com/MultiMC/Launcher) | A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once | C++ | 4650 |
+| [datreeio/datree](https://github.com/datreeio/datree) | Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our docs: https://hub.datree.io | Go | 6338 |
+| [coder/code-server](https://github.com/coder/code-server) | VS Code in the browser | TypeScript | 78482 |
+| [MultiMC/Launcher](https://github.com/MultiMC/Launcher) | A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once | C++ | 4651 |
 | [jitlogic/zorka](https://github.com/jitlogic/zorka) | Sophisticated monitoring agent for Java | Java | 189 |
 | [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) | turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or PCs (x86_64 or ARM64)! | JavaScript | 3471 |
-| [nektos/act](https://github.com/nektos/act) | Run your GitHub Actions locally 🚀 | Go | 71158 |
+| [nektos/act](https://github.com/nektos/act) | Run your GitHub Actions locally 🚀 | Go | 71177 |
 | [llob/dicom-loadbalancer](https://github.com/llob/dicom-loadbalancer) | Load balancing DICOM router | Python | 3 |
 | [DogLooksGood/borsh-clj](https://github.com/DogLooksGood/borsh-clj) | A pure Clojure/Script implementation for Borsh | Clojure | 8 |
 | [near/borsh](https://github.com/near/borsh) | Binary Object Representation Serializer for Hashing |  | 623 |
 | [s-expresso/clojobuf-codec](https://github.com/s-expresso/clojobuf-codec) | Low level clojure(script) encoding and decoding library for google's protobuf binary format. | Clojure | 7 |
-| [liquidz/antq](https://github.com/liquidz/antq) | Point out your outdated dependencies. | Clojure | 451 |
+| [liquidz/antq](https://github.com/liquidz/antq) | Point out your outdated dependencies. | Clojure | 452 |
 | [canonical/lxd](https://github.com/canonical/lxd) | Powerful system container and virtual machine manager | Go | 4800 |
 | [conciertio/concierto](https://github.com/conciertio/concierto) | A Clojure based orchestration tool | Clojure | 15 |
 | [wisp-lang/wisp](https://github.com/wisp-lang/wisp) | A little Clojure-like LISP in JavaScript | wisp | 986 |
@@ -646,98 +647,98 @@
 | [bakpakin/moonmint](https://github.com/bakpakin/moonmint) | A Web Framework for Lua | Lua | 81 |
 | [dawranliou/shelter-creek](https://github.com/dawranliou/shelter-creek) | A cozy puzzle platformer about collecting mushrooms. Submission to https://itch.io/jam/spring-lisp-game-jam-2023 | Lua | 1 |
 | [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) | A sensible base Emacs configuration. | Emacs Lisp | 896 |
-| [rxi/lume](https://github.com/rxi/lume) | Lua functions geared towards gamedev | Lua | 1239 |
-| [lfe/lfe](https://github.com/lfe/lfe) | Lisp Flavoured Erlang (LFE) | Erlang | 2441 |
-| [orbitalquark/textadept](https://github.com/orbitalquark/textadept) | Textadept is a fast, minimalist, and remarkably extensible cross-platform text editor for programmers. | Lua | 896 |
+| [rxi/lume](https://github.com/rxi/lume) | Lua functions geared towards gamedev | Lua | 1240 |
+| [lfe/lfe](https://github.com/lfe/lfe) | Lisp Flavoured Erlang (LFE) | Erlang | 2442 |
+| [orbitalquark/textadept](https://github.com/orbitalquark/textadept) | Textadept is a fast, minimalist, and remarkably extensible cross-platform text editor for programmers. | Lua | 899 |
 | [teal-language/tl](https://github.com/teal-language/tl) | The compiler for Teal, a typed dialect of Lua | Lua | 2785 |
 | [TryQuiet/quiet](https://github.com/TryQuiet/quiet) | A private, p2p alternative to Slack and Discord built on Tor & IPFS | C | 2621 |
 | [dm3/clojure.java-time](https://github.com/dm3/clojure.java-time) | Java 8 Date-Time API for Clojure | Clojure | 489 |
 | [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) | A Terminal Emulator based on UWP and web technologies. | C# | 9606 |
-| [authelia/authelia](https://github.com/authelia/authelia) | The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™ | Go | 28340 |
-| [ory/kratos](https://github.com/ory/kratos) | Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network.  | Go | 13774 |
-| [ocaml/ocaml](https://github.com/ocaml/ocaml) | The core OCaml system: compilers, runtime system, base libraries | OCaml | 6480 |
+| [authelia/authelia](https://github.com/authelia/authelia) | The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™ | Go | 28344 |
+| [ory/kratos](https://github.com/ory/kratos) | Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network.  | Go | 13773 |
+| [ocaml/ocaml](https://github.com/ocaml/ocaml) | The core OCaml system: compilers, runtime system, base libraries | OCaml | 6476 |
 | [bintracker/bintracker](https://github.com/bintracker/bintracker) | A hackable Chiptune Audio Workstation. https://bintracker.org | Scheme | 441 |
-| [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) | Asynchronous HTTP client/server framework for asyncio and Python | Python | 16504 |
-| [astrolang/astro](https://github.com/astrolang/astro) | A fun safe language for rapid prototyping and high performance applications | Rust | 804 |
-| [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) | QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration. | C++ | 5818 |
-| [benbjohnson/immutable](https://github.com/benbjohnson/immutable) | Immutable collections for Go | Go | 740 |
+| [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) | Asynchronous HTTP client/server framework for asyncio and Python | Python | 16505 |
+| [astrolang/astro](https://github.com/astrolang/astro) | A fun safe language for rapid prototyping and high performance applications | Rust | 801 |
+| [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) | QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration. | C++ | 5819 |
+| [benbjohnson/immutable](https://github.com/benbjohnson/immutable) | Immutable collections for Go | Go | 742 |
 | [FusionAuth/java-http](https://github.com/FusionAuth/java-http) | A full featured, stand-alone, high-performance HTTP server and client written entirely in plain Java | Java | 354 |
 | [opqdonut/malli-edn-editor](https://github.com/opqdonut/malli-edn-editor) |  | Clojure | 25 |
 | [redplanetlabs/twitter-scale-mastodon](https://github.com/redplanetlabs/twitter-scale-mastodon) | Twitter-scale Mastodon implementation in 100x less code than Twitter wrote to build the equivalent | Java | 316 |
 | [tonsky/datascript-storage-sql](https://github.com/tonsky/datascript-storage-sql) | SQL Storage implementation for DataScript | Clojure | 48 |
-| [opentofu/manifesto](https://github.com/opentofu/manifesto) | The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license. | HTML | 35716 |
+| [opentofu/manifesto](https://github.com/opentofu/manifesto) | The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license. | HTML | 35712 |
 | [soulspace-org/overarch](https://github.com/soulspace-org/overarch) | Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML. | Clojure | 295 |
 | [samanthadoran/potential-disco](https://github.com/samanthadoran/potential-disco) | Trying to emulate the NES again in Common Lisp | Common Lisp | 236 |
 | [phronmophobic/clj-tree-sitter](https://github.com/phronmophobic/clj-tree-sitter) | WIP clojure bindings for tree-sitter | Clojure | 12 |
-| [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) | A lightweight text editor written in Lua | Lua | 6274 |
+| [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) | A lightweight text editor written in Lua | Lua | 6275 |
 | [recbus/caribou](https://github.com/recbus/caribou) | The caribou migration tool for Datomic | Clojure | 27 |
-| [chrieke/prettymapp](https://github.com/chrieke/prettymapp) | 🖼️ Create beautiful maps from OpenStreetMap data in a streamlit webapp | Python | 2786 |
+| [chrieke/prettymapp](https://github.com/chrieke/prettymapp) | 🖼️ Create beautiful maps from OpenStreetMap data in a streamlit webapp | Python | 2787 |
 | [metosin/oksa](https://github.com/metosin/oksa) | Generate GraphQL queries using Clojure data structures. | Clojure | 61 |
-| [aphyr/distsys-class](https://github.com/aphyr/distsys-class) | Class materials for a distributed systems lecture series |  | 9814 |
+| [aphyr/distsys-class](https://github.com/aphyr/distsys-class) | Class materials for a distributed systems lecture series |  | 9816 |
 | [danielsz/cohere-clojure](https://github.com/danielsz/cohere-clojure) | Unofficial port of the Cohere SDK | Clojure | 44 |
 | [guenchi/Igropyr](https://github.com/guenchi/Igropyr) | A distributed, fault-tolerant, high-concurrency backend framework with continuation-based web programming and a remote retry ring, built on Chez Scheme. | Scheme | 146 |
 | [quil/quil](https://github.com/quil/quil) | Main repo. Quil source code. | Clojure | 3046 |
 | [ozmartian/vidcutter](https://github.com/ozmartian/vidcutter) | A modern yet simple multi-platform video cutter and joiner. | Python | 1968 |
-| [bobschrag/clolog](https://github.com/bobschrag/clolog) | Full-featured logic programming (AKA "Prolog") embedded in/callable from and supporting calls to Clojure.  In the spirit of LogLisp, Lisp Machine Prolog, and Franz Inc.'s Allegro Prolog, with some extra goodies. | Clojure | 268 |
+| [bobschrag/clolog](https://github.com/bobschrag/clolog) | Full-featured logic programming (AKA "Prolog") embedded in/callable from and supporting calls to Clojure.  In the spirit of LogLisp, Lisp Machine Prolog, and Franz Inc.'s Allegro Prolog, with some extra goodies. | Clojure | 269 |
 | [jakemcc/test-refresh](https://github.com/jakemcc/test-refresh) | Refreshes and reruns clojure.tests in your project. | Clojure | 395 |
-| [IBM/fp-go](https://github.com/IBM/fp-go) | Functional programming library for Go 1.24+, inspired by fp-ts. Uses generic type aliases for a clean, composable API. Provides Option, Either, Result, IO, IOResult, Reader, and ReaderIOResult monads, plus optics (Lens, Prism, Traversal) for immutable data manipulation. Supports Functor, Applicative, and Monad abstractions with do-notation-style | Go | 2007 |
+| [IBM/fp-go](https://github.com/IBM/fp-go) | Functional programming library for Go 1.24+, inspired by fp-ts. Uses generic type aliases for a clean, composable API. Provides Option, Either, Result, IO, IOResult, Reader, and ReaderIOResult monads, plus optics (Lens, Prism, Traversal) for immutable data manipulation. Supports Functor, Applicative, and Monad abstractions with do-notation-style | Go | 2008 |
 | [babashka/http-server](https://github.com/babashka/http-server) | Serve static assets | Clojure | 85 |
 | [donut-party/graphputer](https://github.com/donut-party/graphputer) | pute a graph | Clojure | 27 |
 | [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. | Ruby | 12159 |
-| [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) | Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with us. | TypeScript | 8746 |
+| [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) | Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with us. | TypeScript | 8748 |
 | [MastodonC/kixi.stats](https://github.com/MastodonC/kixi.stats) | A library of statistical distribution sampling and transducing functions | Clojure | 369 |
 | [MastodonC/kixi.plot](https://github.com/MastodonC/kixi.plot) |  | Clojure | 5 |
-| [gravitl/netmaker](https://github.com/gravitl/netmaker) | Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks. | Go | 11694 |
+| [gravitl/netmaker](https://github.com/gravitl/netmaker) | Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks. | Go | 11698 |
 | [melonjs/melonJS](https://github.com/melonjs/melonJS) | a modern & lightweight HTML5 game engine | JavaScript | 6339 |
 | [JannisX11/blockbench](https://github.com/JannisX11/blockbench) | Blockbench - A low poly 3D model editor | JavaScript | 5689 |
-| [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating | Python | 51141 |
+| [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating | Python | 51157 |
 | [id-Software/quake2-rerelease-dll](https://github.com/id-Software/quake2-rerelease-dll) |  | C | 2202 |
-| [kotcrab/vis-ui](https://github.com/kotcrab/vis-ui) | libGDX UI toolkit | Java | 770 |
+| [kotcrab/vis-ui](https://github.com/kotcrab/vis-ui) | libGDX UI toolkit | Java | 771 |
 | [yizhepku/Clojure-CLI-CRaC](https://github.com/yizhepku/Clojure-CLI-CRaC) | Faster Clojure Startup with Checkpoint/Restore | Shell | 14 |
 | [askonomm/clarktown](https://github.com/askonomm/clarktown) | A zero-dependency Markdown parser. | Clojure | 87 |
-| [continuedev/continue](https://github.com/continuedev/continue) | open-source coding agent | TypeScript | 35016 |
+| [continuedev/continue](https://github.com/continuedev/continue) | open-source coding agent | TypeScript | 35034 |
 | [blurymind/tilemap-editor](https://github.com/blurymind/tilemap-editor) | TileMap Editor is a fat-free tile map editor with zero dependencies and a scalable, mobile-friendly interface | HTML | 149 |
-| [cisco/ChezScheme](https://github.com/cisco/ChezScheme) | Chez Scheme  | Scheme | 7318 |
+| [cisco/ChezScheme](https://github.com/cisco/ChezScheme) | Chez Scheme  | Scheme | 7319 |
 | [JSLegendDev/Mario-Game-Kaboom.js](https://github.com/JSLegendDev/Mario-Game-Kaboom.js) | Mario style game made in JavaScript with the Kaboom.js library | JavaScript | 36 |
-| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | Rust | 118633 |
-| [heroiclabs/nakama](https://github.com/heroiclabs/nakama) | Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games. | Go | 12926 |
-| [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) | A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES. | PHP | 8463 |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | Rust | 118685 |
+| [heroiclabs/nakama](https://github.com/heroiclabs/nakama) | Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games. | Go | 12937 |
+| [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) | A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES. | PHP | 8468 |
 | [mudpi/mudpi-core](https://github.com/mudpi/mudpi-core) | Configurable automation library for linux SBC boards including raspberry pi | Python | 281 |
-| [jj-vcs/jj](https://github.com/jj-vcs/jj) | A Git-compatible VCS that is both simple and powerful | Rust | 30497 |
-| [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | Rust | 64036 |
+| [jj-vcs/jj](https://github.com/jj-vcs/jj) | A Git-compatible VCS that is both simple and powerful | Rust | 30537 |
+| [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | Rust | 64083 |
 | [khmelevskii/emotion-cljs](https://github.com/khmelevskii/emotion-cljs) | ClojureScript wrapper for Emotion. Emotion is a CSS-in-JS library designed for high performance style composition | Clojure | 87 |
 | [grafbase/grafbase](https://github.com/grafbase/grafbase) | [Acquired by The Guild] The Grafbase GraphQL Federation Gateway | Rust | 1231 |
 | [babashka/http-client](https://github.com/babashka/http-client) | HTTP client for Clojure and Babashka built on java.net.http | Clojure | 150 |
 | [ertugrulcetin/enion](https://github.com/ertugrulcetin/enion) | Enion Online is an Epic PvP Battle game between Orcs and Humans. The game is written using Clojure and ClojureScript, and utilizes the PlayCanvas game engine. | Clojure | 75 |
 | [mark-watson/free-older-books-and-software](https://github.com/mark-watson/free-older-books-and-software) | I used to have PDFs for my books on my web site - I moved them to this public repo. | HTML | 311 |
-| [sorintlab/stolon](https://github.com/sorintlab/stolon) | PostgreSQL cloud native High Availability and more. | Go | 4824 |
-| [phronmophobic/llama.clj](https://github.com/phronmophobic/llama.clj) | Run LLMs locally. A clojure wrapper for llama.cpp. | Clojure | 176 |
+| [sorintlab/stolon](https://github.com/sorintlab/stolon) | PostgreSQL cloud native High Availability and more. | Go | 4823 |
+| [phronmophobic/llama.clj](https://github.com/phronmophobic/llama.clj) | Run LLMs locally. A clojure wrapper for llama.cpp. | Clojure | 177 |
 | [KingMob/TrueGrit](https://github.com/KingMob/TrueGrit) | A data-driven, functionally-oriented, idiomatic Clojure library for circuit breakers, bulkheads, retries, rate limiters, timeouts, etc. | Clojure | 132 |
 | [oliyh/superlifter](https://github.com/oliyh/superlifter) | A DataLoader for Clojure/script | Clojure | 183 |
 | [yetanalytics/pathetic](https://github.com/yetanalytics/pathetic) | Utility Library for handling JSONPath and navigating JSON structures | Clojure | 39 |
 | [fulcro-community/fulcro-cookbook](https://github.com/fulcro-community/fulcro-cookbook) | Learn how to use the tools Fulcro offers to solve various problems, with concrete examples | Clojure | 5 |
 | [flow-storm/hansel](https://github.com/flow-storm/hansel) | Instrument Clojure[Script] forms to trace it | Clojure | 35 |
 | [gnl/playback](https://github.com/gnl/playback) | Easier-than-print dataflow tracing to tap> and Portal with automatic last-input function replay on eval, instant re-render and effortless extraction of traced data | Clojure | 110 |
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | The open alternative to Salesforce, designed for AI. | TypeScript | 53409 |
-| [docusealco/docuseal](https://github.com/docusealco/docuseal) | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ | Ruby | 18057 |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | The open alternative to Salesforce, designed for AI. | TypeScript | 53467 |
+| [docusealco/docuseal](https://github.com/docusealco/docuseal) | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ | Ruby | 18074 |
 | [tmate-io/tmate](https://github.com/tmate-io/tmate) | Instant Terminal Sharing | C | 6083 |
-| [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) | A Grub Theme in the style of Minecraft! | Python | 4554 |
-| [Infisical/infisical](https://github.com/Infisical/infisical) | Infisical is the open-source platform for secrets, certificates, and privileged access management. | TypeScript | 28289 |
+| [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) | A Grub Theme in the style of Minecraft! | Python | 4555 |
+| [Infisical/infisical](https://github.com/Infisical/infisical) | Infisical is the open-source platform for secrets, certificates, and privileged access management. | TypeScript | 28318 |
 | [ryrobes/flowmaps](https://github.com/ryrobes/flowmaps) | Construct & orchestrate stand-alone Clojure core.async pipelines with ease or use it to encapsulate & manage complex 'flows' within your application | Clojure | 139 |
-| [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) | All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). | Rust | 13801 |
+| [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) | All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). | Rust | 13811 |
 | [zcaudate-xyz/foundation-base](https://github.com/zcaudate-xyz/foundation-base) | core libs and utilities | Clojure | 42 |
 | [rads/rain](https://github.com/rads/rain) | 🌧️ A Clojure/Script library for fast and flexible web apps. | Clojure | 13 |
-| [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) | A dead simple 2D game engine for Go | Go | 13352 |
-| [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. | Java | 39078 |
+| [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) | A dead simple 2D game engine for Go | Go | 13357 |
+| [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. | Java | 39094 |
 | [alphapapa/prism.el](https://github.com/alphapapa/prism.el) | Disperse Lisp forms (and other languages) into a spectrum of colors by depth | Emacs Lisp | 332 |
-| [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) | Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes | Go | 9962 |
+| [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) | Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes | Go | 9965 |
 | [vanjs-org/van](https://github.com/vanjs-org/van) | 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour. | JavaScript | 4405 |
-| [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) | A truly Open Source MongoDB alternative | Go | 11014 |
+| [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) | A truly Open Source MongoDB alternative | Go | 11015 |
 | [tatut/REPLey](https://github.com/tatut/REPLey) | A web REPL made with Ripley | Clojure | 16 |
 | [escherize/huff](https://github.com/escherize/huff) | Juicy hiccup in pure Clojure | Clojure | 124 |
 | [phronmophobic/clong](https://github.com/phronmophobic/clong) | A wrapper for libclang and a generator that can turn c header files into clojure apis. | Clojure | 113 |
-| [leptos-rs/leptos](https://github.com/leptos-rs/leptos) | Build fast web applications with Rust. | Rust | 21100 |
-| [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) | Unbound is a validating, recursive, and caching DNS resolver. | C | 4726 |
+| [leptos-rs/leptos](https://github.com/leptos-rs/leptos) | Build fast web applications with Rust. | Rust | 21104 |
+| [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) | Unbound is a validating, recursive, and caching DNS resolver. | C | 4727 |
 | [nextjournal/simple-http-server](https://github.com/nextjournal/simple-http-server) | A simple http server implemented as thin Clojure wrapper around `SimpleWebServer` from JEP 408 for JDK 18+. | Clojure | 25 |
 | [mschuene/stratege](https://github.com/mschuene/stratege) | clojure library for strategic term rewriting inspired by StrategoXT | Clojure | 24 |
 | [clj-commons/pretty](https://github.com/clj-commons/pretty) | Library for helping print things prettily, in Clojure - ANSI fonts, formatted exceptions | Clojure | 623 |
@@ -749,37 +750,37 @@
 | [janetacarr/event-driven-architecture-example](https://github.com/janetacarr/event-driven-architecture-example) |  | Clojure | 14 |
 | [cask/cask](https://github.com/cask/cask) | Project management tool for Emacs | Emacs Lisp | 1326 |
 | [saikyun/clobits](https://github.com/saikyun/clobits) | Clojure ❤️ C — Use C inside Clojure, run on JVM + native | Clojure | 86 |
-| [metallb/metallb](https://github.com/metallb/metallb) | A network load-balancer implementation for Kubernetes using standard routing protocols | Go | 8284 |
+| [metallb/metallb](https://github.com/metallb/metallb) | A network load-balancer implementation for Kubernetes using standard routing protocols | Go | 8286 |
 | [ProjektyUstaw/Ustawy-o-PIT](https://github.com/ProjektyUstaw/Ustawy-o-PIT) |  |  | 877 |
 | [reddit-archive/reddit1.0](https://github.com/reddit-archive/reddit1.0) |  | Common Lisp | 2095 |
 | [flow-storm/cider-storm](https://github.com/flow-storm/cider-storm) | An emacs cider front-end for the FlowStorm debugger with support for Clojure and ClojureScript. | Emacs Lisp | 106 |
-| [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown | TypeScript | 89350 |
+| [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown | TypeScript | 89365 |
 | [jet-admin/jet-bridge](https://github.com/jet-admin/jet-bridge) | Jet Admin – No-code Business App builder | Python | 1794 |
-| [hunspell/hunspell](https://github.com/hunspell/hunspell) | The most popular spellchecking library. | C++ | 2539 |
-| [makeplane/plane](https://github.com/makeplane/plane) | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. | TypeScript | 54824 |
+| [hunspell/hunspell](https://github.com/hunspell/hunspell) | The most popular spellchecking library. | C++ | 2541 |
+| [makeplane/plane](https://github.com/makeplane/plane) | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. | TypeScript | 54877 |
 | [matthiasn/talk-transcripts](https://github.com/matthiasn/talk-transcripts) | Transcripts of Clojure-related talks |  | 3082 |
 | [cemerick/clojure-type-selection-flowchart](https://github.com/cemerick/clojure-type-selection-flowchart) | Flowchart for choosing the right Clojure type definition form |  | 257 |
 | [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) | Customization of kubernetes YAML configurations | Go | 12113 |
 | [manute/gorepl-mode](https://github.com/manute/gorepl-mode) | A minor emacs mode for Go REPL | Emacs Lisp | 30 |
 | [x-motemen/gore](https://github.com/x-motemen/gore) |   Yet another Go REPL that works nicely. Featured with line editing, code completion, and more. | Go | 5474 |
 | [io-tupelo/clj-template](https://github.com/io-tupelo/clj-template) |  | Clojure | 8 |
-| [getredash/redash](https://github.com/getredash/redash) | Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. | Python | 28715 |
+| [getredash/redash](https://github.com/getredash/redash) | Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. | Python | 28714 |
 | [somecho/utility-scripts](https://github.com/somecho/utility-scripts) | A collection of helper scripts for Clojure, Java, Ledger and Taskwarrior. Written in Clojure. | Clojure | 13 |
 | [cognitect-labs/anomalies](https://github.com/cognitect-labs/anomalies) |  | Clojure | 205 |
-| [tursodatabase/libsql](https://github.com/tursodatabase/libsql) | libSQL is a fork of SQLite that is both Open Source, and Open Contributions. | C | 16973 |
-| [picocss/pico](https://github.com/picocss/pico) | Minimal CSS Framework for semantic HTML | CSS | 16726 |
-| [bitwarden/server](https://github.com/bitwarden/server) | Bitwarden infrastructure/backend (API, database, Docker, etc). | C# | 19490 |
-| [openebs/mayastor](https://github.com/openebs/mayastor) | Dynamically provision Stateful Persistent Replicated Cluster-wide Fabric Volumes & Filesystems for Kubernetes that is provisioned from an optimized NVME SPDK backend data storage stack. | Rust | 1054 |
-| [benbjohnson/litestream](https://github.com/benbjohnson/litestream) | Streaming replication for SQLite. | Go | 13948 |
-| [dolthub/dolt](https://github.com/dolthub/dolt) | Dolt – Git for Data | Go | 23923 |
+| [tursodatabase/libsql](https://github.com/tursodatabase/libsql) | libSQL is a fork of SQLite that is both Open Source, and Open Contributions. | C | 16980 |
+| [picocss/pico](https://github.com/picocss/pico) | Minimal CSS Framework for semantic HTML | CSS | 16727 |
+| [bitwarden/server](https://github.com/bitwarden/server) | Bitwarden infrastructure/backend (API, database, Docker, etc). | C# | 19495 |
+| [openebs/mayastor](https://github.com/openebs/mayastor) | Dynamically provision Stateful Persistent Replicated Cluster-wide Fabric Volumes & Filesystems for Kubernetes that is provisioned from an optimized NVME SPDK backend data storage stack. | Rust | 1053 |
+| [benbjohnson/litestream](https://github.com/benbjohnson/litestream) | Streaming replication for SQLite. | Go | 13955 |
+| [dolthub/dolt](https://github.com/dolthub/dolt) | Dolt – Git for Data | Go | 23932 |
 | [flannel-io/flannel](https://github.com/flannel-io/flannel) | flannel is a network fabric for containers, designed for Kubernetes | Go | 9510 |
 | [yapsterapp/a-frame](https://github.com/yapsterapp/a-frame) | an async Clojure+Script port of the non-view parts of re-frame | Clojure | 28 |
 | [quoll/tiara](https://github.com/quoll/tiara) | A small data structure library | Clojure | 54 |
-| [elalish/manifold](https://github.com/elalish/manifold) | Geometry library for topological robustness | C++ | 2154 |
+| [elalish/manifold](https://github.com/elalish/manifold) | Geometry library for topological robustness | C++ | 2158 |
 | [cartesian-theatrics/clj-manifold3d](https://github.com/cartesian-theatrics/clj-manifold3d) | Manifold (3D) wrapper for Clojure | Clojure | 36 |
 | [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) | The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️ | Go | 17009 |
-| [Guardsquare/proguard](https://github.com/Guardsquare/proguard) | ProGuard, Java optimizer and obfuscator | Java | 3619 |
-| [rabbitmq/cluster-operator](https://github.com/rabbitmq/cluster-operator) | RabbitMQ Cluster Kubernetes Operator | Go | 1107 |
+| [Guardsquare/proguard](https://github.com/Guardsquare/proguard) | ProGuard, Java optimizer and obfuscator | Java | 3620 |
+| [rabbitmq/cluster-operator](https://github.com/rabbitmq/cluster-operator) | RabbitMQ Cluster Kubernetes Operator | Go | 1108 |
 | [GadZombie/sadist](https://github.com/GadZombie/sadist) | Sadist - An old classic DOS game from 1998 | Pascal | 26 |
 | [macourtney/drift](https://github.com/macourtney/drift) | A migration library for clojure | Clojure | 122 |
 | [ibdknox/crate](https://github.com/ibdknox/crate) | A ClojureScript implementation of Hiccup | Clojure | 223 |
@@ -789,29 +790,29 @@
 | [redplanetlabs/proxy-plus](https://github.com/redplanetlabs/proxy-plus) | A replacement for Clojure's proxy that's 10x faster and more usable | Clojure | 178 |
 | [austinried/subtracks](https://github.com/austinried/subtracks) | A music streaming app for Subsonic-compatible servers | Dart | 788 |
 | [drcode/pickyourparanoia](https://github.com/drcode/pickyourparanoia) |  | HTML | 2 |
-| [navidrome/navidrome](https://github.com/navidrome/navidrome) | 🎧 Your Personal Streaming Service  | Go | 22433 |
+| [navidrome/navidrome](https://github.com/navidrome/navidrome) | 🎧 Your Personal Streaming Service  | Go | 22450 |
 | [grafana/tanka](https://github.com/grafana/tanka) | Flexible, reusable and concise configuration for Kubernetes | Go | 2681 |
 | [google/jsonnet](https://github.com/google/jsonnet) | Jsonnet - The data templating language | Jsonnet | 7543 |
 | [ceccopierangiolieugenio/pyTermTk](https://github.com/ceccopierangiolieugenio/pyTermTk) | Python Terminal Toolkit - a Spiced Up Cross Compatible TUI Library 🌶️  | Python | 906 |
 | [PEZ/clojure-clr-starter](https://github.com/PEZ/clojure-clr-starter) | A Dockerized mini-project for testing ClojureCLR | Clojure | 21 |
 | [xenodium/chatgpt-shell](https://github.com/xenodium/chatgpt-shell) | A multi-llm Emacs shell (ChatGPT, Claude, DeepSeek, Gemini, Kagi, Ollama, Perplexity) + editing integrations | Emacs Lisp | 1212 |
 | [gpxstudio/gpxstudio.github.io](https://github.com/gpxstudio/gpxstudio.github.io) | The online GPX file editor | HTML | 633 |
-| [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file | Go | 60112 |
-| [windmill-labs/windmill](https://github.com/windmill-labs/windmill) | Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal. | Rust | 17208 |
+| [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file | Go | 60147 |
+| [windmill-labs/windmill](https://github.com/windmill-labs/windmill) | Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal. | Rust | 17216 |
 | [manetu/temporal-clojure-sdk](https://github.com/manetu/temporal-clojure-sdk) | A Temporal SDK for Clojure | Clojure | 100 |
-| [temporalio/temporal](https://github.com/temporalio/temporal) | Temporal service | Go | 21783 |
-| [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) | Open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL. | C++ | 11903 |
+| [temporalio/temporal](https://github.com/temporalio/temporal) | Temporal service | Go | 21798 |
+| [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) | Open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL. | C++ | 11904 |
 | [drcode/good-guesser](https://github.com/drcode/good-guesser) | Sprinkle some Machine Learning Magic on top of your regular code! | Clojure | 78 |
 | [babashka/pod-babashka-lanterna](https://github.com/babashka/pod-babashka-lanterna) |  | Clojure | 9 |
 | [scopews/svgreq](https://github.com/scopews/svgreq) | Clojure macro for generating react component based on svg | Clojure | 24 |
-| [mifi/lossless-cut](https://github.com/mifi/lossless-cut) | The swiss army knife of lossless video/audio editing | TypeScript | 42263 |
+| [mifi/lossless-cut](https://github.com/mifi/lossless-cut) | The swiss army knife of lossless video/audio editing | TypeScript | 42293 |
 | [liqotech/liqo](https://github.com/liqotech/liqo) | Enable dynamic and seamless Kubernetes multi-cluster topologies | Go | 1465 |
 | [simplemono/world](https://github.com/simplemono/world) | This library provides tools to work with the world-state approach | Clojure | 21 |
 | [igrishaev/pg](https://github.com/igrishaev/pg) | Deprecated: use igrishaev/pg2 | Clojure | 29 |
 | [jo-m/trainbot](https://github.com/jo-m/trainbot) | Watches a piece of train track, detects trains, and stitches together images of them. | Go | 495 |
 | [tonsky/persistent-sorted-set](https://github.com/tonsky/persistent-sorted-set) | Fast B-tree based persistent sorted set for Clojure/Script | Clojure | 87 |
 | [eerohele/tab](https://github.com/eerohele/tab) | A tool for tabulating Clojure collections. | Clojure | 75 |
-| [TimefoldAI/timefold-solver](https://github.com/TimefoldAI/timefold-solver) | The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems. | Java | 1721 |
+| [TimefoldAI/timefold-solver](https://github.com/TimefoldAI/timefold-solver) | The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems. | Java | 1722 |
 | [lambdaisland/plenish](https://github.com/lambdaisland/plenish) |  | Clojure | 55 |
 | [binaryage/chromex](https://github.com/binaryage/chromex) | Write Chrome Extensions in ClojureScript | Clojure | 412 |
 | [nubank/morse](https://github.com/nubank/morse) | A graphical, interactive tool for browsing Clojure data | JavaScript | 405 |
@@ -819,9 +820,9 @@
 | [aphyr/tesser](https://github.com/aphyr/tesser) | Clojure reducers, but for parallel execution: locally and on distributed systems. | Clojure | 889 |
 | [aldosolorzano/structurizr-clj](https://github.com/aldosolorzano/structurizr-clj) | Clojure wrapper for Structurizr library in Java. | Clojure | 21 |
 | [seancorfield/next.jdbc.xt](https://github.com/seancorfield/next.jdbc.xt) | Experimental extension of next.jdbc to work with XTDB 2.0 (snapshots) | Clojure | 12 |
-| [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) | A free, secure and open source app for Android to manage your 2-step verification tokens. | Java | 12762 |
-| [ente/ente](https://github.com/ente/ente) | 💚 End-to-end encrypted cloud for everything. | Dart | 27923 |
-| [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) | Build terminal dashboards using ascii/ansi art and javascript | JavaScript | 15755 |
+| [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) | A free, secure and open source app for Android to manage your 2-step verification tokens. | Java | 12767 |
+| [ente/ente](https://github.com/ente/ente) | 💚 End-to-end encrypted cloud for everything. | Dart | 27941 |
+| [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) | Build terminal dashboards using ascii/ansi art and javascript | JavaScript | 15754 |
 | [teropa/hiccups](https://github.com/teropa/hiccups) | A ClojureScript port of Hiccup - a fast library for rendering HTML in ClojureScript | Clojure | 218 |
 | [pitch-io/cljest](https://github.com/pitch-io/cljest) | A preset for Jest which allows for running CLJS tests in Jest | Clojure | 49 |
 | [sansarip/owlbear](https://github.com/sansarip/owlbear) | An experimental Visual Studio Code extension that supports paredit-like structural-editing features for HTML, TypeScript, TypeScript-React, JavaScript, and JavaScript-React. | Clojure | 44 |
@@ -829,20 +830,20 @@
 | [cjohansen/phosphor-clj](https://github.com/cjohansen/phosphor-clj) | Phosphor Icons as hiccup for Clojure and ClojureScript | Clojure | 37 |
 | [pmndrs/suspend-react](https://github.com/pmndrs/suspend-react) | 🚥 Async/await for React components | TypeScript | 1411 |
 | [ers35/luastatic](https://github.com/ers35/luastatic) | Build a standalone executable from a Lua program. | Lua | 873 |
-| [astral-sh/ruff](https://github.com/astral-sh/ruff) | An extremely fast Python linter and code formatter, written in Rust. | Rust | 48775 |
+| [astral-sh/ruff](https://github.com/astral-sh/ruff) | An extremely fast Python linter and code formatter, written in Rust. | Rust | 48795 |
 | [yapsterapp/promisespromises](https://github.com/yapsterapp/promisespromises) | A Clojure+Script asynchronous streams API - with error-propagation and transparent chunking | Clojure | 17 |
 | [nbardy/SynesthesiaLisp](https://github.com/nbardy/SynesthesiaLisp) | Mutimodal LLM Lisp | Python | 45 |
-| [hasura/graphql-engine](https://github.com/hasura/graphql-engine) | Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events. | TypeScript | 32042 |
+| [hasura/graphql-engine](https://github.com/hasura/graphql-engine) | Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events. | TypeScript | 32041 |
 | [lokke-org/lokke](https://github.com/lokke-org/lokke) | Lokke: Clojure for Guile | Scheme | 220 |
-| [zabbix/zabbix](https://github.com/zabbix/zabbix) | Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud. | Go Template | 6075 |
-| [umami-software/umami](https://github.com/umami-software/umami) | Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude. | TypeScript | 37801 |
+| [zabbix/zabbix](https://github.com/zabbix/zabbix) | Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud. | Go Template | 6077 |
+| [umami-software/umami](https://github.com/umami-software/umami) | Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude. | TypeScript | 37829 |
 | [BytemarkHosting/docker-smtp](https://github.com/BytemarkHosting/docker-smtp) | Docker image for sending outgoing mail | Shell | 142 |
 | [ory/keto](https://github.com/ory/keto) | The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven "Zanzibar" approach. Supports ACL, RBAC, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. | Go | 5375 |
-| [kubernetes-sigs/nfs-subdir-external-provisioner](https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner) | Dynamic sub-dir volume provisioner on a remote NFS server. | Shell | 3025 |
-| [curl/curl](https://github.com/curl/curl) | A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features | C | 42436 |
+| [kubernetes-sigs/nfs-subdir-external-provisioner](https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner) | Dynamic sub-dir volume provisioner on a remote NFS server. | Shell | 3028 |
+| [curl/curl](https://github.com/curl/curl) | A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features | C | 42442 |
 | [MnRA/nativity](https://github.com/MnRA/nativity) |  | Clojure | 89 |
-| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. | TypeScript | 119492 |
-| [radix-ui/primitives](https://github.com/radix-ui/primitives) | Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos. | TypeScript | 19083 |
+| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. | TypeScript | 119579 |
+| [radix-ui/primitives](https://github.com/radix-ui/primitives) | Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos. | TypeScript | 19090 |
 | [amperity/dialog](https://github.com/amperity/dialog) | Simple just-enough logging library for Clojure | Clojure | 40 |
 | [commonmark/commonmark-java](https://github.com/commonmark/commonmark-java) | Java library for parsing and rendering CommonMark (Markdown) | Java | 2671 |
 | [cjohansen/portfolio](https://github.com/cjohansen/portfolio) | Component-driven development for Clojure | Clojure | 304 |
@@ -858,56 +859,56 @@
 | [LuisThiamNye/squawk-native-compiler](https://github.com/LuisThiamNye/squawk-native-compiler) |  | Odin | 1 |
 | [pitch-io/uix-starter](https://github.com/pitch-io/uix-starter) | Template project to start building a web app with UIx | HTML | 37 |
 | [bsless/ring.middleware.tools](https://github.com/bsless/ring.middleware.tools) | Tools for putting together Clojure ring middlewares | Clojure | 10 |
-| [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) | Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) | C++ | 33799 |
+| [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) | Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) | C++ | 33805 |
 | [pfeodrippe/wally](https://github.com/pfeodrippe/wally) | A Clojure Playwright wrapper | Clojure | 124 |
-| [junegunn/fzf](https://github.com/junegunn/fzf) | :cherry_blossom: A command-line fuzzy finder | Go | 81903 |
+| [junegunn/fzf](https://github.com/junegunn/fzf) | :cherry_blossom: A command-line fuzzy finder | Go | 81914 |
 | [strojure/web-security](https://github.com/strojure/web-security) | Decoupled web security implementations for Clojure. | Clojure | 11 |
 | [clj-commons/ordered](https://github.com/clj-commons/ordered) | Ordered sets and maps, implemented in pure clojure | Clojure | 266 |
-| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader | Python | 179381 |
+| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader | Python | 179558 |
 | [clojure-emacs/cider](https://github.com/clojure-emacs/cider) | The Clojure Interactive Development Environment that Rocks for Emacs | Emacs Lisp | 3670 |
 | [clj-commons/humanize](https://github.com/clj-commons/humanize) | Produce human readable strings in clojure | Clojure | 174 |
 | [taoensso/faraday](https://github.com/taoensso/faraday) | Amazon DynamoDB client for Clojure | Clojure | 242 |
 | [strongh/crache](https://github.com/strongh/crache) | Redis-backed caching and memoization for clojure, following core.cache and core.memoize | Clojure | 40 |
 | [kiali/kiali](https://github.com/kiali/kiali) | Kiali project, observability for the Istio service mesh | Go | 3625 |
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more | Go | 37009 |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more | Go | 37025 |
 | [keychera/panas.reload](https://github.com/keychera/panas.reload) | a hot reload for babashka serving html+css (or htmx) | Clojure | 33 |
 | [lilactown/flex](https://github.com/lilactown/flex) | flex is a reactive signal library for Clojure(Script) | Clojure | 94 |
 | [zalky/cues](https://github.com/zalky/cues) | Queues on cue: low-latency persistent blocking queues, processors, and graphs via Chronicle Queue | Clojure | 107 |
 | [borkdude/clj2el](https://github.com/borkdude/clj2el) | Transpile Clojure to Emacs Lisp! | Clojure | 85 |
-| [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web | Rust | 32743 |
-| [openai/whisper](https://github.com/openai/whisper) | Robust Speech Recognition via Large-Scale Weak Supervision | Python | 105370 |
+| [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web | Rust | 32745 |
+| [openai/whisper](https://github.com/openai/whisper) | Robust Speech Recognition via Large-Scale Weak Supervision | Python | 105431 |
 | [jackrusher/scimacs](https://github.com/jackrusher/scimacs) | The Small Clojure Interpreter (SCI) integrated with emacs as a loadable module | Emacs Lisp | 98 |
 | [viesti/clj-lambda-sideloader](https://github.com/viesti/clj-lambda-sideloader) | JVM/Clojure AWS Lambda Sideloader | Clojure | 12 |
 | [NoahTheDuke/splint](https://github.com/NoahTheDuke/splint) | A Clojure linter focused on style and code shape. | Clojure | 141 |
 | [nginx-clojure/nginx-clojure](https://github.com/nginx-clojure/nginx-clojure) | Nginx module for embedding Clojure or Java or Groovy programs, typically those Ring based handlers. | Java | 1087 |
 | [pixelated-noise/hike](https://github.com/pixelated-noise/hike) |  | Clojure | 33 |
 | [clojure-emacs/clomacs](https://github.com/clojure-emacs/clomacs) | Simplifies Emacs Lisp interaction with Clojure and vice versa. | Emacs Lisp | 213 |
-| [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow) | A modular implementation of timely dataflow in Rust | Rust | 3630 |
+| [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow) | A modular implementation of timely dataflow in Rust | Rust | 3631 |
 | [clusternet/clusternet](https://github.com/clusternet/clusternet) | [CNCF Sandbox Project] Managing your Kubernetes clusters (including public, private, edge, etc.) as easily as visiting the Internet | Go | 1446 |
-| [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) | Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark | Go | 8110 |
+| [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) | Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark | Go | 8111 |
 | [kubescape/kubescape](https://github.com/kubescape/kubescape) | Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. | Go | 11545 |
 | [denysdovhan/smart-home](https://github.com/denysdovhan/smart-home) | ⚙️ My homelab and smart-home server built with Proxmox, Ubuntu, Docker | Shell | 293 |
 | [igrishaev/mask](https://github.com/igrishaev/mask) |  | Clojure | 12 |
 | [strojure/ring-lib](https://github.com/strojure/ring-lib) | Opinionated implementations for Clojure ring handler. | Clojure | 6 |
 | [kuhumcst/xml-hiccup](https://github.com/kuhumcst/xml-hiccup) | Convert XML into Hiccup in Clojure and ClojureScript. | Clojure | 22 |
-| [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) | Kubernetes Operator for OpenTelemetry Collector | Go | 1740 |
+| [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) | Kubernetes Operator for OpenTelemetry Collector | Go | 1741 |
 | [joinr/structural](https://github.com/joinr/structural) | Destructuring plus type hinting for more performant clojure. | Clojure | 90 |
 | [viesti/clj-lambda-layered](https://github.com/viesti/clj-lambda-layered) | A sample on how to split the lib deps of a JVM/Clojure lambda into a layer | Clojure | 16 |
 | [voodoodyne/subethasmtp](https://github.com/voodoodyne/subethasmtp) | SubEtha SMTP is a Java library for receiving SMTP mail | Java | 379 |
-| [tildearrow/furnace](https://github.com/tildearrow/furnace) | a multi-system chiptune tracker compatible with DefleMask modules | C++ | 3736 |
-| [WerWolv/ImHex](https://github.com/WerWolv/ImHex) | 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. | C++ | 54248 |
+| [tildearrow/furnace](https://github.com/tildearrow/furnace) | a multi-system chiptune tracker compatible with DefleMask modules | C++ | 3737 |
+| [WerWolv/ImHex](https://github.com/WerWolv/ImHex) | 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. | C++ | 54255 |
 | [lambdaisland/cljbox2d](https://github.com/lambdaisland/cljbox2d) |  | Clojure | 43 |
 | [babashka/bbin](https://github.com/babashka/bbin) | Install any Babashka script or project with one command | Clojure | 185 |
-| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers |  | 307230 |
+| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers |  | 307464 |
 | [mattdw/caponia](https://github.com/mattdw/caponia) | A simple in-memory full-text-search engine for Clojure | Clojure | 56 |
 | [bherrmann7/table-explorer](https://github.com/bherrmann7/table-explorer) | Allows a user to explore a databases tables visually | Clojure | 13 |
 | [roman01la/minimax](https://github.com/roman01la/minimax) | Minimalist 3D game engine in Clojure | Clojure | 68 |
 | [formicagreen/electric-clojure-painter](https://github.com/formicagreen/electric-clojure-painter) |  | Clojure | 6 |
-| [minio/minio](https://github.com/minio/minio) | MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. | Go | 61363 |
+| [minio/minio](https://github.com/minio/minio) | MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. | Go | 61371 |
 | [dylanaraps/pxltrm](https://github.com/dylanaraps/pxltrm) | 🖌️ pxltrm - [WIP] A pixel art editor inside the terminal | Shell | 694 |
 | [lispyclouds/bblgum](https://github.com/lispyclouds/bblgum) | An extremely tiny and simple wrapper around charmbracelet/gum | Clojure | 183 |
 | [dan200/ComputerCraft](https://github.com/dan200/ComputerCraft) | Programmable Computers for Minecraft | Lua | 1037 |
-| [borkdude/jet](https://github.com/borkdude/jet) | CLI to transform between JSON, EDN, YAML and Transit using Clojure | Clojure | 729 |
+| [borkdude/jet](https://github.com/borkdude/jet) | CLI to transform between JSON, EDN, YAML and Transit using Clojure | Clojure | 730 |
 | [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) | The impossibly small web framework for Python and MicroPython. | Python | 2136 |
 | [weavejester/ring-oauth2](https://github.com/weavejester/ring-oauth2) | OAuth 2.0 client middleware for Ring | Clojure | 159 |
 | [ertugrulcetin/procedure.async](https://github.com/ertugrulcetin/procedure.async) | Async procedures for Clojure | Clojure | 13 |
@@ -916,15 +917,15 @@
 | [dotemacs/pdfboxing](https://github.com/dotemacs/pdfboxing) | Nice wrapper of PDFBox in Clojure | Clojure | 185 |
 | [arcadia-unity/Arcadia](https://github.com/arcadia-unity/Arcadia) | Clojure in Unity | Clojure | 1687 |
 | [clj-commons/cljss](https://github.com/clj-commons/cljss) | Clojure Style Sheets — CSS-in-JS for ClojureScript | Clojure | 454 |
-| [BetterThanTomorrow/joyride](https://github.com/BetterThanTomorrow/joyride) | Making VS Code Hackable like Emacs since 2022 | Clojure | 586 |
-| [Textualize/textual](https://github.com/Textualize/textual) | The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser. | Python | 36690 |
+| [BetterThanTomorrow/joyride](https://github.com/BetterThanTomorrow/joyride) | Making VS Code Hackable like Emacs since 2022 | Clojure | 587 |
+| [Textualize/textual](https://github.com/Textualize/textual) | The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser. | Python | 36702 |
 | [exercism/clojure](https://github.com/exercism/clojure) | Exercism exercises in Clojure. | Clojure | 175 |
 | [wkok/openai-clojure](https://github.com/wkok/openai-clojure) | Clojure functions to drive the OpenAI API | Clojure | 243 |
-| [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) | Deploy a Production Ready Kubernetes Cluster | Jinja | 18617 |
+| [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) | Deploy a Production Ready Kubernetes Cluster | Jinja | 18621 |
 | [lilactown/7-humble-guis](https://github.com/lilactown/7-humble-guis) | An implementation of 7 GUIs using HumbleUI | Clojure | 33 |
-| [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) | Prometheus community Helm charts | Mustache | 6162 |
+| [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) | Prometheus community Helm charts | Mustache | 6163 |
 | [hyperfiddle/electric](https://github.com/hyperfiddle/electric) | Electric Clojure: full-stack differential dataflow for UI | Clojure | 2126 |
-| [nolar/kopf](https://github.com/nolar/kopf) | A Python framework to write Kubernetes operators in just a few lines of code | Python | 2620 |
+| [nolar/kopf](https://github.com/nolar/kopf) | A Python framework to write Kubernetes operators in just a few lines of code | Python | 2621 |
 | [lilactown/dom](https://github.com/lilactown/dom) |  | Clojure | 24 |
 | [jitsi-contrib/jitsi-kubernetes-operator](https://github.com/jitsi-contrib/jitsi-kubernetes-operator) |  | Go | 43 |
 | [roman01la/threegn](https://github.com/roman01la/threegn) | Procedural 3D graphics editor for the web | JavaScript | 358 |
@@ -933,8 +934,8 @@
 | [zalky/axle](https://github.com/zalky/axle) | An efficient cross-platform DirectoryWatcher based service for Clojure | Clojure | 41 |
 | [clojure/data.int-map](https://github.com/clojure/data.int-map) | A map optimized for integer keys | Java | 131 |
 | [Antracen/Clojure-ChessServer](https://github.com/Antracen/Clojure-ChessServer) | Chess server written in Clojure | Clojure | 1 |
-| [SigNoz/signoz](https://github.com/SigNoz/signoz) | SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate (in SigNoz Cloud) it helps you build more resilient apps. | TypeScript | 31503 |
-| [jart/blink](https://github.com/jart/blink) | tiniest x86-64-linux emulator | C | 7560 |
+| [SigNoz/signoz](https://github.com/SigNoz/signoz) | SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate (in SigNoz Cloud) it helps you build more resilient apps. | TypeScript | 31584 |
+| [jart/blink](https://github.com/jart/blink) | tiniest x86-64-linux emulator | C | 7561 |
 | [zalky/runway](https://github.com/zalky/runway) | Coding on the fly, from take-off to landing, with a tools.deps reloadable build library | Clojure | 22 |
 | [nukep/doom-calculator](https://github.com/nukep/doom-calculator) | An adding machine implemented in Doom | Clojure | 54 |
 | [jamsocket/driftdb](https://github.com/jamsocket/driftdb) | A real-time data backend for browser-based applications. | TypeScript | 955 |
@@ -949,17 +950,17 @@
 | [nomnom-insights/nomnom.duckula](https://github.com/nomnom-insights/nomnom.duckula) | 🦆🧛🕸Framework for building HTTP APIs with Clojure, JSON and Avro | Clojure | 16 |
 | [exoscale/coax](https://github.com/exoscale/coax) | Clojure.spec coercion library for clj(s) | Clojure | 127 |
 | [lambdaisland/witchcraft-plugin](https://github.com/lambdaisland/witchcraft-plugin) | Add Clojure support (and an nREPL) to any Bukkit-based Minecraft server | Clojure | 28 |
-| [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) | Mirror of https://git.ffmpeg.org/ffmpeg.git | C | 62272 |
+| [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) | Mirror of https://git.ffmpeg.org/ffmpeg.git | C | 62300 |
 | [adam-james-v/solenoid](https://github.com/adam-james-v/solenoid) | A small clojure tool for making little control UIs while using the repl! | Clojure | 81 |
-| [kopia/kopia](https://github.com/kopia/kopia) | Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included. | Go | 13704 |
+| [kopia/kopia](https://github.com/kopia/kopia) | Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included. | Go | 13707 |
 | [hsartoris/malli-forms](https://github.com/hsartoris/malli-forms) | Generate HTML forms using your malli schemas | Clojure | 3 |
 | [Clojure2D/clojure2d](https://github.com/Clojure2D/clojure2d) | Java2D wrapper + creative coding supporting functions (based on Processing and openFrameworks) | Clojure | 576 |
 | [kwrooijen/gungnir-playground](https://github.com/kwrooijen/gungnir-playground) | Example code for the Gungnir library. | Clojure | 2 |
 | [hugit-project/hugit](https://github.com/hugit-project/hugit) | The humane Terminal UI for git! | Clojure | 73 |
-| [charmbracelet/vhs](https://github.com/charmbracelet/vhs) | Your CLI home video recorder 📼 | Go | 20423 |
-| [charmbracelet/gum](https://github.com/charmbracelet/gum) | A tool for glamorous shell scripts 🎀 | Go | 24068 |
+| [charmbracelet/vhs](https://github.com/charmbracelet/vhs) | Your CLI home video recorder 📼 | Go | 20431 |
+| [charmbracelet/gum](https://github.com/charmbracelet/gum) | A tool for glamorous shell scripts 🎀 | Go | 24077 |
 | [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) | The live data layer for apps and AI agents. Create up-to-the-second views into your business, just using SQL | Rust | 6335 |
-| [etcd-io/bbolt](https://github.com/etcd-io/bbolt) | An embedded key/value database for Go. | Go | 9642 |
+| [etcd-io/bbolt](https://github.com/etcd-io/bbolt) | An embedded key/value database for Go. | Go | 9645 |
 | [ngrunwald/tendre](https://github.com/ngrunwald/tendre) | Clojure persistent map implemntation based on Jetbrain Xodus | Clojure | 1 |
 | [skuttleman/spigot](https://github.com/skuttleman/spigot) |  | Clojure | 3 |
 | [dvingo/malli-react-hook-form](https://github.com/dvingo/malli-react-hook-form) | Sample app demonstrating how to integrate malli with react-hook-form | Clojure | 14 |
@@ -968,68 +969,68 @@
 | [cgrand/enliven](https://github.com/cgrand/enliven) | Enlive next: faster, better, broader | Clojure | 242 |
 | [fredoverflow/clopad](https://github.com/fredoverflow/clopad) | Clojure + Notepad = Clopad! | Java | 112 |
 | [gethop-dev/hop-cli](https://github.com/gethop-dev/hop-cli) | The HOP Command Line Interface | Clojure | 16 |
-| [emacs-mirror/emacs](https://github.com/emacs-mirror/emacs) | Mirror of GNU Emacs | Emacs Lisp | 5123 |
+| [emacs-mirror/emacs](https://github.com/emacs-mirror/emacs) | Mirror of GNU Emacs | Emacs Lisp | 5125 |
 | [primeteach/specomatic](https://github.com/primeteach/specomatic) | A Clojure(script) library to define entities and their relationships via clojure.spec, and to ask questions about them. | Clojure | 11 |
 | [primeteach/specomatic-db](https://github.com/primeteach/specomatic-db) | Define your entities and relationships using clojure.spec and / or specomatic, get an immutable SQL database that understands seql and supports access control. | Clojure | 25 |
 | [mentat-collective/Leva.cljs](https://github.com/mentat-collective/Leva.cljs) | Clojurescript / Reagent bindings for the Leva GUI library. | Clojure | 49 |
-| [pmndrs/leva](https://github.com/pmndrs/leva) | 🌋 React-first components GUI | TypeScript | 6096 |
-| [grafana/k6](https://github.com/grafana/k6) | A modern load testing tool, using Go and JavaScript | Go | 31079 |
-| [openebs/openebs](https://github.com/openebs/openebs) | A popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes. |  | 9785 |
+| [pmndrs/leva](https://github.com/pmndrs/leva) | 🌋 React-first components GUI | TypeScript | 6099 |
+| [grafana/k6](https://github.com/grafana/k6) | A modern load testing tool, using Go and JavaScript | Go | 31092 |
+| [openebs/openebs](https://github.com/openebs/openebs) | A popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes. |  | 9787 |
 | [ferdinand-beyer/init](https://github.com/ferdinand-beyer/init) | Dependency injection a la carte | Clojure | 57 |
-| [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) | Nyxt - the hacker's browser. | Common Lisp | 10959 |
+| [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) | Nyxt - the hacker's browser. | Common Lisp | 10960 |
 | [TeamNewPipe/NewPipeExtractor](https://github.com/TeamNewPipe/NewPipeExtractor) | NewPipe's core library for extracting data from streaming sites | Java | 1919 |
 | [prestancedesign/babashka-htmx-todoapp](https://github.com/prestancedesign/babashka-htmx-todoapp) | Quick example of a todo list SPA using Babashka and htmx | Clojure | 176 |
-| [LWJGL/lwjgl3](https://github.com/LWJGL/lwjgl3) | LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan, bgfx), audio (OpenAL, Opus), parallel computing (OpenCL, CUDA) and XR (OpenVR, LibOVR, OpenXR) applications. | Java | 5401 |
+| [LWJGL/lwjgl3](https://github.com/LWJGL/lwjgl3) | LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan, bgfx), audio (OpenAL, Opus), parallel computing (OpenCL, CUDA) and XR (OpenVR, LibOVR, OpenXR) applications. | Java | 5404 |
 | [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) | Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. | C | 17298 |
-| [coollabsio/coolify](https://github.com/coollabsio/coolify) | An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers. | PHP | 59205 |
+| [coollabsio/coolify](https://github.com/coollabsio/coolify) | An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers. | PHP | 59293 |
 | [logseq/nbb-logseq](https://github.com/logseq/nbb-logseq) | nbb with features enabled for logseq | Clojure | 176 |
 | [yannh/kubernetes-json-schema](https://github.com/yannh/kubernetes-json-schema) | JSON Schemas for every version of every object in every version of Kubernetes |  | 543 |
-| [odin-lang/Odin](https://github.com/odin-lang/Odin) | Odin Programming Language | Odin | 11453 |
-| [yannh/kubeconform](https://github.com/yannh/kubeconform) | A FAST Kubernetes manifests validator, with support for Custom Resources! | Go | 3120 |
+| [odin-lang/Odin](https://github.com/odin-lang/Odin) | Odin Programming Language | Odin | 11461 |
+| [yannh/kubeconform](https://github.com/yannh/kubeconform) | A FAST Kubernetes manifests validator, with support for Custom Resources! | Go | 3124 |
 | [barracudanetworks/lighthouse](https://github.com/barracudanetworks/lighthouse) | A data-driven Kubernetes pre-processor | Clojure | 61 |
 | [markus-wa/cq](https://github.com/markus-wa/cq) | Clojure Query: A Command-line Data Processor for JSON, YAML, EDN, XML and more | Clojure | 186 |
 | [juxt-site/site](https://github.com/juxt-site/site) | A platform for building stateful API services. | Clojure | 80 |
-| [mawww/kakoune](https://github.com/mawww/kakoune) | mawww's experiment for a better code editor | C++ | 10998 |
+| [mawww/kakoune](https://github.com/mawww/kakoune) | mawww's experiment for a better code editor | C++ | 10997 |
 | [Almoullim/background_location](https://github.com/Almoullim/background_location) | Flutter background location plugin for Android and iOS | Kotlin | 236 |
-| [flutter/flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | Dart | 177898 |
+| [flutter/flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | Dart | 177901 |
 | [mlanza/atomic](https://github.com/mlanza/atomic) | Write ClojureScript in JavaScript without a transpiler. | JavaScript | 37 |
 | [Checkmk/checkmk](https://github.com/Checkmk/checkmk) | Checkmk - Best-in-class infrastructure & application monitoring | Python | 2319 |
 | [yaml/pyyaml](https://github.com/yaml/pyyaml) | Canonical source repository for PyYAML | Python | 2919 |
 | [donut-party/frontend](https://github.com/donut-party/frontend) |  | Clojure | 2 |
-| [donut-party/system](https://github.com/donut-party/system) | a dependency injection library for Clojure and ClojureScript 🍩 | Clojure | 227 |
+| [donut-party/system](https://github.com/donut-party/system) | a dependency injection library for Clojure and ClojureScript 🍩 | Clojure | 226 |
 | [google/clojure-turtle](https://github.com/google/clojure-turtle) | A Clojure library that implements the Logo programming language in a Clojure context | Clojure | 424 |
-| [encoredev/encore](https://github.com/encoredev/encore) | The infrastructure platform for the intelligence era | Go | 12174 |
+| [encoredev/encore](https://github.com/encoredev/encore) | The infrastructure platform for the intelligence era | Go | 12176 |
 | [Flexiana/tiny-rbac](https://github.com/Flexiana/tiny-rbac) | Role based access control | Clojure | 14 |
 | [factorhouse/slipway](https://github.com/factorhouse/slipway) | A Clojure Companion to Jetty | Clojure | 69 |
 | [gluster/glusterfs](https://github.com/gluster/glusterfs) | Gluster Filesystem : Build your distributed storage in minutes | C | 5212 |
 | [Quantisan/docker-clojure](https://github.com/Quantisan/docker-clojure) | Official Docker image for Clojure | Dockerfile | 204 |
 | [ont-app/igraph](https://github.com/ont-app/igraph) | Defines a protocol for viewing data as Subject-Predicate-Object graphs, with a simple typedef implementing same | Clojure | 100 |
-| [velero-io/velero](https://github.com/velero-io/velero) | Backup and migrate Kubernetes applications and their persistent volumes | Go | 10156 |
+| [velero-io/velero](https://github.com/velero-io/velero) | Backup and migrate Kubernetes applications and their persistent volumes | Go | 10157 |
 | [kennytilton/flutter-mx](https://github.com/kennytilton/flutter-mx) | Flutter + ClojureDart, with Matrix Inside(tm) | Clojure | 135 |
 | [clojure-emacs/haystack](https://github.com/clojure-emacs/haystack) | Let's make the most of Clojure's infamous stacktraces! | Clojure | 36 |
 | [timsneath/dart_console](https://github.com/timsneath/dart_console) | Dart library for writing console applications | Dart | 263 |
-| [gdamore/tcell](https://github.com/gdamore/tcell) | Tcell is an alternate terminal package, similar in some ways to termbox, but better in others. | Go | 5203 |
-| [exaloop/codon](https://github.com/exaloop/codon) | A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support | Python | 16812 |
-| [dexidp/dex](https://github.com/dexidp/dex) | OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors | Go | 10978 |
+| [gdamore/tcell](https://github.com/gdamore/tcell) | Tcell is an alternate terminal package, similar in some ways to termbox, but better in others. | Go | 5204 |
+| [exaloop/codon](https://github.com/exaloop/codon) | A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support | Python | 16813 |
+| [dexidp/dex](https://github.com/dexidp/dex) | OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors | Go | 10979 |
 | [clj-commons/manifold](https://github.com/clj-commons/manifold) | A compatibility layer for event-driven abstractions | Clojure | 1052 |
-| [grafana/loki](https://github.com/grafana/loki) | Like Prometheus, but for logs. | Go | 28599 |
-| [fluent/fluentd](https://github.com/fluent/fluentd) | Fluentd: Unified Logging Layer (project under CNCF) | Ruby | 13562 |
-| [AmaiKinono/puni](https://github.com/AmaiKinono/puni) | Structured editing (soft deletion, expression navigating & manipulating) that supports many major modes out of the box. | Emacs Lisp | 487 |
-| [seancorfield/usermanager-example](https://github.com/seancorfield/usermanager-example) | A little demo web app in Clojure, using Component, Ring, Compojure, Selmer (and a database) | Clojure | 369 |
+| [grafana/loki](https://github.com/grafana/loki) | Like Prometheus, but for logs. | Go | 28605 |
+| [fluent/fluentd](https://github.com/fluent/fluentd) | Fluentd: Unified Logging Layer (project under CNCF) | Ruby | 13563 |
+| [AmaiKinono/puni](https://github.com/AmaiKinono/puni) | Structured editing (soft deletion, expression navigating & manipulating) that supports many major modes out of the box. | Emacs Lisp | 486 |
+| [seancorfield/usermanager-example](https://github.com/seancorfield/usermanager-example) | A little demo web app in Clojure, using Component, Ring, Compojure, Selmer (and a database) | Clojure | 368 |
 | [arskom/spyne](https://github.com/arskom/spyne) | A transport agnostic sync/async RPC library that focuses on exposing services with a well-defined API using popular protocols. | Python | 1151 |
-| [roc-lang/roc](https://github.com/roc-lang/roc) | A fast, friendly, functional language. | Zig | 5858 |
+| [roc-lang/roc](https://github.com/roc-lang/roc) | A fast, friendly, functional language. | Zig | 5860 |
 | [mikera/imagez](https://github.com/mikera/imagez) | Image processing library for Clojure | Clojure | 310 |
 | [mpenet/hirundo](https://github.com/mpenet/hirundo) | Helidon 4.x - RING clojure adapter | Clojure | 125 |
-| [osquery/osquery](https://github.com/osquery/osquery) | SQL powered operating system instrumentation, monitoring, and analytics. | C++ | 23408 |
+| [osquery/osquery](https://github.com/osquery/osquery) | SQL powered operating system instrumentation, monitoring, and analytics. | C++ | 23409 |
 | [lambdaisland/clj-diff](https://github.com/lambdaisland/clj-diff) | Diff for Clojure Sequences | Clojure | 9 |
 | [AppsFlyer/pronto](https://github.com/AppsFlyer/pronto) | Clojure support for protocol buffers | Clojure | 126 |
 | [clj-commons/hickory](https://github.com/clj-commons/hickory) | HTML as data | Clojure | 678 |
 | [nextjournal/lazo](https://github.com/nextjournal/lazo) |  | Clojure | 41 |
-| [clientIO/joint](https://github.com/clientIO/joint) | A proven SVG-based JavaScript diagramming library powering exceptional UIs | JavaScript | 5306 |
+| [clientIO/joint](https://github.com/clientIO/joint) | A proven SVG-based JavaScript diagramming library powering exceptional UIs | JavaScript | 5309 |
 | [cozodb/cozo-clj](https://github.com/cozodb/cozo-clj) | Clojure bindings for CozoDb | Clojure | 27 |
-| [cozodb/cozo](https://github.com/cozodb/cozo) | A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI! | Rust | 4058 |
-| [helix-editor/helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. | Rust | 45542 |
-| [treee111/wahooMapsCreator](https://github.com/treee111/wahooMapsCreator) | Create maps for Wahoo device based on latest OSM maps | Python | 331 |
+| [cozodb/cozo](https://github.com/cozodb/cozo) | A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI! | Rust | 4060 |
+| [helix-editor/helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. | Rust | 45550 |
+| [treee111/wahooMapsCreator](https://github.com/treee111/wahooMapsCreator) | Create maps for Wahoo device based on latest OSM maps | Python | 332 |
 | [Yelp/dumb-init](https://github.com/Yelp/dumb-init) | A minimal init system for Linux containers | Python | 7295 |
 | [suprematic/globus](https://github.com/suprematic/globus) | Bash-like globbing patterns for Clojure(Script). | Clojure | 13 |
 | [joshuamiller/react-native-template-cljs-krell-storybook](https://github.com/joshuamiller/react-native-template-cljs-krell-storybook) | A React Native Template for installing a working ClojureScript, Krell, and Storybook environment | TypeScript | 53 |
@@ -1037,68 +1038,68 @@
 | [kubernetes/git-sync](https://github.com/kubernetes/git-sync) | A sidecar app which clones a git repo and keeps it in sync with the upstream. | Shell | 2718 |
 | [pangloss/pattern](https://github.com/pangloss/pattern) | Pattern is an extensible combinator-based pattern match and substitution library. It's amazingly powerful. | Clojure | 154 |
 | [donut-party/dbxray](https://github.com/donut-party/dbxray) | view your database's metadata skeleton and generate schemas from it 🩻 | Clojure | 123 |
-| [apache/airflow](https://github.com/apache/airflow) | Apache Airflow - A platform to programmatically author, schedule, and monitor workflows | Python | 46203 |
+| [apache/airflow](https://github.com/apache/airflow) | Apache Airflow - A platform to programmatically author, schedule, and monitor workflows | Python | 46213 |
 | [clojure/core.logic](https://github.com/clojure/core.logic) | A logic programming library for Clojure & ClojureScript | Clojure | 1502 |
 | [swannodette/chambered](https://github.com/swannodette/chambered) | Port of Notch's Minecraft JavaScript demo to ClojureScript | JavaScript | 70 |
 | [simongray/clojure-graph-resources](https://github.com/simongray/clojure-graph-resources) | A curated list of Clojure resources for dealing with graph-like data. |  | 301 |
 | [fredoverflow/skorbut](https://github.com/fredoverflow/skorbut) | Let us C what's going on in memory! | Kotlin | 258 |
-| [neondatabase/neon](https://github.com/neondatabase/neon) | Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero. | Rust | 22637 |
+| [neondatabase/neon](https://github.com/neondatabase/neon) | Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero. | Rust | 22643 |
 | [ferdinand-beyer/reitit-ring-defaults](https://github.com/ferdinand-beyer/reitit-ring-defaults) | Sensible data-driven Ring middleware defaults | Clojure | 31 |
 | [tatut/xtdb-inspector](https://github.com/tatut/xtdb-inspector) | Web UI for inspecting XTDB (v1) database | Clojure | 97 |
 | [clj-kondo/configs](https://github.com/clj-kondo/configs) | Library configurations as dependencies for clj-kondo | Clojure | 16 |
-| [facebook/rocksdb](https://github.com/facebook/rocksdb) | A library that provides an embeddable, persistent key-value store for fast storage. | C++ | 31895 |
-| [pingcap/tidb](https://github.com/pingcap/tidb) | TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling. | Go | 40322 |
-| [crossplane/crossplane](https://github.com/crossplane/crossplane) | The Cloud Native Control Plane | Go | 11878 |
-| [codenotary/immudb](https://github.com/codenotary/immudb) | immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history | Go | 9004 |
+| [facebook/rocksdb](https://github.com/facebook/rocksdb) | A library that provides an embeddable, persistent key-value store for fast storage. | C++ | 31897 |
+| [pingcap/tidb](https://github.com/pingcap/tidb) | TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling. | Go | 40326 |
+| [crossplane/crossplane](https://github.com/crossplane/crossplane) | The Cloud Native Control Plane | Go | 11881 |
+| [codenotary/immudb](https://github.com/codenotary/immudb) | immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history | Go | 9002 |
 | [codenotary/immudb4j](https://github.com/codenotary/immudb4j) | Java SDK for immudb | Java | 40 |
 | [taoensso/tempura](https://github.com/taoensso/tempura) | Simple text localization library for Clojure/Script | Clojure | 264 |
 | [casselc/clj-msi](https://github.com/casselc/clj-msi) |  | PowerShell | 76 |
 | [borkdude/grasp](https://github.com/borkdude/grasp) | Grep Clojure code using clojure.spec regexes | Clojure | 250 |
-| [ceph/ceph](https://github.com/ceph/ceph) | Ceph is a distributed object, block, and file storage platform  | C++ | 16844 |
-| [rook/rook](https://github.com/rook/rook) | Storage Orchestration for Kubernetes | Go | 13582 |
+| [ceph/ceph](https://github.com/ceph/ceph) | Ceph is a distributed object, block, and file storage platform  | C++ | 16850 |
+| [rook/rook](https://github.com/rook/rook) | Storage Orchestration for Kubernetes | Go | 13583 |
 | [peterschwarz/clj-firmata](https://github.com/peterschwarz/clj-firmata) | clj-firmata provides access to Standard Firmata (http://firmata.org/) commands via clojure.  | Clojure | 56 |
 | [toyokumo/ring-middleware-csp](https://github.com/toyokumo/ring-middleware-csp) | Ring middleware for Content Security Policy | Clojure | 9 |
-| [replit/kaboom](https://github.com/replit/kaboom) | 💥 JavaScript game library | TypeScript | 2736 |
+| [replit/kaboom](https://github.com/replit/kaboom) | 💥 JavaScript game library | TypeScript | 2737 |
 | [borkdude/lein2deps](https://github.com/borkdude/lein2deps) | Lein project.clj to deps.edn converter | Clojure | 70 |
 | [lambdaisland/launchpad](https://github.com/lambdaisland/launchpad) | Clojure/nREPL launcher | Clojure | 128 |
 | [clojure/data.fressian](https://github.com/clojure/data.fressian) | Read and write Fressian data from Clojure | Clojure | 131 |
 | [hubisan/emacs-wsl](https://github.com/hubisan/emacs-wsl) | Install and run Emacs with the Windows Subsystem for Linux (WSL 2) in Windows 10 or 11. | CSS | 600 |
-| [PaperMC/Paper](https://github.com/PaperMC/Paper) | The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies | Java | 12515 |
+| [PaperMC/Paper](https://github.com/PaperMC/Paper) | The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies | Java | 12514 |
 | [Bukkit/Bukkit](https://github.com/Bukkit/Bukkit) | The Minecraft Mod API | Java | 2471 |
-| [hexops/mach](https://github.com/hexops/mach) | zig game engine & graphics toolkit - mirror of https://code.hexops.com/hexops/mach | Zig | 4804 |
+| [hexops/mach](https://github.com/hexops/mach) | zig game engine & graphics toolkit - mirror of https://code.hexops.com/hexops/mach | Zig | 4803 |
 | [clj-commons/clj-ssh](https://github.com/clj-commons/clj-ssh) | SSH commands via jsch | Clojure | 241 |
-| [mpv-player/mpv](https://github.com/mpv-player/mpv) | 🎥 Command line media player | C | 36108 |
+| [mpv-player/mpv](https://github.com/mpv-player/mpv) | 🎥 Command line media player | C | 36124 |
 | [cjohansen/dumdom](https://github.com/cjohansen/dumdom) | Efficiently render and re-render immutable data | Clojure | 170 |
 | [epiccastle/bbssh](https://github.com/epiccastle/bbssh) | Babashka pod for SSH support. | Clojure | 60 |
 | [frenchy64/fully-satisfies](https://github.com/frenchy64/fully-satisfies) | Utility functions for Clojure. | Clojure | 63 |
-| [tauri-apps/create-tauri-app](https://github.com/tauri-apps/create-tauri-app) | Rapidly scaffold out a new tauri app project. | Rust | 1606 |
-| [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. | Rust | 109289 |
+| [tauri-apps/create-tauri-app](https://github.com/tauri-apps/create-tauri-app) | Rapidly scaffold out a new tauri app project. | Rust | 1609 |
+| [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. | Rust | 109331 |
 | [samsara/samsara](https://github.com/samsara/samsara) | Samsara is a real-time analytics platform | Clojure | 146 |
-| [openzipkin/zipkin](https://github.com/openzipkin/zipkin) | Zipkin is a distributed tracing system | Java | 17447 |
+| [openzipkin/zipkin](https://github.com/openzipkin/zipkin) | Zipkin is a distributed tracing system | Java | 17448 |
 | [BrunoBonacci/mulog](https://github.com/BrunoBonacci/mulog) | μ/log is a micro-logging library that logs events and data, not words! | Clojure | 537 |
 | [nivekuil/nexus](https://github.com/nivekuil/nexus) | Ergonomic dependency injection via logic programming | Clojure | 62 |
 | [babashka/process](https://github.com/babashka/process) | Clojure library for shelling out / spawning sub-processes | Clojure | 247 |
 | [nenadalm/life-counter](https://github.com/nenadalm/life-counter) | Life counter app for 2 - 4 players. Supports game profiles, count up/down. | Clojure | 4 |
 | [hoplon/castra](https://github.com/hoplon/castra) | HTTP remote procedure call handler for Clojure. | Clojure | 172 |
-| [ziglang/zig](https://github.com/ziglang/zig) | Moved to Codeberg | Zig | 43282 |
+| [ziglang/zig](https://github.com/ziglang/zig) | Moved to Codeberg | Zig | 43276 |
 | [roman01la/cljs-worklet](https://github.com/roman01la/cljs-worklet) | Run ClojureScript functions on a worklet thread in React Native | Clojure | 32 |
 | [juxt/pick](https://github.com/juxt/pick) | A Clojure library for HTTP server-driven content negotiation. | Clojure | 20 |
 | [felipereigosa/mock-mechanics](https://github.com/felipereigosa/mock-mechanics) | Mechanical/visual programming language | Clojure | 176 |
 | [peterschwarz/virtua](https://github.com/peterschwarz/virtua) |  | Clojure | 5 |
-| [jankotek/mapdb](https://github.com/jankotek/mapdb) | MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory. It is a fast and easy to use embedded Java database engine. | Java | 5049 |
-| [canonical/microk8s](https://github.com/canonical/microk8s) | MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge. | Python | 9341 |
+| [jankotek/mapdb](https://github.com/jankotek/mapdb) | MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory. It is a fast and easy to use embedded Java database engine. | Java | 5050 |
+| [canonical/microk8s](https://github.com/canonical/microk8s) | MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge. | Python | 9343 |
 | [fleabitdev/glsp](https://github.com/fleabitdev/glsp) | The GameLisp scripting language | Rust | 400 |
-| [gambit/gambit](https://github.com/gambit/gambit) | Gambit is an efficient implementation of the Scheme programming language. | Scheme | 1434 |
+| [gambit/gambit](https://github.com/gambit/gambit) | Gambit is an efficient implementation of the Scheme programming language. | Scheme | 1436 |
 | [fogleman/ln](https://github.com/fogleman/ln) | 3D line art engine. | Go | 3376 |
 | [ferdinand-beyer/refx](https://github.com/ferdinand-beyer/refx) | re-frame without Reagent | Clojure | 151 |
 | [io-tupelo/clj-template-old](https://github.com/io-tupelo/clj-template-old) | A simple template for Clojure projects | Clojure | 16 |
 | [clojure/core.typed](https://github.com/clojure/core.typed) | An optional type system for Clojure | Clojure | 1312 |
 | [phronmophobic/dewey](https://github.com/phronmophobic/dewey) | Index of Clojure libraries available on github. | Clojure | 102 |
 | [clojure/clojure](https://github.com/clojure/clojure) | The Clojure programming language | Java | 10934 |
-| [tonsky/FiraCode](https://github.com/tonsky/FiraCode) | Free monospaced font with programming ligatures | Clojure | 81851 |
+| [tonsky/FiraCode](https://github.com/tonsky/FiraCode) | Free monospaced font with programming ligatures | Clojure | 81855 |
 | [scicloj/clojure-data-cookbook](https://github.com/scicloj/clojure-data-cookbook) | A book about how to do common data manipulation, analysis, and visualization tasks in Clojure | Clojure | 100 |
-| [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) | Work with remote images registries - retrieving information, images, signing content | Go | 11080 |
-| [git/git](https://github.com/git/git) | Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements. | C | 62133 |
+| [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) | Work with remote images registries - retrieving information, images, signing content | Go | 11081 |
+| [git/git](https://github.com/git/git) | Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements. | C | 62152 |
 | [G6EJD/ESP32-e-Paper-Weather-Display](https://github.com/G6EJD/ESP32-e-Paper-Weather-Display) | An ESP32 and 2.9", 4.2" or 7.5" ePaper Display reads Weather Underground data via their API and then displays the weather | C | 1173 |
 | [clojure/data.generators](https://github.com/clojure/data.generators) | Random data generators | Clojure | 91 |
 | [mstange/samply](https://github.com/mstange/samply) | Command-line sampling profiler for macOS, Linux, and Windows | Rust | 4315 |
@@ -1122,20 +1123,20 @@
 | [michaelklishin/monger](https://github.com/michaelklishin/monger) | Monger is an idiomatic Clojure MongoDB driver with sane defaults, batteries included, well documented, low overhead | Clojure | 483 |
 | [berthubert/googerteller](https://github.com/berthubert/googerteller) | audible feedback on just how much your browsing feeds into google | C++ | 2226 |
 | [flexsurfer/rn-shadow-steroid](https://github.com/flexsurfer/rn-shadow-steroid) | React Native with shadow-cljs on steroids | Clojure | 66 |
-| [4ian/GDevelop](https://github.com/4ian/GDevelop) | 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone. | JavaScript | 24990 |
+| [4ian/GDevelop](https://github.com/4ian/GDevelop) | 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone. | JavaScript | 25020 |
 | [ruricolist/cloture](https://github.com/ruricolist/cloture) | Clojure in Common Lisp | Common Lisp | 399 |
 | [picolisp/pil21](https://github.com/picolisp/pil21) | PicoLisp is an open source Lisp dialect. It is based on LLVM and compiles and runs on any 64-bit POSIX system. Its most prominent features are simplicity and minimalism.  | LLVM | 250 |
 | [jonase/eastwood](https://github.com/jonase/eastwood) | Clojure lint tool | Clojure | 1083 |
 | [fsantiag/sonar-clojure](https://github.com/fsantiag/sonar-clojure) | A SonarQube plugin to analyze Clojure source. | Java | 59 |
-| [jank-lang/jank](https://github.com/jank-lang/jank) | jank is the native Clojure dialect with seamless C++ interop. | C++ | 3299 |
-| [squint-cljs/squint](https://github.com/squint-cljs/squint) | Light-weight ClojureScript dialect | Clojure | 882 |
+| [jank-lang/jank](https://github.com/jank-lang/jank) | jank is the native Clojure dialect with seamless C++ interop. | C++ | 3298 |
+| [squint-cljs/squint](https://github.com/squint-cljs/squint) | Light-weight ClojureScript dialect | Clojure | 883 |
 | [lilactown/pyramid](https://github.com/lilactown/pyramid) | A library for storing and querying graph data in Clojure | Clojure | 237 |
 | [grzm/uri-template](https://github.com/grzm/uri-template) | Clojure implementation of URI Template (RFC 6570) | Clojure | 24 |
 | [HealthSamurai/prometheus.clj](https://github.com/HealthSamurai/prometheus.clj) | Pure clojure prometheus library | Clojure | 30 |
 | [vito/bass](https://github.com/vito/bass) | a low fidelity scripting language for project infrastructure | Go | 427 |
-| [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) | Automatically provision and manage TLS certificates in Kubernetes | Go | 13959 |
+| [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) | Automatically provision and manage TLS certificates in Kubernetes | Go | 13962 |
 | [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) | Build Container Images In Kubernetes | Go | 15785 |
-| [AppsFlyer/ketu](https://github.com/AppsFlyer/ketu) | A clojure kafka client with core.async integration. | Clojure | 129 |
+| [AppsFlyer/ketu](https://github.com/AppsFlyer/ketu) | A clojure kafka client with core.async integration. | Clojure | 130 |
 | [nextjournal/beholder](https://github.com/nextjournal/beholder) | The Clojure directory watcher from Krell as a standalone library. | Clojure | 127 |
 | [killme2008/clj-xmemcached](https://github.com/killme2008/clj-xmemcached) | Memcached client for clojure.  | Clojure | 25 |
 | [nilenso/goose](https://github.com/nilenso/goose) | A powerful background job processing library for Clojure | Clojure | 312 |
@@ -1145,8 +1146,8 @@
 | [samply/blaze](https://github.com/samply/blaze) | A FHIR® Server with internal, fast CQL Evaluation Engine | Clojure | 224 |
 | [kwrooijen/clj-stimulus](https://github.com/kwrooijen/clj-stimulus) | Clojure wrapper for Stimulus | Clojure | 10 |
 | [kwrooijen/clj-turbo](https://github.com/kwrooijen/clj-turbo) | Clojure wrapper for Turbo | Clojure | 10 |
-| [haproxy/haproxy](https://github.com/haproxy/haproxy) | HAProxy Load Balancer's development branch (mirror of git.haproxy.org) | C | 6719 |
-| [superfly/litefs](https://github.com/superfly/litefs) | FUSE-based file system for replicating SQLite databases across a cluster of machines | Go | 4832 |
+| [haproxy/haproxy](https://github.com/haproxy/haproxy) | HAProxy Load Balancer's development branch (mirror of git.haproxy.org) | C | 6723 |
+| [superfly/litefs](https://github.com/superfly/litefs) | FUSE-based file system for replicating SQLite databases across a cluster of machines | Go | 4835 |
 | [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) | The mighty, self-hostable Git server for the command line🍦 | Go | 7104 |
 | [wobsoriano/blipgloss](https://github.com/wobsoriano/blipgloss) | Style definitions for nice terminal layouts 👄 | TypeScript | 212 |
 | [oxalorg/clj-konmari](https://github.com/oxalorg/clj-konmari) | The Life‑Changing Magic of Tidying Up Clojure Codebases | Clojure | 38 |
@@ -1154,27 +1155,27 @@
 | [liquidz/merr](https://github.com/liquidz/merr) | :fire: Minimal and good enough error handling library for Clojure/ClojureScript | Clojure | 63 |
 | [HealthSamurai/macrocss](https://github.com/HealthSamurai/macrocss) |  | Clojure | 68 |
 | [slagyr/speclj](https://github.com/slagyr/speclj) | pronounced "speckle": a TDD/BDD framework for Clojure. | Clojure | 488 |
-| [unclebob/more-speech](https://github.com/unclebob/more-speech) | A Nostr browser in Clojure.   | Clojure | 312 |
-| [squint-cljs/cherry](https://github.com/squint-cljs/cherry) | Experimental ClojureScript to ES6 module compiler | Clojure | 652 |
+| [unclebob/more-speech](https://github.com/unclebob/more-speech) | A Nostr browser in Clojure.   | Clojure | 311 |
+| [squint-cljs/cherry](https://github.com/squint-cljs/cherry) | Experimental ClojureScript to ES6 module compiler | Clojure | 653 |
 | [karls/collage](https://github.com/karls/collage) | A clean, minimal image processing library for Clojure | Clojure | 66 |
 | [jmglov/blambda](https://github.com/jmglov/blambda) | Blambda! is a custom runtime for AWS Lambda that lets you write functions using Babashka | Clojure | 93 |
 | [weaveworks/weave-gitops](https://github.com/weaveworks/weave-gitops) | Weave GitOps is transitioning to a community driven project! It provides insights into your application deployments, and makes continuous delivery with GitOps easier to adopt and scale across your teams. | MDX | 1123 |
-| [fluxcd/flux2](https://github.com/fluxcd/flux2) | Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit. | Go | 8285 |
+| [fluxcd/flux2](https://github.com/fluxcd/flux2) | Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit. | Go | 8287 |
 | [StefanScherer/docker-cli-builder](https://github.com/StefanScherer/docker-cli-builder) | Build Docker CLI for Windows | Dockerfile | 256 |
-| [stakater/Reloader](https://github.com/stakater/Reloader) | A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it! | Go | 10241 |
-| [k3s-io/k3s](https://github.com/k3s-io/k3s) | Lightweight Kubernetes | Go | 33532 |
+| [stakater/Reloader](https://github.com/stakater/Reloader) | A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it! | Go | 10245 |
+| [k3s-io/k3s](https://github.com/k3s-io/k3s) | Lightweight Kubernetes | Go | 33542 |
 | [rivo/tview](https://github.com/rivo/tview) | Terminal UI library with rich, interactive widgets — written in Golang | Go | 14007 |
-| [derailed/k9s](https://github.com/derailed/k9s) | 🐶 Kubernetes CLI To Manage Your Clusters In Style! | Go | 34178 |
-| [bitnami/sealed-secrets](https://github.com/bitnami/sealed-secrets) | A Kubernetes controller and tool for one-way encrypted Secrets | Go | 9208 |
-| [netbirdio/netbird](https://github.com/netbirdio/netbird) | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | Go | 27517 |
+| [derailed/k9s](https://github.com/derailed/k9s) | 🐶 Kubernetes CLI To Manage Your Clusters In Style! | Go | 34182 |
+| [bitnami/sealed-secrets](https://github.com/bitnami/sealed-secrets) | A Kubernetes controller and tool for one-way encrypted Secrets | Go | 9211 |
+| [netbirdio/netbird](https://github.com/netbirdio/netbird) | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | Go | 27545 |
 | [thheller/shadow-grove](https://github.com/thheller/shadow-grove) | A ClojureScript system to build browser based frontends | Clojure | 288 |
 | [thheller/shadow-graft](https://github.com/thheller/shadow-graft) |  | Clojure | 59 |
 | [ykskb/phrag](https://github.com/ykskb/phrag) | GraphQL API created from an RDBMS connection for instant, flexible and customizable CRUD operations. | Clojure | 45 |
 | [pitch-io/uix](https://github.com/pitch-io/uix) | Idiomatic ClojureScript interface to modern React.js | Clojure | 537 |
 | [aphyr/dom-top](https://github.com/aphyr/dom-top) | Unorthodox control flow, for Clojurists with masochistic sensibilities. | Clojure | 213 |
 | [nnichols/clojure-lint-action](https://github.com/nnichols/clojure-lint-action) | A GitHub Action that lints clojure files with clj-kondo and generates comments with reviewdog on pull requests to improve the code review experience. | Shell | 23 |
-| [oven-sh/bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | Rust | 94936 |
-| [pallets/quart](https://github.com/pallets/quart) | An async Python micro framework for building web applications.  | Python | 3648 |
+| [oven-sh/bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | Rust | 94943 |
+| [pallets/quart](https://github.com/pallets/quart) | An async Python micro framework for building web applications.  | Python | 3647 |
 | [johnmn3/cljs-thread](https://github.com/johnmn3/cljs-thread) |  | Clojure | 59 |
 | [clojurewerkz/money](https://github.com/clojurewerkz/money) | A Clojure library that deals with monetary values and currencies. Built on top of Joda Money. | Clojure | 161 |
 | [lispyclouds/navi](https://github.com/lispyclouds/navi) | A tiny, data-driven library converting OpenAPI spec to Reitit routes enabling spec-first practices. | Clojure | 74 |
@@ -1182,22 +1183,22 @@
 | [clj-commons/seesaw](https://github.com/clj-commons/seesaw) | Seesaw turns the Horror of Swing into a friendly, well-documented, Clojure library | Clojure | 1485 |
 | [netpyoung/pt.c-interop-in-clojure](https://github.com/netpyoung/pt.c-interop-in-clojure) | https://youtu.be/40cvevHg0J8 | Clojure | 12 |
 | [iongion/container-desktop](https://github.com/iongion/container-desktop) | Podman desktop companion | TypeScript | 1617 |
-| [labstack/echo](https://github.com/labstack/echo) | High performance, minimalist Go web framework | Go | 32542 |
+| [labstack/echo](https://github.com/labstack/echo) | High performance, minimalist Go web framework | Go | 32545 |
 | [ansiwave/nimwave](https://github.com/ansiwave/nimwave) | TUIs for the terminal, desktop, and web | Nim | 546 |
 | [nextjournal/markdown](https://github.com/nextjournal/markdown) | A cross-platform Clojure/Script parser for Markdown | Clojure | 97 |
 | [magnars/zombieclj-s02](https://github.com/magnars/zombieclj-s02) | Koden til ZombieCLJ Sesong 2 | CSS | 5 |
 | [jarohen/chord](https://github.com/jarohen/chord) | A library designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async. | Clojure | 442 |
 | [andrewmcloud/consimilo](https://github.com/andrewmcloud/consimilo) | A Clojure library for querying large data-sets on similarity | Clojure | 66 |
-| [TanStack/query](https://github.com/TanStack/query) | 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query. | TypeScript | 49971 |
+| [TanStack/query](https://github.com/TanStack/query) | 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query. | TypeScript | 49974 |
 | [Phlox-GL/phlox.cljs](https://github.com/Phlox-GL/phlox.cljs) | Canvas library based on Pixi.js for ClojureScript | Cirru | 23 |
 | [mogenslund/liquid](https://github.com/mogenslund/liquid) | Clojure Text Editor, for editing clojure code and markdown. Written entirely in Clojure with inspiration from Emacs and Vim. | Clojure | 970 |
 | [clojure-finance/clojask](https://github.com/clojure-finance/clojask) | Clojask is a Clojure data processing framework with parallel computing on larger-than-memory datasets | Clojure | 125 |
-| [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) | DALL·E Mini - Generate images from a text prompt | Python | 14748 |
+| [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) | DALL·E Mini - Generate images from a text prompt | Python | 14744 |
 | [lambdaisland/witchcraft-workshop](https://github.com/lambdaisland/witchcraft-workshop) | materials and code for the ClojureD 2022 workshop on Minecraft+Clojure | Clojure | 41 |
 | [exoscale/lingo](https://github.com/exoscale/lingo) | spec explain improved  | Clojure | 62 |
-| [apache/echarts](https://github.com/apache/echarts) | Apache ECharts is a powerful, interactive charting and data visualization library for browser | TypeScript | 66859 |
+| [apache/echarts](https://github.com/apache/echarts) | Apache ECharts is a powerful, interactive charting and data visualization library for browser | TypeScript | 66872 |
 | [retro/penkala](https://github.com/retro/penkala) | Composable query builder for PostgreSQL written in Clojure. | PLpgSQL | 104 |
-| [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | ClickHouse® is a real-time analytics database management system | C++ | 48765 |
+| [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | ClickHouse® is a real-time analytics database management system | C++ | 48800 |
 | [metabase/toucan](https://github.com/metabase/toucan) | A classy high-level Clojure library for defining application models and retrieving them from a DB | Clojure | 573 |
 | [pepijn/google-cloud-functions-clojure](https://github.com/pepijn/google-cloud-functions-clojure) | An experiment showing a (Clojure) ring adapter for the Google Cloud Function Java Runtime on Google Cloud Platform | Clojure | 15 |
 | [drcode/ezbitmap-clj](https://github.com/drcode/ezbitmap-clj) | Create beautiful images from your ASCII art | Clojure | 4 |
@@ -1205,16 +1206,16 @@
 | [drcode/ezbitmap](https://github.com/drcode/ezbitmap) | Create beautiful inline images in your code directly from ascii art | JavaScript | 7 |
 | [leafac/caxa](https://github.com/leafac/caxa) | 📦 Package Node.js applications into executable binaries 📦 |  | 697 |
 | [bherrmann7/bb-common](https://github.com/bherrmann7/bb-common) |  | Clojure | 19 |
-| [mame/quine-relay](https://github.com/mame/quine-relay) | An uroboros program with 100+ programming languages | Ruby | 14539 |
-| [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) | Secure and fast microVMs for serverless computing. | Rust | 35580 |
-| [DavidHDev/haiku](https://github.com/DavidHDev/haiku) | A clean & lightweight collection of React Hooks & Utilities! | TypeScript | 1000 |
-| [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) | A modern replacement for Redis and Memcached | C++ | 30903 |
+| [mame/quine-relay](https://github.com/mame/quine-relay) | An uroboros program with 100+ programming languages | Ruby | 14540 |
+| [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) | Secure and fast microVMs for serverless computing. | Rust | 35593 |
+| [DavidHDev/haiku](https://github.com/DavidHDev/haiku) | A clean & lightweight collection of React Hooks & Utilities! | TypeScript | 1001 |
+| [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) | A modern replacement for Redis and Memcached | C++ | 30898 |
 | [clj-commons/clj-http-lite](https://github.com/clj-commons/clj-http-lite) | A JVM and babashka compatible lite version of clj-http | Clojure | 80 |
 | [D00mch/DartClojure](https://github.com/D00mch/DartClojure) | Opinionated Dart->Clojure translater | Clojure | 103 |
 | [green-coder/mate](https://github.com/green-coder/mate) | Useful functions, some of which I wish were in the Clojure standard library. | Clojure | 22 |
 | [spacegangster/space-ui](https://github.com/spacegangster/space-ui) |  | Clojure | 10 |
 | [liquidz/build.edn](https://github.com/liquidz/build.edn) | Make your Clojure library build process easy. | Clojure | 92 |
-| [raysan5/raylib](https://github.com/raysan5/raylib) | A simple and easy-to-use library to enjoy videogames programming | C | 33977 |
+| [raysan5/raylib](https://github.com/raysan5/raylib) | A simple and easy-to-use library to enjoy videogames programming | C | 33998 |
 | [souenzzo/aim](https://github.com/souenzzo/aim) |  | Dart | 11 |
 | [matterandvoid-space/subscriptions](https://github.com/matterandvoid-space/subscriptions) | A subscriptions library over a source of data (forked + extracted from re-frame) | Clojure | 51 |
 | [okteto/okteto](https://github.com/okteto/okteto) | Develop your applications directly in your Kubernetes Cluster | Go | 3515 |
@@ -1223,24 +1224,24 @@
 | [repath-studio/repath-studio](https://github.com/repath-studio/repath-studio) | A web-based vector graphics editor that combines procedural tooling with traditional design workflows.  | Clojure | 161 |
 | [juji-io/symspell-clj](https://github.com/juji-io/symspell-clj) | SymSpell spell checker in Clojure | Java | 25 |
 | [rxp90/jsymspell](https://github.com/rxp90/jsymspell) | Java 8+ zero-dependency port of SymSpell: 1 million times faster through Symmetric Delete spelling correction algorithm | Java | 21 |
-| [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) | Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. | TypeScript | 29628 |
+| [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) | Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. | TypeScript | 29634 |
 | [runeanielsen/typesense-clj](https://github.com/runeanielsen/typesense-clj) | Clojure HTTP client for Typesense | Clojure | 22 |
-| [typesense/typesense](https://github.com/typesense/typesense) | Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences | C++ | 26341 |
+| [typesense/typesense](https://github.com/typesense/typesense) | Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences | C++ | 26345 |
 | [typesense/typesense-python](https://github.com/typesense/typesense-python) | Python client for Typesense: https://github.com/typesense/typesense | Python | 244 |
 | [DeLaGuardo/setup-clojure](https://github.com/DeLaGuardo/setup-clojure) | GitHub Action to provision clojure's most popular build tools for Linux, Mac OS X and Windows. | TypeScript | 222 |
-| [libgdx/libgdx](https://github.com/libgdx/libgdx) | Desktop/Android/HTML5/iOS Java game development framework | Java | 25243 |
+| [libgdx/libgdx](https://github.com/libgdx/libgdx) | Desktop/Android/HTML5/iOS Java game development framework | Java | 25247 |
 | [flosell/lambdacd](https://github.com/flosell/lambdacd) | a library to define a continuous delivery pipeline in code | Clojure | 672 |
 | [tobgu/pyrsistent](https://github.com/tobgu/pyrsistent) | Persistent/Immutable/Functional data structures for Python | Python | 2192 |
-| [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) | </> htmx - high power tools for HTML | JavaScript | 48584 |
+| [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) | </> htmx - high power tools for HTML | JavaScript | 48619 |
 | [alexkehayias/chocolatier](https://github.com/alexkehayias/chocolatier) | WIP ClojureScript game/engine using Pixi.js for rendering. | Clojure | 429 |
 | [rawleyfowler/sluj](https://github.com/rawleyfowler/sluj) | Sluj, the small but mighty slug encoding library for Clojure | Clojure | 39 |
-| [timbray/quamina](https://github.com/timbray/quamina) | Home of Quamina, a fast pattern-matching library in Go | Go | 496 |
+| [timbray/quamina](https://github.com/timbray/quamina) | Home of Quamina, a fast pattern-matching library in Go | Go | 497 |
 | [appleby/Lisp-In-Small-Pieces](https://github.com/appleby/Lisp-In-Small-Pieces) | Programs from the book Lisp in Small Pieces, updated to work on modern schemes | Scheme | 259 |
-| [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) | The simplest and most complete UI for your private docker registry v2 and v3 | Riot | 3492 |
+| [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) | The simplest and most complete UI for your private docker registry v2 and v3 | Riot | 3494 |
 | [Frege/frege](https://github.com/Frege/frege) | Frege is a Haskell for the JVM. It brings purely functional programing to the Java platform. | Frege | 3702 |
-| [kyverno/kyverno](https://github.com/kyverno/kyverno) | Unified Policy as Code | Go | 7952 |
+| [kyverno/kyverno](https://github.com/kyverno/kyverno) | Unified Policy as Code | Go | 7957 |
 | [flow-storm/flow-storm-debugger](https://github.com/flow-storm/flow-storm-debugger) | A debugger for Clojure and ClojureScript with some unique features. | Clojure | 857 |
-| [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) | 🏗 Build container images for your Java applications. | Java | 14435 |
+| [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) | 🏗 Build container images for your Java applications. | Java | 14436 |
 | [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) | Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch | Python | 11306 |
 | [D00mch/HowToClojureDart](https://github.com/D00mch/HowToClojureDart) | Live article on ClojureDart development introduction |  | 49 |
 | [grzm/awyeah-api](https://github.com/grzm/awyeah-api) | Cognitect's aws-api for babashka | Clojure | 100 |
@@ -1252,9 +1253,9 @@
 | [mhuebert/kitchen-async](https://github.com/mhuebert/kitchen-async) | A Promise library for ClojureScript, or a poor man's core.async | Clojure | 3 |
 | [nasa/Common-Metadata-Repository](https://github.com/nasa/Common-Metadata-Repository) | The Common Metadata Repository (CMR) is a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs. | Clojure | 392 |
 | [ydb-platform/ydb](https://github.com/ydb-platform/ydb) | YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions | C++ | 4754 |
-| [transistorsoft/flutter_background_geolocation](https://github.com/transistorsoft/flutter_background_geolocation) | Sophisticated, battery-conscious background-geolocation & geofencing with motion-detection | Dart | 724 |
+| [transistorsoft/flutter_background_geolocation](https://github.com/transistorsoft/flutter_background_geolocation) | Sophisticated, battery-conscious background-geolocation & geofencing with motion-detection | Dart | 725 |
 | [leonoel/cloroutine](https://github.com/leonoel/cloroutine) | Coroutine support for clojure | Clojure | 239 |
-| [puppetlabs/puppetdb](https://github.com/puppetlabs/puppetdb) | Centralized Puppet Storage | Clojure | 305 |
+| [puppetlabs/puppetdb](https://github.com/puppetlabs/puppetdb) | Centralized Puppet Storage | Clojure | 306 |
 | [puppetlabs/trapperkeeper](https://github.com/puppetlabs/trapperkeeper) | A services framework for Clojure / JVM applications. | Clojure | 584 |
 | [cnuernber/charred](https://github.com/cnuernber/charred) | zero dependency efficient read/write of json and csv data. | Clojure | 316 |
 | [collbox/http-cron](https://github.com/collbox/http-cron) | Service / Clojure library to POST to HTTP endpoints at regular intervals | Clojure | 8 |
@@ -1265,7 +1266,7 @@
 | [clj-commons/fs](https://github.com/clj-commons/fs) | File system utilities for Clojure. (forked from Raynes/fs) | Clojure | 81 |
 | [clj-commons/durable-queue](https://github.com/clj-commons/durable-queue) | a disk-backed queue for clojure | Clojure | 407 |
 | [uncomplicate/clojure-sound](https://github.com/uncomplicate/clojure-sound) |  | Clojure | 63 |
-| [Wilfred/difftastic](https://github.com/Wilfred/difftastic) | a structural diff that understands syntax 🟥🟩 | Rust | 25667 |
+| [Wilfred/difftastic](https://github.com/Wilfred/difftastic) | a structural diff that understands syntax 🟥🟩 | Rust | 25672 |
 | [Raynes/fs](https://github.com/Raynes/fs) | File system utilities for Clojure. | Clojure | 452 |
 | [leonoel/missionary](https://github.com/leonoel/missionary) | A functional effect and streaming system for Clojure/Script | Clojure | 791 |
 | [henrygarner/redstone](https://github.com/henrygarner/redstone) | A Clojure library for interacting with Minecraft: Pi Edition | Clojure | 16 |
@@ -1273,7 +1274,7 @@
 | [JMRodriguez24/obdii-console](https://github.com/JMRodriguez24/obdii-console) | Simple console to interact with obdii through serial port! | Clojure | 5 |
 | [kumarshantanu/ring-sse-middleware](https://github.com/kumarshantanu/ring-sse-middleware) | Ring middleware to stream Server-sent Events | Clojure | 23 |
 | [vspinu/commix](https://github.com/vspinu/commix) | Micro-framework for data-driven composable system architectures | Clojure | 50 |
-| [pedestal/pedestal](https://github.com/pedestal/pedestal) | The Pedestal Server-side Libraries | Clojure | 2772 |
+| [pedestal/pedestal](https://github.com/pedestal/pedestal) | The Pedestal Server-side Libraries | Clojure | 2773 |
 | [martinohanlon/mcpi](https://github.com/martinohanlon/mcpi) | Minecraft: Pi Edition API Python Library | Python | 394 |
 | [basilisp-lang/basilisp](https://github.com/basilisp-lang/basilisp) | A Clojure-compatible(-ish) Lisp dialect hosted on Python 3 with seamless Python interop | Python | 474 |
 | [nexe/nexe](https://github.com/nexe/nexe) | 🎉 create a single executable out of your node.js apps | TypeScript | 13570 |
@@ -1293,15 +1294,15 @@
 | [tolitius/cprop](https://github.com/tolitius/cprop) | likes properties, environments, configs, profiles..  | Clojure | 367 |
 | [steffan-westcott/clj-otel](https://github.com/steffan-westcott/clj-otel) | An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry. | Clojure | 233 |
 | [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin) | Jenkins Configuration as Code Plugin | Java | 2790 |
-| [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) | KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”. | C++ | 28084 |
+| [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) | KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”. | C++ | 28090 |
 | [eliascotto/tryclojure](https://github.com/eliascotto/tryclojure) | Clojure live REPL tutorial | Clojure | 176 |
 | [weavejester/reagi](https://github.com/weavejester/reagi) | An FRP library for Clojure and ClojureScript | Clojure | 231 |
-| [ocornut/imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies | C++ | 74903 |
+| [ocornut/imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies | C++ | 74942 |
 | [PositiveTechnologies/flower](https://github.com/PositiveTechnologies/flower) | Flower is a Clojure (and Emacs) library for integration with Github, Gitlab, Atlassian Jira, Microsoft TFS, Microsoft Exchange and Slack. It also may be used from Java. More integrations with task trackers, repositories and messaging systems coming soon! | Clojure | 132 |
 | [rwstauner/jirazzz](https://github.com/rwstauner/jirazzz) | A jira rest client for the command line, written in clojure as a babashka script. | Clojure | 37 |
 | [l3nz/cli-matic](https://github.com/l3nz/cli-matic) | Compact, hands-free [sub]command line parsing library for Clojure. | Clojure | 380 |
 | [metosin/spec-tools](https://github.com/metosin/spec-tools) | Clojure(Script) tools for clojure.spec | Clojure | 606 |
-| [AdaptiveScale/lxdui](https://github.com/AdaptiveScale/lxdui) | LXDUI is a web UI for the native Linux container technology LXD/LXC | HTML | 745 |
+| [AdaptiveScale/lxdui](https://github.com/AdaptiveScale/lxdui) | LXDUI is a web UI for the native Linux container technology LXD/LXC | HTML | 744 |
 | [larspetrus/Roofpig](https://github.com/larspetrus/Roofpig) | Rubik's Cube animation for the modern web. | CoffeeScript | 125 |
 | [Novus-School/novus](https://github.com/Novus-School/novus) |  | Clojure | 11 |
 | [clj-holmes/clj-watson](https://github.com/clj-holmes/clj-watson) | A Clojure tool that checks for vulnerable dependencies | Clojure | 102 |
@@ -1314,7 +1315,7 @@
 | [redstarssystems/apptemplate](https://github.com/redstarssystems/apptemplate) | Application project template for Clojure | Clojure | 34 |
 | [pfeodrippe/pitoco](https://github.com/pfeodrippe/pitoco) |  | Clojure | 38 |
 | [bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized) | React components for efficiently rendering large lists and tabular data | JavaScript | 27073 |
-| [HigherOrderCO/HVM2](https://github.com/HigherOrderCO/HVM2) | A massively parallel, optimal functional runtime in Rust | Cuda | 11326 |
+| [HigherOrderCO/HVM2](https://github.com/HigherOrderCO/HVM2) | A massively parallel, optimal functional runtime in Rust | Cuda | 11327 |
 | [funcool/promesa](https://github.com/funcool/promesa) | A promise library & concurrency toolkit for Clojure and ClojureScript. | Clojure | 542 |
 | [moggers87/salmon](https://github.com/moggers87/salmon) | Moved to Codeberg | Python | 661 |
 | [LeifAndersen/interactive-syntax-clojure](https://github.com/LeifAndersen/interactive-syntax-clojure) |  | Clojure | 44 |
@@ -1324,7 +1325,7 @@
 | [erikrose/parsimonious](https://github.com/erikrose/parsimonious) | The fastest pure-Python PEG parser I can muster | Python | 1910 |
 | [we-like-parsers/pegen](https://github.com/we-like-parsers/pegen) | PEG parser generator for Python | Python | 198 |
 | [wheelybird/luminary](https://github.com/wheelybird/luminary) | A PHP web-based interface for LDAP user account management and self-service password change. | PHP | 538 |
-| [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) | Pure bash script to test and wait on the availability of a TCP host and port | Python | 9772 |
+| [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) | Pure bash script to test and wait on the availability of a TCP host and port | Python | 9773 |
 | [kuhumcst/DanNet](https://github.com/kuhumcst/DanNet) | The Danish WordNet as an RDF graph. | Clojure | 29 |
 | [lambdaisland/hiccup](https://github.com/lambdaisland/hiccup) | Enlive-backed Hiccup implementation (clj-only) | Clojure | 33 |
 | [osixia/container-openldap](https://github.com/osixia/container-openldap) | OpenLDAP container image 🐳🪪🌴 | Shell | 4221 |
@@ -1332,7 +1333,7 @@
 | [quoll/remorse](https://github.com/quoll/remorse) | Clojure(Script) to morse code conversion | Clojure | 63 |
 | [wotbrew/relic](https://github.com/wotbrew/relic) | Functional relational programming for Clojure(Script). | Clojure | 430 |
 | [kkinnear/zprint](https://github.com/kkinnear/zprint) | Executables, uberjar, and library to beautifully format Clojure and Clojurescript source code and s-expressions. | Clojure | 622 |
-| [portainer/portainer](https://github.com/portainer/portainer) | Making Docker and Kubernetes management easy. | TypeScript | 38010 |
+| [portainer/portainer](https://github.com/portainer/portainer) | Making Docker and Kubernetes management easy. | TypeScript | 38022 |
 | [RafikFarhad/push-to-gcr-github-action](https://github.com/RafikFarhad/push-to-gcr-github-action) | An action that build docker image and push to Google Cloud Registry and Google Artifact Registry. | Shell | 75 |
 | [kit-clj/modules](https://github.com/kit-clj/modules) | Official Kit modules | Clojure | 14 |
 | [kit-clj/kit](https://github.com/kit-clj/kit) | Lightweight, modular framework for scalable web development in Clojure | Clojure | 556 |
@@ -1352,7 +1353,7 @@
 | [chr15m/DoodleCSS](https://github.com/chr15m/DoodleCSS) | A simple hand drawn HTML/CSS theme | HTML | 1190 |
 | [MultiMUD/clojure-lanterna](https://github.com/MultiMUD/clojure-lanterna) | A Clojurey wrapper around the Lanterna terminal output library. | Clojure | 221 |
 | [mabe02/lanterna](https://github.com/mabe02/lanterna) | Java library for creating text-based GUIs | Java | 2600 |
-| [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) | High-performance React Native Graphics using Skia | TypeScript | 8464 |
+| [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) | High-performance React Native Graphics using Skia | TypeScript | 8465 |
 | [ikappaki/devcards-loader](https://github.com/ikappaki/devcards-loader) | A tiny library loader for bhauman/devcards. | Clojure | 1 |
 | [grammarly/perseverance](https://github.com/grammarly/perseverance) | Flexible retries library for Clojure | Clojure | 189 |
 | [itarck/fancoil](https://github.com/itarck/fancoil) | A simple clojurescript framework | Clojure | 13 |
@@ -1368,7 +1369,7 @@
 | [stchar/pipeline-sharedlib-testharness](https://github.com/stchar/pipeline-sharedlib-testharness) | JenkinsPipelineUnit test harness for a Jenkins Shared Library | Groovy | 42 |
 | [mkobit/jenkins-pipeline-shared-libraries-gradle-plugin](https://github.com/mkobit/jenkins-pipeline-shared-libraries-gradle-plugin) | Gradle plugin to help with build and test of Jenkins Pipeline Shared Libraries (see https://jenkins.io/doc/book/pipeline/shared-libraries/) | Kotlin | 149 |
 | [sunrise-commander/sunrise-commander](https://github.com/sunrise-commander/sunrise-commander) | Twin-pane file manager for Emacs based on Dired and inspired by Midnight Commander | Emacs Lisp | 232 |
-| [HumbleUI/HumbleUI](https://github.com/HumbleUI/HumbleUI) | Clojure Desktop UI framework | Clojure | 1695 |
+| [HumbleUI/HumbleUI](https://github.com/HumbleUI/HumbleUI) | Clojure Desktop UI framework | Clojure | 1696 |
 | [jenkinsci/JenkinsPipelineUnit](https://github.com/jenkinsci/JenkinsPipelineUnit) | Framework for unit testing Jenkins pipelines  | Groovy | 1586 |
 | [tabeyti/jenkins-jack](https://github.com/tabeyti/jenkins-jack) | Jack into your Jenkins to execute Pipeline scripts, provide Pipeline step autocompletions, pull Shared Library step documenation, run console groovy scripts across multiple nodes, and more! Honestly, not that much more. | TypeScript | 108 |
 | [nbw/gems](https://github.com/nbw/gems) | A music sequencer on a distributed cluster. Written with Phoenix LiveView | Elixir | 83 |
@@ -1376,33 +1377,33 @@
 | [jonobr1/two.js](https://github.com/jonobr1/two.js) | A renderer agnostic two-dimensional drawing api for the web | JavaScript | 8644 |
 | [quoll/cljs-math](https://github.com/quoll/cljs-math) | A ClojureScript port of clojure.java.math | Clojure | 57 |
 | [Tensegritics/ClojureDart](https://github.com/Tensegritics/ClojureDart) | Clojure dialect for Flutter and Dart | Clojure | 1629 |
-| [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) | Web player for terminal session recordings and live streams | JavaScript | 2912 |
+| [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) | Web player for terminal session recordings and live streams | JavaScript | 2911 |
 | [roman01la/hooks](https://github.com/roman01la/hooks) | React Hooks for ClojureScript | Clojure | 22 |
 | [tonyaldon/clojure-site-org-mode](https://github.com/tonyaldon/clojure-site-org-mode) | The documentation of https://clojure.org/ converted into a single org-mode file. |  | 36 |
 | [awslabs/flowgger](https://github.com/awslabs/flowgger) | A fast data collector in Rust | Rust | 882 |
-| [probelabs/goreplay](https://github.com/probelabs/goreplay) | GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes. | Go | 19297 |
+| [probelabs/goreplay](https://github.com/probelabs/goreplay) | GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes. | Go | 19298 |
 | [dokku/dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | Shell | 32049 |
-| [ochinchina/supervisord](https://github.com/ochinchina/supervisord) | a go-lang supervisor implementation | Go | 4261 |
-| [apache/devlake](https://github.com/apache/devlake) | Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and community growth. | Go | 3077 |
+| [ochinchina/supervisord](https://github.com/ochinchina/supervisord) | a go-lang supervisor implementation | Go | 4262 |
+| [apache/devlake](https://github.com/apache/devlake) | Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and community growth. | Go | 3079 |
 | [xlfe/radiale](https://github.com/xlfe/radiale) | What if home automation was homoiconic? Just transformations of data? No more YAML! | Python | 26 |
 | [hakatashi/giiker](https://github.com/hakatashi/giiker) | JavaScript wrapper for GiiKER smart cube Bluetooth API | JavaScript | 37 |
 | [clj-holmes/clj-holmes](https://github.com/clj-holmes/clj-holmes) | A CLI SAST (Static application security testing) tool which was built with the intent of finding vulnerable Clojure code via rules that use a simple pattern language. | Clojure | 114 |
 | [teesloane/trunk](https://github.com/teesloane/trunk) | Language learning application. | Clojure | 94 |
 | [teesloane/firn](https://github.com/teesloane/firn) | Org Mode Static Site Generator | Rust | 332 |
 | [elastic/eui-cljs](https://github.com/elastic/eui-cljs) | A Clojurescript wrapper around the venerable Elastic UI Component library | Clojure | 45 |
-| [sycamore-rs/sycamore](https://github.com/sycamore-rs/sycamore) | A library for creating reactive web apps in Rust and WebAssembly | Rust | 3331 |
+| [sycamore-rs/sycamore](https://github.com/sycamore-rs/sycamore) | A library for creating reactive web apps in Rust and WebAssembly | Rust | 3332 |
 | [learnuidev/clojure-realworld-immutable-stack-app](https://github.com/learnuidev/clojure-realworld-immutable-stack-app) |  | Clojure | 8 |
 | [learnuidev/react-datascript-hooks-example](https://github.com/learnuidev/react-datascript-hooks-example) | Example app showing how to use DataScript with React | JavaScript | 7 |
-| [duckdb/duckdb](https://github.com/duckdb/duckdb) | DuckDB is an analytical in-process SQL database management system | C++ | 39595 |
-| [restic/restic](https://github.com/restic/restic) | Fast, secure, efficient backup program | Go | 35109 |
+| [duckdb/duckdb](https://github.com/duckdb/duckdb) | DuckDB is an analytical in-process SQL database management system | C++ | 39627 |
+| [restic/restic](https://github.com/restic/restic) | Fast, secure, efficient backup program | Go | 35119 |
 | [clj-commons/byte-streams](https://github.com/clj-commons/byte-streams) | A Rosetta stone for JVM byte representations | Clojure | 430 |
-| [weavejester/ragtime](https://github.com/weavejester/ragtime) | Database-independent migration library | Clojure | 641 |
+| [weavejester/ragtime](https://github.com/weavejester/ragtime) | Database-independent migration library | Clojure | 639 |
 | [nextjournal/clerk](https://github.com/nextjournal/clerk) | ⚡️ Moldable Live Programming for Clojure | Clojure | 2071 |
-| [IGJoshua/coffi](https://github.com/IGJoshua/coffi) | A Foreign Function Interface in Clojure for JDK 22+. | Clojure | 392 |
+| [IGJoshua/coffi](https://github.com/IGJoshua/coffi) | A Foreign Function Interface in Clojure for JDK 22+. | Clojure | 393 |
 | [lispyclouds/contajners](https://github.com/lispyclouds/contajners) | An idiomatic, data-driven, REPL friendly clojure client for OCI container engines | Clojure | 150 |
 | [cnuernber/dtype-next](https://github.com/cnuernber/dtype-next) | A Clojure library designed to aid in the implementation of high performance algorithms and systems. | Clojure | 382 |
 | [gethop-dev/esignatures.docusign](https://github.com/gethop-dev/esignatures.docusign) | A Library for interacting with DocuSign eSignature API which optionally provides Integrant initialization keys for Duct framework. | Clojure | 10 |
-| [jsa-aerial/hanami](https://github.com/jsa-aerial/hanami) | Interactive arts and charts plotting with Clojure(Script) and Vega-lite / Vega. Flower viewing 花見 (hanami) | Clojure | 410 |
+| [jsa-aerial/hanami](https://github.com/jsa-aerial/hanami) | Interactive arts and charts plotting with Clojure(Script) and Vega-lite / Vega. Flower viewing 花見 (hanami) | Clojure | 409 |
 | [ingesolvoll/glimt](https://github.com/ingesolvoll/glimt) | HTTP FSM for re-frame | Clojure | 39 |
 | [denistakeda/posh](https://github.com/denistakeda/posh) | A luxuriously simple and powerful way to make front-ends with DataScript and Reagent in Clojure. | Clojure | 118 |
 | [clojure/core.incubator](https://github.com/clojure/core.incubator) | Proving ground for proposed new core fns | Clojure | 115 |
@@ -1420,37 +1421,37 @@
 | [unclebob/spacewar](https://github.com/unclebob/spacewar) | Space War starting in Episode 55 of cleancoders.com | Clojure | 676 |
 | [chr15m/sitefox](https://github.com/chr15m/sitefox) | Node + cljs backend web framework | Clojure | 321 |
 | [JulianBirch/cljs-ajax](https://github.com/JulianBirch/cljs-ajax) | simple asynchronous Ajax client for ClojureScript and Clojure | Clojure | 676 |
-| [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) | high-performance graph database for real-time use cases | Go | 21742 |
+| [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) | high-performance graph database for real-time use cases | Go | 21745 |
 | [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) | Slack client for your terminal | Go | 6603 |
-| [pnpm/pnpm](https://github.com/pnpm/pnpm) | Fast, disk space efficient package manager | Rust | 35848 |
-| [babashka/nbb](https://github.com/babashka/nbb) | Scripting in Clojure on Node.js using SCI | Clojure | 958 |
-| [piku/piku](https://github.com/piku/piku) | The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers. | Python | 6597 |
+| [pnpm/pnpm](https://github.com/pnpm/pnpm) | Fast, disk space efficient package manager | Rust | 35854 |
+| [babashka/nbb](https://github.com/babashka/nbb) | Scripting in Clojure on Node.js using SCI | Clojure | 959 |
+| [piku/piku](https://github.com/piku/piku) | The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers. | Python | 6596 |
 | [askonomm/ruuter](https://github.com/askonomm/ruuter) | A zero-dependency, runtime-agnostic router. | Clojure | 130 |
 | [oakes/full-stack-clj-example](https://github.com/oakes/full-stack-clj-example) | A sample Clojure CLI project containing Clojure and ClojureScript | Clojure | 114 |
 | [kristianmandrup/datascript-tutorial](https://github.com/kristianmandrup/datascript-tutorial) | Datascript and Datomic tutorial book |  | 238 |
 | [budu/board](https://github.com/budu/board) | This is a naive implementation of an online whiteboard in under a hundred lines of Clojure and ClojureScript code. | Clojure | 24 |
-| [babashka/neil](https://github.com/babashka/neil) | A CLI to add common aliases and features to deps.edn-based projects | Clojure | 467 |
+| [babashka/neil](https://github.com/babashka/neil) | A CLI to add common aliases and features to deps.edn-based projects | Clojure | 468 |
 | [bsless/clj-fast](https://github.com/bsless/clj-fast) | Unpredictably faster Clojure | Clojure | 250 |
 | [zk/clojuredocs](https://github.com/zk/clojuredocs) | clojuredocs.org web app | Clojure | 1068 |
 | [johnmn3/injest](https://github.com/johnmn3/injest) | +>, +>>, x>>, =>>: Auto-transducifying, auto-parallelizing path thread macros | Clojure | 229 |
 | [whamtet/Excel-REPL](https://github.com/whamtet/Excel-REPL) | Clojure Development Environment for Excel | Clojure | 322 |
 | [f4b6a3/uuid-creator](https://github.com/f4b6a3/uuid-creator) | UUID Creator is a Java library for generating Universally Unique Identifiers. It generates all standard identifiers from UUIDv1 to UUIDv7. It also provides an alternative to the classic JDK's UUID (alt.GUID), many codecs (codec.*) and several utilities (util.*). | Java | 690 |
-| [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) | Free universal database tool and SQL client | Java | 51089 |
+| [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) | Free universal database tool and SQL client | Java | 51098 |
 | [someteam/acha](https://github.com/someteam/acha) | Git Achievements | Clojure | 466 |
 | [behrica/clj-py-r-template](https://github.com/behrica/clj-py-r-template) |  | Dockerfile | 35 |
 | [bsless/stress-server](https://github.com/bsless/stress-server) | Stress your Clojure servers until they sweat. Analyze the results | Clojure | 62 |
 | [Ella-Hoeppner/Vlojure](https://github.com/Ella-Hoeppner/Vlojure) | A visual programming interface for ClojureScript | Clojure | 145 |
-| [hpjansson/chafa](https://github.com/hpjansson/chafa) | 📺🗿 Terminal graphics for the 21st century. | C | 5039 |
-| [vasturiano/force-graph](https://github.com/vasturiano/force-graph) | Force-directed graph rendered on HTML5 canvas | JavaScript | 2073 |
+| [hpjansson/chafa](https://github.com/hpjansson/chafa) | 📺🗿 Terminal graphics for the 21st century. | C | 5043 |
+| [vasturiano/force-graph](https://github.com/vasturiano/force-graph) | Force-directed graph rendered on HTML5 canvas | JavaScript | 2074 |
 | [clj-easy/graal-build-time](https://github.com/clj-easy/graal-build-time) | Initialize Clojure classes at build time with GraalVM native-image | Clojure | 153 |
 | [cs0x7f/cstimer](https://github.com/cs0x7f/cstimer) | Professional Speedcubing/Training Timer | JavaScript | 741 |
-| [TritonDataCenter/triton](https://github.com/TritonDataCenter/triton) | Triton DataCenter: a cloud management platform with first class support for containers. | Shell | 1368 |
+| [TritonDataCenter/triton](https://github.com/TritonDataCenter/triton) | Triton DataCenter: a cloud management platform with first class support for containers. | Shell | 1367 |
 | [mviereck/x11docker](https://github.com/mviereck/x11docker) | Run GUI applications and desktops in docker and podman containers. Focus on security. | Shell | 6288 |
 | [khmelevskii/duct-pedestal-reitit](https://github.com/khmelevskii/duct-pedestal-reitit) | Example of Duct + Pedestal + Reitit server | Clojure | 14 |
-| [goharbor/harbor](https://github.com/goharbor/harbor) | An open source trusted cloud native registry project that stores, signs, and scans content. | Go | 28986 |
+| [goharbor/harbor](https://github.com/goharbor/harbor) | An open source trusted cloud native registry project that stores, signs, and scans content. | Go | 28996 |
 | [seancorfield/build-clj](https://github.com/seancorfield/build-clj) | Common build tasks abstracted into a library. | Clojure | 152 |
 | [Respo/respo.cljs](https://github.com/Respo/respo.cljs) | A virtual DOM library built with ClojureScript, inspired by React and Reagent. | Cirru | 236 |
-| [hylang/hy](https://github.com/hylang/hy) | A dialect of Lisp that's embedded in Python | Python | 5436 |
+| [hylang/hy](https://github.com/hylang/hy) | A dialect of Lisp that's embedded in Python | Python | 5435 |
 | [testcontainers/testcontainers-clj](https://github.com/testcontainers/testcontainers-clj) | Control Docker containers from your test lifecycle for Clojure integration tests. | Clojure | 158 |
 | [adambard/failjure](https://github.com/adambard/failjure) | Monadic error utilities for general use in Clojure(script) projects | Clojure | 423 |
 | [seancorfield/deps-new](https://github.com/seancorfield/deps-new) | Create new projects for the Clojure CLI / deps.edn | Clojure | 448 |
@@ -1459,9 +1460,9 @@
 | [PEZ/rn-rf-shadow](https://github.com/PEZ/rn-rf-shadow) | An example project to get you started with React Native using shadow-cljs in 3 minutes | Clojure | 384 |
 | [whamtet/simpleui](https://github.com/whamtet/simpleui) | JS Free Single Page Applications | Clojure | 277 |
 | [MicahElliott/dbdoc](https://github.com/MicahElliott/dbdoc) | Document your database schema, because your team will thank you, and a single text file makes it easy. Works well with PostgreSQL and others. | Clojure | 46 |
-| [Textualize/rich](https://github.com/Textualize/rich) | Rich is a Python library for rich text and beautiful formatting in the terminal. | Python | 56910 |
+| [Textualize/rich](https://github.com/Textualize/rich) | Rich is a Python library for rich text and beautiful formatting in the terminal. | Python | 56915 |
 | [stelcodes/functional-news](https://github.com/stelcodes/functional-news) | A Hacker News clone - without the side effects 🪄 | Clojure | 4 |
-| [vadimdemedes/ink](https://github.com/vadimdemedes/ink) | 🌈 React for interactive command-line apps | TypeScript | 39419 |
+| [vadimdemedes/ink](https://github.com/vadimdemedes/ink) | 🌈 React for interactive command-line apps | TypeScript | 39435 |
 | [cnuernber/tmdjs](https://github.com/cnuernber/tmdjs) | High Performance Data Processing for ClojureScript  | Clojure | 106 |
 | [glv/snergly](https://github.com/glv/snergly) | Maze algorithms in Clojure (from Jamis Buck's "Mazes for Programmers" book) | Clojure | 24 |
 | [carocad/rata](https://github.com/carocad/rata) | State management through Datascript and Reagent | Clojure | 41 |
@@ -1472,25 +1473,25 @@
 | [juxt/site](https://github.com/juxt/site) | A web and API server, powered by xtdb.com | Clojure | 137 |
 | [pippo-java/pippo](https://github.com/pippo-java/pippo) | Micro Java Web Framework | Java | 786 |
 | [hyperfiddle/rcf](https://github.com/hyperfiddle/rcf) | RCF – a REPL-first, async test macro for Clojure/Script | Clojure | 302 |
-| [clojure/tools.build](https://github.com/clojure/tools.build) | Clojure builds as Clojure programs | Clojure | 230 |
-| [sharkdp/bat](https://github.com/sharkdp/bat) | A cat(1) clone with wings. | Rust | 59839 |
+| [clojure/tools.build](https://github.com/clojure/tools.build) | Clojure builds as Clojure programs | Clojure | 229 |
+| [sharkdp/bat](https://github.com/sharkdp/bat) | A cat(1) clone with wings. | Rust | 59840 |
 | [helins/maestro.clj](https://github.com/helins/maestro.clj) | Zen way for managing a Clojure/script monorepo | Clojure | 32 |
 | [lambdaisland/witchcraft](https://github.com/lambdaisland/witchcraft) | Clojure API for manipulating Minecraft, based on Bukkit | Clojure | 144 |
 | [alekcz/pcp](https://github.com/alekcz/pcp) | PCP: Clojure Processor -- A Clojure replacement for PHP | Clojure | 239 |
-| [phaserjs/phaser](https://github.com/phaserjs/phaser) | Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. | JavaScript | 40002 |
+| [phaserjs/phaser](https://github.com/phaserjs/phaser) | Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. | JavaScript | 40007 |
 | [clojure-lsp/clojure-lsp](https://github.com/clojure-lsp/clojure-lsp) | Clojure & ClojureScript Language Server (LSP) implementation | Clojure | 1316 |
 | [nubank/umschreiben-clj](https://github.com/nubank/umschreiben-clj) | Rewrite utilities for refactoring clojure files | Clojure | 18 |
 | [mbasso/asm-dom](https://github.com/mbasso/asm-dom) | A minimal WebAssembly virtual DOM to build C++ SPA (Single page applications) | C++ | 2823 |
 | [ertugrulcetin/racing-game-cljs](https://github.com/ertugrulcetin/racing-game-cljs) | A 3D racing game built with ClojureScript, React and ThreeJS | Clojure | 259 |
-| [GoldenCheetah/GoldenCheetah](https://github.com/GoldenCheetah/GoldenCheetah) | Performance Software for Cyclists, Runners, Triathletes and Coaches | Standard ML | 2173 |
+| [GoldenCheetah/GoldenCheetah](https://github.com/GoldenCheetah/GoldenCheetah) | Performance Software for Cyclists, Runners, Triathletes and Coaches | Standard ML | 2174 |
 | [activexray/cybermonday](https://github.com/activexray/cybermonday) | Markdown as Clojure Data | Clojure | 113 |
 | [prestancedesign/pingcrm-clojure](https://github.com/prestancedesign/pingcrm-clojure) | PingCRM on Clojure - A Clojure/Script fullstack demo application to illustrate how Inertia.js works. | Clojure | 124 |
 | [imalooney/t3tr0s](https://github.com/imalooney/t3tr0s) | 30th anniversary tetris in ClojureScript | Clojure | 464 |
 | [shaunlebron/t3tr0s-slides](https://github.com/shaunlebron/t3tr0s-slides) | interactive guide to tetris in cljs | Clojure | 272 |
 | [teknql/crux-geo](https://github.com/teknql/crux-geo) | Geospatial indexing for Crux | Clojure | 38 |
-| [gitui-org/gitui](https://github.com/gitui-org/gitui) | Blazing 💥 fast terminal-ui for git written in rust 🦀 | Rust | 22269 |
+| [gitui-org/gitui](https://github.com/gitui-org/gitui) | Blazing 💥 fast terminal-ui for git written in rust 🦀 | Rust | 22276 |
 | [redstarssystems/gantt](https://github.com/redstarssystems/gantt) | Clojure wrapper for PlantUML Gantt diagrams | Clojure | 23 |
-| [leeoniya/uPlot](https://github.com/leeoniya/uPlot) | 📈 A small, fast chart for time series, lines, areas, ohlc & bars | JavaScript | 10340 |
+| [leeoniya/uPlot](https://github.com/leeoniya/uPlot) | 📈 A small, fast chart for time series, lines, areas, ohlc & bars | JavaScript | 10342 |
 | [circleci/bond](https://github.com/circleci/bond) | spying for tests | Clojure | 139 |
 | [babashka/scittle](https://github.com/babashka/scittle) | Execute Clojure(Script) directly from browser script tags via SCI | Clojure | 435 |
 | [factorhouse/cronut](https://github.com/factorhouse/cronut) | A Clojure Companion to Quartz Scheduler | Clojure | 97 |
@@ -1502,9 +1503,9 @@
 | [ertugrulcetin/re-frame-flow](https://github.com/ertugrulcetin/re-frame-flow) | Graph based visualization tool for re-frame event chains | Clojure | 159 |
 | [homebaseio/datalog-console](https://github.com/homebaseio/datalog-console) | Administration UI for Datascript, Datahike, and other Datalog databases | Clojure | 56 |
 | [lucywang000/clj-statecharts](https://github.com/lucywang000/clj-statecharts) | State Machine and StateCharts for Clojure(Script) | Clojure | 248 |
-| [facebookincubator/cinder](https://github.com/facebookincubator/cinder) | This is Meta's fork of the CPython runtime.  The name "cinder" here is historical, see https://github.com/facebookincubator/cinderx for the Python extension / JIT compiler. | Python | 3794 |
-| [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) | A private messenger for Android. | Kotlin | 29074 |
-| [supabase/supabase](https://github.com/supabase/supabase) | The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. | TypeScript | 106751 |
+| [facebookincubator/cinder](https://github.com/facebookincubator/cinder) | This is Meta's fork of the CPython runtime.  The name "cinder" here is historical, see https://github.com/facebookincubator/cinderx for the Python extension / JIT compiler. | Python | 3791 |
+| [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) | A private messenger for Android. | Kotlin | 29080 |
+| [supabase/supabase](https://github.com/supabase/supabase) | The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. | TypeScript | 106797 |
 | [practicalli-johnny/keyboardio-atreus-custom-layouts](https://github.com/practicalli-johnny/keyboardio-atreus-custom-layouts) | Custom layout for the Atreus keyboard, similart to that of  the Model01 |  | 13 |
 | [learnuidev/reagent-reposh-realworld](https://github.com/learnuidev/reagent-reposh-realworld) |  | Clojure | 16 |
 | [lsevero/clj-maxima](https://github.com/lsevero/clj-maxima) | Maxima as a clojure library | Clojure | 35 |
@@ -1523,30 +1524,30 @@
 | [ribelo/doxa](https://github.com/ribelo/doxa) |  | Clojure | 235 |
 | [green-coder/girouette](https://github.com/green-coder/girouette) | Grammar-based, generative approach to CSS. | Clojure | 208 |
 | [lread/status-line](https://github.com/lread/status-line) |  | Clojure | 15 |
-| [karlicoss/HPI](https://github.com/karlicoss/HPI) | Human Programming Interface 🧑👽🤖 | Python | 1617 |
+| [karlicoss/HPI](https://github.com/karlicoss/HPI) | Human Programming Interface 🧑👽🤖 | Python | 1616 |
 | [juxt/spin](https://github.com/juxt/spin) | Unbundling the web application-tier | Clojure | 18 |
 | [umputun/reproxy](https://github.com/umputun/reproxy) | Simple edge server / reverse proxy | Go | 1307 |
 | [helins/binf.cljc](https://github.com/helins/binf.cljc) | Handling binary formats in all shapes and forms | Clojure | 136 |
 | [piotr-yuxuan/closeable-map](https://github.com/piotr-yuxuan/closeable-map) | Application state management made simple: a Clojure map that implements java.io.Closeable. | Clojure | 64 |
 | [msolli/proletarian](https://github.com/msolli/proletarian) | A durable job queuing and worker system for Clojure backed by PostgreSQL or MySQL. | Clojure | 230 |
-| [harness/harness](https://github.com/harness/harness) | Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries. | Go | 37431 |
-| [vanilla-music/vanilla](https://github.com/vanilla-music/vanilla) | Vanilla Music Player for Android | Java | 1343 |
+| [harness/harness](https://github.com/harness/harness) | Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries. | Go | 37448 |
+| [vanilla-music/vanilla](https://github.com/vanilla-music/vanilla) | Vanilla Music Player for Android | Java | 1344 |
 | [clojure-liberator/liberator](https://github.com/clojure-liberator/liberator) | Liberator is a Clojure library for building RESTful applications. | Clojure | 1261 |
 | [techascent/tech.ml.dataset](https://github.com/techascent/tech.ml.dataset) | A Clojure high performance data processing system | Clojure | 750 |
 | [igrishaev/clj-book-en](https://github.com/igrishaev/clj-book-en) |  | TeX | 2 |
 | [cgrand/xforms](https://github.com/cgrand/xforms) | Extra transducers and reducing fns for Clojure(script) | Clojure | 594 |
 | [clj-commons/etaoin](https://github.com/clj-commons/etaoin) | Pure Clojure Webdriver protocol implementation | Clojure | 965 |
 | [arttuka/reagent-material-ui](https://github.com/arttuka/reagent-material-ui) | Reagent wrapper for MUI (formerly Material UI) v5 | Clojure | 208 |
-| [go-gitea/gitea](https://github.com/go-gitea/gitea) | Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD | Go | 56954 |
+| [go-gitea/gitea](https://github.com/go-gitea/gitea) | Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD | Go | 56970 |
 | [randomseed-io/bankster](https://github.com/randomseed-io/bankster) | Money as data, done right. | Clojure | 71 |
 | [mischov/reaver](https://github.com/mischov/reaver) | A Clojure library for extracting data from HTML. | Clojure | 153 |
-| [SerenityOS/serenity](https://github.com/SerenityOS/serenity) | The Serenity Operating System 🐞 | C++ | 33650 |
+| [SerenityOS/serenity](https://github.com/SerenityOS/serenity) | The Serenity Operating System 🐞 | C++ | 33648 |
 | [kloimhardt/werkbank](https://github.com/kloimhardt/werkbank) | Blockly visual programming for Clojure | Clojure | 77 |
 | [kloimhardt/clj-tiles](https://github.com/kloimhardt/clj-tiles) | Visual programming for STEM students and instructors at university level. | Clojure | 48 |
 | [ertugrulcetin/code3dworld](https://github.com/ertugrulcetin/code3dworld) | Learn programming in 3D World | Clojure | 70 |
 | [AutoScreencast/codesunaba](https://github.com/AutoScreencast/codesunaba) | A simple ClojureScript code sandbox in your browser. | CSS | 18 |
 | [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom) | A workbench for writing toy implementations of distributed systems. | Clojure | 3638 |
-| [rnmapbox/maps](https://github.com/rnmapbox/maps) | A Mapbox react native module for creating custom maps | Kotlin | 2879 |
+| [rnmapbox/maps](https://github.com/rnmapbox/maps) | A Mapbox react native module for creating custom maps | Kotlin | 2880 |
 | [superstructor/re-frame-fetch-fx](https://github.com/superstructor/re-frame-fetch-fx) | js/fetch Effect Handler for re-frame | Clojure | 54 |
 | [apache/mxnet](https://github.com/apache/mxnet) | Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more | C++ | 20820 |
 | [NervanaSystems/ngraph-mxnet](https://github.com/NervanaSystems/ngraph-mxnet) | MXNet - nGraph integration | C++ | 34 |
@@ -1556,7 +1557,7 @@
 | [incanter/incanter](https://github.com/incanter/incanter) | Clojure-based, R-like statistical computing and graphics environment for the JVM | Clojure | 2249 |
 | [aria42/flare](https://github.com/aria42/flare) | Dynamic Tensor Graph library in Clojure (think PyTorch, DynNet, etc.) | Clojure | 287 |
 | [uncomplicate/neanderthal](https://github.com/uncomplicate/neanderthal) | Fast Clojure Matrix Library | Clojure | 1124 |
-| [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) | A single-header ANSI C immediate mode cross-platform GUI library | C | 11283 |
+| [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) | A single-header ANSI C immediate mode cross-platform GUI library | C | 11285 |
 | [microsoft/onnxjs](https://github.com/microsoft/onnxjs) | ONNX.js: run ONNX models using JavaScript | TypeScript | 1816 |
 | [smee/binary](https://github.com/smee/binary) | Clojure API for binary format I/O using java's stream apis | Clojure | 77 |
 | [clj-commons/gloss](https://github.com/clj-commons/gloss) | speaks in bytes, so you don't have to | Clojure | 486 |
@@ -1564,7 +1565,7 @@
 | [thheller/shadow-experiments](https://github.com/thheller/shadow-experiments) | Archived. See shadow-grove. | Clojure | 114 |
 | [clj-easy/graalvm-clojure](https://github.com/clj-easy/graalvm-clojure) | This project contains a set of "hello world" projects to verify which Clojure libraries do actually compile and produce native images under GraalVM. | Clojure | 521 |
 | [just-sultanov/setup-babashka](https://github.com/just-sultanov/setup-babashka) | Set up your GitHub Actions workflow with a specific version of babashka | TypeScript | 14 |
-| [openscad/openscad](https://github.com/openscad/openscad) | OpenSCAD - The Programmers Solid 3D CAD Modeller   | C++ | 9781 |
+| [openscad/openscad](https://github.com/openscad/openscad) | OpenSCAD - The Programmers Solid 3D CAD Modeller   | C++ | 9785 |
 | [philoskim/debux](https://github.com/philoskim/debux) | A trace-based debugging library for Clojure and ClojureScript. | Clojure | 478 |
 | [erdos/erdos.assert](https://github.com/erdos/erdos.assert) | power assert macro for clojure | Clojure | 85 |
 | [babashka/tools-deps-native](https://github.com/babashka/tools-deps-native) | Run tools.deps as a native binary | Clojure | 44 |
@@ -1585,7 +1586,7 @@
 | [vlaaad/reveal](https://github.com/vlaaad/reveal) | Read Eval Visualize Loop for Clojure | Clojure | 630 |
 | [lsevero/clj-raylib](https://github.com/lsevero/clj-raylib) | Raylib bindings for clojure | Java | 34 |
 | [rollacaster/hiccup-d3](https://github.com/rollacaster/hiccup-d3) | D3-Charts written in Clojure | Clojure | 78 |
-| [vlang/v](https://github.com/vlang/v) | Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io | V | 37743 |
+| [vlang/v](https://github.com/vlang/v) | Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io | V | 37747 |
 | [tengstrand/lein-polylith](https://github.com/tengstrand/lein-polylith) | Libraries and tools for Polylith component based architecture. | Clojure | 131 |
 | [kirasystems/views](https://github.com/kirasystems/views) | Eventually consistent external materialized views for SQL databases. | Clojure | 28 |
 | [drcode/webfui](https://github.com/drcode/webfui) | Client-Side Web Framework for ClojureScript | Clojure | 237 |
@@ -1596,9 +1597,9 @@
 | [LingDong-/wax](https://github.com/LingDong-/wax) | A tiny programming language that transpiles to C, C++, Java, TypeScript, Python, C#, Swift, Lua and WebAssembly 🚀 | C | 853 |
 | [metasoarous/toto](https://github.com/metasoarous/toto) | Static site generation in Clojure (with live code reloading!) | Clojure | 112 |
 | [ertugrulcetin/jme-clj](https://github.com/ertugrulcetin/jme-clj) | A Clojure 3D Game Engine (Wrapper), Powered by jMonkeyEngine | Clojure | 172 |
-| [jMonkeyEngine/jmonkeyengine](https://github.com/jMonkeyEngine/jmonkeyengine) | A complete 3-D game development suite written in Java. | Java | 4268 |
+| [jMonkeyEngine/jmonkeyengine](https://github.com/jMonkeyEngine/jmonkeyengine) | A complete 3-D game development suite written in Java. | Java | 4267 |
 | [ivopt/dotenv.clj](https://github.com/ivopt/dotenv.clj) | Dotenv for Clojure | Clojure | 27 |
-| [SAP/styleguides](https://github.com/SAP/styleguides) | This repository provides SAP style guides for coding and coding-related topics. | Markdown | 1981 |
+| [SAP/styleguides](https://github.com/SAP/styleguides) | This repository provides SAP style guides for coding and coding-related topics. | Markdown | 1982 |
 | [dundalek/liz](https://github.com/dundalek/liz) | Lisp-flavored general-purpose programming language (based on Zig) | Clojure | 291 |
 | [Engelberg/ubergraph](https://github.com/Engelberg/ubergraph) | An all-purpose Clojure graph data structure that implements Loom protocols and more. | Clojure | 599 |
 | [clj-commons/metrics-clojure](https://github.com/clj-commons/metrics-clojure) | A thin façade around Coda Hale's metrics library. | Clojure | 348 |
@@ -1609,7 +1610,7 @@
 | [magnars/prone](https://github.com/magnars/prone) | Better exception reporting middleware for Ring. | Clojure | 514 |
 | [rougier/nano-emacs](https://github.com/rougier/nano-emacs) | GNU Emacs / N Λ N O - Emacs made simple | Emacs Lisp | 2908 |
 | [uncomplicate/clojurecuda](https://github.com/uncomplicate/clojurecuda) | Clojure library for CUDA development | C | 207 |
-| [logseq/logseq](https://github.com/logseq/logseq) | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV | Clojure | 44010 |
+| [logseq/logseq](https://github.com/logseq/logseq) | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV | Clojure | 44029 |
 | [fulcrologic/guardrails](https://github.com/fulcrologic/guardrails) | Efficient, hassle-free function call validation with a concise inline syntax for clojure.spec and Malli | Clojure | 258 |
 | [genmeblog/soundsynth](https://github.com/genmeblog/soundsynth) | Sound synthesis in Clojure | C | 24 |
 | [markbastian/java-calls-clojure](https://github.com/markbastian/java-calls-clojure) | A simple example of how to call Clojure code from Java | Java | 10 |
@@ -1623,7 +1624,7 @@
 | [lambdaforge/wanderung](https://github.com/lambdaforge/wanderung) | Migration tool for Datahike | Clojure | 17 |
 | [seralbdev/protocool](https://github.com/seralbdev/protocool) | Binary protocol handling library | Clojure | 19 |
 | [QikLiang/GraphQL-format.clj](https://github.com/QikLiang/GraphQL-format.clj) |  | Clojure | 10 |
-| [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) | Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. | TypeScript | 28672 |
+| [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) | Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. | TypeScript | 28673 |
 | [JetBrains/skija](https://github.com/JetBrains/skija) | Java bindings for Skia | Java | 2650 |
 | [zerg000000/simple-cors](https://github.com/zerg000000/simple-cors) | Simply usable CORS middleware / interceptor for Clojure | Clojure | 28 |
 | [jgrodziski/keycloak-clojure](https://github.com/jgrodziski/keycloak-clojure) | A Clojure library helping the integration of Keycloak with a Clojure Application + a sample SPA Client and API Server demonstrating the Keycloak integration | Clojure | 156 |
@@ -1647,14 +1648,14 @@
 | [zero-one-group/geni](https://github.com/zero-one-group/geni) | A Clojure dataframe library that runs on Spark | Clojure | 294 |
 | [alekcz/datahike-firebase](https://github.com/alekcz/datahike-firebase) | Datahike with Firebase as data storage | Clojure | 50 |
 | [replikativ/datahike-jdbc](https://github.com/replikativ/datahike-jdbc) | Datahike JDBC data storage backend | Clojure | 20 |
-| [expo/expo](https://github.com/expo/expo) | An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. | TypeScript | 50898 |
-| [prestancedesign/usermanager-reitit-example](https://github.com/prestancedesign/usermanager-reitit-example) |  A little demo web app in Clojure, using Integrant, Ring, Reitit, Selmer (and a database)  | Clojure | 129 |
+| [expo/expo](https://github.com/expo/expo) | An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. | TypeScript | 50938 |
+| [prestancedesign/usermanager-reitit-example](https://github.com/prestancedesign/usermanager-reitit-example) |  A little demo web app in Clojure, using Integrant, Ring, Reitit, Selmer (and a database)  | Clojure | 128 |
 | [bridje/bridje](https://github.com/bridje/bridje) | Bridje is a statically typed LISP targeting GraalVM, drawing inspiration from Clojure, Haskell and Kotlin. | Kotlin | 61 |
 | [joinr/performancepaper](https://github.com/joinr/performancepaper) | A reproducible, open examination of the paper "A performance comparison of Clojure and Java" by Gustav Krantz | Clojure | 68 |
 | [thebusby/iota](https://github.com/thebusby/iota) | A simple IO library for using Clojure's reducers | Java | 314 |
 | [lucasferreira/react-native-flash-message](https://github.com/lucasferreira/react-native-flash-message) | React Native flashbar and top notification alert utility | JavaScript | 1528 |
 | [antonvolkoff/kosmos](https://github.com/antonvolkoff/kosmos) | Graphic development environment for Clojure | TypeScript | 44 |
-| [kata0510/Lily58](https://github.com/kata0510/Lily58) | 6×4+4keys column-staggered split keyboard. |  | 2261 |
+| [kata0510/Lily58](https://github.com/kata0510/Lily58) | 6×4+4keys column-staggered split keyboard. |  | 2260 |
 | [sulami/literate-calc-mode.el](https://github.com/sulami/literate-calc-mode.el) | 🧮 Literate programming for M-x calc | Emacs Lisp | 354 |
 | [uncomplicate/deep-diamond](https://github.com/uncomplicate/deep-diamond) | A fast Clojure Tensor & Deep Learning library | Clojure | 465 |
 | [djblue/portal](https://github.com/djblue/portal) | A clojure tool to navigate through your data. | Clojure | 1023 |
@@ -1679,7 +1680,7 @@
 | [rm-hull/wireframes](https://github.com/rm-hull/wireframes) | A lightweight 3D graphics rendering engine in Clojure & ClojureScript. | Clojure | 70 |
 | [Hendekagon/Datalog-tutorial](https://github.com/Hendekagon/Datalog-tutorial) | A mini introductory Datalog tutorial for people who know some Clojure | Clojure | 10 |
 | [threatgrid/naga](https://github.com/threatgrid/naga) | Datalog based rules engine | Clojure | 385 |
-| [datalevin/datalevin](https://github.com/datalevin/datalevin) | A simple, fast and versatile Datalog database | Clojure | 1447 |
+| [datalevin/datalevin](https://github.com/datalevin/datalevin) | A simple, fast and versatile Datalog database | Clojure | 1453 |
 | [scgilardi/slingshot](https://github.com/scgilardi/slingshot) | Enhanced try and throw for Clojure leveraging Clojure's capabilities | Clojure | 651 |
 | [jkk/formative](https://github.com/jkk/formative) | Web forms for Clojure and ClojureScript  - rendering, parsing, and validating | Clojure | 212 |
 | [Phantas0s/sokoban](https://github.com/Phantas0s/sokoban) | :black_square_button: You know what Sokoban is. Do you? | Clojure | 25 |
@@ -1692,7 +1693,7 @@
 | [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) | NES-style CSS Framework \| ファミコン風CSSフレームワーク | SCSS | 21787 |
 | [suprematic/otplike](https://github.com/suprematic/otplike) | Erlang/OTP like processes and behaviours for Clojure on top of core.async | Clojure | 215 |
 | [macchiato-framework/macchiato-core](https://github.com/macchiato-framework/macchiato-core) | Ring style HTTP server abstraction for Node.js | Clojure | 384 |
-| [penpot/penpot](https://github.com/penpot/penpot) | Penpot: The open-source design platform for Product teams that need scalable collaboration. | Clojure | 57108 |
+| [penpot/penpot](https://github.com/penpot/penpot) | Penpot: The open-source design platform for Product teams that need scalable collaboration. | Clojure | 57184 |
 | [ertugrulcetin/kezban](https://github.com/ertugrulcetin/kezban) | Utility library for Clojure and ClojureScript | Clojure | 44 |
 | [lynaghk/c2](https://github.com/lynaghk/c2) | Declarative data visualization in Clojure(Script). | JavaScript | 639 |
 | [almonk/pylon](https://github.com/almonk/pylon) | Declarative layout primitives for CSS & HTML | CSS | 483 |
@@ -1713,14 +1714,14 @@
 | [defold/defold](https://github.com/defold/defold) | Defold is a completely free to use game engine for development of desktop, mobile and web games. | C++ | 6196 |
 | [thi-ng/geom](https://github.com/thi-ng/geom) | 2D/3D geometry toolkit for Clojure/Clojurescript | Clojure | 996 |
 | [clojure-goes-fast/clj-java-decompiler](https://github.com/clojure-goes-fast/clj-java-decompiler) | REPL-integrated Clojure-to-Java decompiler | Clojure | 284 |
-| [mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) | Code samples for my book "Neural Networks and Deep Learning" | Python | 17811 |
+| [mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) | Code samples for my book "Neural Networks and Deep Learning" | Python | 17815 |
 | [valerauko/clojure-graalvm-native](https://github.com/valerauko/clojure-graalvm-native) | Docker image for building Clojure GraalVM native images | Dockerfile | 45 |
 | [jpmonettas/clograms](https://github.com/jpmonettas/clograms) | Clojure[Script] source code diagrams | Clojure | 186 |
-| [yemount/pose-animator](https://github.com/yemount/pose-animator) |  | JavaScript | 8847 |
+| [yemount/pose-animator](https://github.com/yemount/pose-animator) |  | JavaScript | 8848 |
 | [clj-commons/citrus](https://github.com/clj-commons/citrus) | State management library for Rum | Clojure | 273 |
 | [jacobobryant/biff](https://github.com/jacobobryant/biff) | A Clojure web framework for solo developers. | Clojure | 1091 |
 | [graphqlize/graphqlize](https://github.com/graphqlize/graphqlize) | A Clojure & JVM library for developing GraphQL API instantly from Postgres and MySQL databases | Clojure | 292 |
-| [magnars/stasis](https://github.com/magnars/stasis) | Some Clojure functions for creating static websites. | Clojure | 357 |
+| [magnars/stasis](https://github.com/magnars/stasis) | Some Clojure functions for creating static websites. | Clojure | 358 |
 | [joegallo/doric](https://github.com/joegallo/doric) | Clojure table layout | Clojure | 106 |
 | [sunng87/ring-jetty9-adapter](https://github.com/sunng87/ring-jetty9-adapter) | An enhanced version of jetty adapter for ring, with additional features like websockets, http/2 and http/3 | Clojure | 299 |
 | [glosa/glosa-server](https://github.com/glosa/glosa-server) | Comments for static sites. Clone of Disqus, but faster, Opensource and sexy. | HTML | 80 |
@@ -1730,7 +1731,7 @@
 | [vouch-opensource/krell](https://github.com/vouch-opensource/krell) | Simple ClojureScript React Native Tooling | Clojure | 696 |
 | [clojure-numerics/expresso](https://github.com/clojure-numerics/expresso) | Clojure library for symbolic computation | Clojure | 317 |
 | [wilkerlucio/spec-coerce](https://github.com/wilkerlucio/spec-coerce) | Coerce by leveraging your specs | Clojure | 206 |
-| [Kludex/starlette](https://github.com/Kludex/starlette) | The little ASGI framework that shines. 🌟 | Python | 12488 |
+| [Kludex/starlette](https://github.com/Kludex/starlette) | The little ASGI framework that shines. 🌟 | Python | 12487 |
 | [kalai-transpiler/kalai](https://github.com/kalai-transpiler/kalai) | A source-to-source transpiler to convert Clojure to multiple target languages (Rust, C++, Java, ...) | Clojure | 245 |
 | [timothypratley/rustly](https://github.com/timothypratley/rustly) | A Clojure to Rust transpiler | Clojure | 167 |
 | [joy-framework/joy](https://github.com/joy-framework/joy) | A full stack web framework written in janet | Janet | 609 |
@@ -1740,10 +1741,10 @@
 | [UI5/webcomponents-react](https://github.com/UI5/webcomponents-react) | A wrapper implementation for React of the UI5 Web Components that are compliant with the SAP Fiori User Experience | TypeScript | 533 |
 | [luminus-framework/ring-undertow-adapter](https://github.com/luminus-framework/ring-undertow-adapter) | Ring Undertow adapter | Clojure | 52 |
 | [jgoodhcg/create-expo-cljs-app](https://github.com/jgoodhcg/create-expo-cljs-app) |  | Clojure | 27 |
-| [bbatsov/prelude](https://github.com/bbatsov/prelude) | Prelude is an enhanced Emacs 29.1+ distribution that should make your experience with Emacs both more pleasant and more powerful. | Emacs Lisp | 5317 |
+| [bbatsov/prelude](https://github.com/bbatsov/prelude) | Prelude is an enhanced Emacs 29.1+ distribution that should make your experience with Emacs both more pleasant and more powerful. | Emacs Lisp | 5318 |
 | [cdorrat/reduce-fsm](https://github.com/cdorrat/reduce-fsm) | A clojure finite state machine library | Clojure | 267 |
 | [metosin/tilakone](https://github.com/metosin/tilakone) | Minimalistic finite state machine (FSM) in Clojure | Clojure | 201 |
-| [3b1b/manim](https://github.com/3b1b/manim) | Animation engine for explanatory math videos | Python | 88762 |
+| [3b1b/manim](https://github.com/3b1b/manim) | Animation engine for explanatory math videos | Python | 88790 |
 | [cljfx/cljfx](https://github.com/cljfx/cljfx) | Declarative, functional and extensible wrapper of JavaFX inspired by react and re-frame | Clojure | 1095 |
 | [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) | swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition. | Mustache | 17775 |
 | [spacegangster/page-renderer](https://github.com/spacegangster/page-renderer) | Write HTML-pages as Clojure maps, with all that meta. Bindings for garden and hiccup.  Helps with PWA generation too. Offline-ready web apps with service workers, social meta and async stylesheets. | Clojure | 116 |
@@ -1754,9 +1755,9 @@
 | [hodur-org/hodur-engine](https://github.com/hodur-org/hodur-engine) | Hodur is a domain modeling approach and collection of libraries to Clojure.  By using Hodur you can define your domain model as data, parse and validate it, and then either consume your model via an API or use one of the many plugins to help you achieve mechanical results faster and in a purely functional manner. | Clojure | 284 |
 | [noprompt/meander](https://github.com/noprompt/meander) | Tools for transparent data transformation | Clojure | 979 |
 | [weavejester/impi](https://github.com/weavejester/impi) | ClojureScript library for using Pixi.js through immutable data | Clojure | 52 |
-| [pixijs/pixijs](https://github.com/pixijs/pixijs) | The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. | TypeScript | 47845 |
+| [pixijs/pixijs](https://github.com/pixijs/pixijs) | The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. | TypeScript | 47865 |
 | [jamesremuscat/plugin.video.eurosport2](https://github.com/jamesremuscat/plugin.video.eurosport2) | Proof-of-concept Kodi plugin for Eurosport Player | Python | 10 |
-| [quartz-scheduler/quartz](https://github.com/quartz-scheduler/quartz) | Code for Quartz Scheduler | Java | 6744 |
+| [quartz-scheduler/quartz](https://github.com/quartz-scheduler/quartz) | Code for Quartz Scheduler | Java | 6745 |
 | [jarohen/chime](https://github.com/jarohen/chime) | A really lightweight Clojure scheduler | Clojure | 565 |
 | [io-tupelo-demo/graalvm](https://github.com/io-tupelo-demo/graalvm) | 100x speedup of Clojure as a native executable using GraalVM | Clojure | 70 |
 | [tvirolai/blurhash](https://github.com/tvirolai/blurhash) | A Clojure implementation of the blurhash algorithm | Clojure | 58 |
@@ -1784,7 +1785,7 @@
 | [brandonbloom/fipp](https://github.com/brandonbloom/fipp) | Fast Idiomatic Pretty Printer for Clojure | Clojure | 542 |
 | [luciodale/fork](https://github.com/luciodale/fork) | A headless Clojurescript form management library for Re-frame and Reagent. | Astro | 227 |
 | [babashka/clj-http-lite](https://github.com/babashka/clj-http-lite) | Deprecated in favor of https://github.com/clj-commons/clj-http-lite | Clojure | 7 |
-| [naptha/tesseract.js](https://github.com/naptha/tesseract.js) | Pure Javascript OCR for more than 100 Languages 📖🎉🖥 | JavaScript | 38550 |
+| [naptha/tesseract.js](https://github.com/naptha/tesseract.js) | Pure Javascript OCR for more than 100 Languages 📖🎉🖥 | JavaScript | 38554 |
 | [retrogradeorbit/bootleg](https://github.com/retrogradeorbit/bootleg) | Simple template processing command line tool to help build static websites | JavaScript | 259 |
 | [weavejester/hashp](https://github.com/weavejester/hashp) | A better "prn" for debugging | Clojure | 489 |
 | [tonsky/datascript](https://github.com/tonsky/datascript) | Immutable database and Datalog query engine for Clojure, ClojureScript and JS | Clojure | 5778 |
@@ -1802,11 +1803,11 @@
 | [duct-framework/core](https://github.com/duct-framework/core) | The deprecated core of the old Duct framework | Clojure | 80 |
 | [vega/vega-lite](https://github.com/vega/vega-lite) | A concise grammar of interactive graphics, built on Vega. | TypeScript | 5416 |
 | [seancorfield/depstar](https://github.com/seancorfield/depstar) | Builds JARs, uberjars, does AOT, manifest generation, etc for deps.edn projects | Clojure | 239 |
-| [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) | A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols) |  | 6486 |
+| [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) | A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols) |  | 6485 |
 | [metosin/talvi](https://github.com/metosin/talvi) | Opinionated and Performant Web Application Stack for Clojure/Script |  | 80 |
 | [weavejester/comb](https://github.com/weavejester/comb) | Clojure templating library | Clojure | 80 |
-| [cyanfish/naps2](https://github.com/cyanfish/naps2) | Scan documents to PDF and more, as simply as possible. | C# | 4348 |
-| [chubin/wttr.in](https://github.com/chubin/wttr.in) | :partly_sunny: The right way to check the weather | Go | 30154 |
+| [cyanfish/naps2](https://github.com/cyanfish/naps2) | Scan documents to PDF and more, as simply as possible. | C# | 4357 |
+| [chubin/wttr.in](https://github.com/chubin/wttr.in) | :partly_sunny: The right way to check the weather | Go | 30162 |
 | [sinclairzx81/zero](https://github.com/sinclairzx81/zero) | A 3D renderer written in JavaScript and rendered to the terminal. | TypeScript | 2452 |
 | [stalefruits/gniazdo](https://github.com/stalefruits/gniazdo) | A WebSocket client for Clojure | Clojure | 216 |
 | [emacs-lsp/dap-mode](https://github.com/emacs-lsp/dap-mode) | Emacs :heart: Debug Adapter Protocol  | Emacs Lisp | 1384 |
@@ -1814,12 +1815,12 @@
 | [jackrusher/mundaneum](https://github.com/jackrusher/mundaneum) | A clojure wrapper around WikiData | Clojure | 146 |
 | [oliyh/re-learn](https://github.com/oliyh/re-learn) | A library for integrating tutorials into your re-frame/reagent application | Clojure | 140 |
 | [oliyh/re-graph](https://github.com/oliyh/re-graph) | A graphql client for clojurescript and clojure | Clojure | 466 |
-| [weavejester/integrant](https://github.com/weavejester/integrant) | Micro-framework for data-driven architecture | Clojure | 1358 |
-| [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) | Functional css for humans | CSS | 11714 |
+| [weavejester/integrant](https://github.com/weavejester/integrant) | Micro-framework for data-driven architecture | Clojure | 1357 |
+| [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) | Functional css for humans | CSS | 11713 |
 | [defndaines/meiro](https://github.com/defndaines/meiro) | Maze generation code, inspired by Mazes for Programmers. | Clojure | 459 |
 | [coast-framework/coast](https://github.com/coast-framework/coast) | The fullest full stack clojure web framework | Clojure | 565 |
 | [coast-framework/db](https://github.com/coast-framework/db) | Clojure SQL Superpowers | Clojure | 9 |
-| [metosin/reitit](https://github.com/metosin/reitit) | A fast data-driven routing library for Clojure/Script | Clojure | 1574 |
+| [metosin/reitit](https://github.com/metosin/reitit) | A fast data-driven routing library for Clojure/Script | Clojure | 1575 |
 | [getsentry/sentry-clj](https://github.com/getsentry/sentry-clj) | Sentry SDK for Clojure | Clojure | 114 |
 | [seancorfield/honeysql](https://github.com/seancorfield/honeysql) | Turn Clojure data structures into SQL | Clojure | 1905 |
 | [magnars/html5-walker](https://github.com/magnars/html5-walker) | Search and replace in HTML5 strings. | Clojure | 13 |
@@ -1837,57 +1838,57 @@
 | [nathell/smyrna](https://github.com/nathell/smyrna) | Prosty konkordancer dla języka polskiego | Clojure | 18 |
 | [onyx-platform/onyx](https://github.com/onyx-platform/onyx) | Distributed, masterless, high performance, fault tolerant data processing | Clojure | 2051 |
 | [bobbicodes/mecca](https://github.com/bobbicodes/mecca) | Animated music editor in Clojurescript/re-frame | JavaScript | 171 |
-| [clojupyter/clojupyter](https://github.com/clojupyter/clojupyter) | a Jupyter kernel for Clojure | Clojure | 866 |
+| [clojupyter/clojupyter](https://github.com/clojupyter/clojupyter) | a Jupyter kernel for Clojure | Clojure | 865 |
 | [redplanetlabs/defexception](https://github.com/redplanetlabs/defexception) | A simple Clojure library to dynamically define Java Exception classes in Clojure. | Clojure | 120 |
-| [clj-kondo/clj-kondo](https://github.com/clj-kondo/clj-kondo) | Static analyzer and linter for Clojure code that sparks joy | Clojure | 1845 |
-| [hoplon/javelin](https://github.com/hoplon/javelin) | Spreadsheet-like dataflow programming in ClojureScript. | Clojure | 823 |
-| [brython-dev/brython](https://github.com/brython-dev/brython) | Brython (Browser Python) is an implementation of Python 3 running in the browser | Python | 6611 |
+| [clj-kondo/clj-kondo](https://github.com/clj-kondo/clj-kondo) | Static analyzer and linter for Clojure code that sparks joy | Clojure | 1847 |
+| [hoplon/javelin](https://github.com/hoplon/javelin) | Spreadsheet-like dataflow programming in ClojureScript. | Clojure | 824 |
+| [brython-dev/brython](https://github.com/brython-dev/brython) | Brython (Browser Python) is an implementation of Python 3 running in the browser | Python | 6607 |
 | [pyodide/pyodide](https://github.com/pyodide/pyodide) | Pyodide is a Python distribution for the browser and Node.js based on WebAssembly | Python | 14747 |
 | [shedskin/shedskin](https://github.com/shedskin/shedskin) | Shed Skin is a restricted-Python-to-C++ compiler. Read the introduction below to learn about the restrictions. | C++ | 988 |
 | [schmee/java-http-clj](https://github.com/schmee/java-http-clj) | Clojure wrapper for java.net.http with async, HTTP/2 and WebSockets | Clojure | 149 |
 | [infinitelives/px3d](https://github.com/infinitelives/px3d) | Experimental pixel 3d engine | Clojure | 307 |
-| [babashka/sci](https://github.com/babashka/sci) | Configurable Clojure/Script interpreter suitable for scripting and Clojure DSLs | Clojure | 1369 |
+| [babashka/sci](https://github.com/babashka/sci) | Configurable Clojure/Script interpreter suitable for scripting and Clojure DSLs | Clojure | 1371 |
 | [walkable-server/walkable](https://github.com/walkable-server/walkable) | A Clojure(script) SQL library for building APIs: Datomic® (GraphQL-ish) pull syntax, data driven configuration, dynamic filtering with relations in mind | Clojure | 452 |
-| [allinurl/goaccess](https://github.com/allinurl/goaccess) | GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser. | C | 20722 |
+| [allinurl/goaccess](https://github.com/allinurl/goaccess) | GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser. | C | 20724 |
 | [thheller/shadow-cljs](https://github.com/thheller/shadow-cljs) | ClojureScript compilation made easy | Clojure | 2402 |
 | [planck-repl/planck](https://github.com/planck-repl/planck) | Stand-alone ClojureScript REPL | C | 1040 |
 | [candid82/joker](https://github.com/candid82/joker) | Small Clojure interpreter, linter and formatter. | Go | 1765 |
 | [dundalek/closh](https://github.com/dundalek/closh) | Bash-like shell based on Clojure | Clojure | 1628 |
-| [babashka/babashka](https://github.com/babashka/babashka) | Native, fast starting Clojure interpreter for scripting | Clojure | 4564 |
+| [babashka/babashka](https://github.com/babashka/babashka) | Native, fast starting Clojure interpreter for scripting | Clojure | 4566 |
 | [funcool/cuerdas](https://github.com/funcool/cuerdas) | String manipulation library for Clojure(Script) | Clojure | 317 |
 | [thheller/reagent-expo](https://github.com/thheller/reagent-expo) | test using reagent with expo/react-native | Clojure | 58 |
 | [binaryage/cljs-oops](https://github.com/binaryage/cljs-oops) | ClojureScript macros for convenient native Javascript object access. | Clojure | 350 |
 | [metosin/komponentit](https://github.com/metosin/komponentit) | Collection of bespoke Reagent components | Clojure | 64 |
-| [metosin/malli](https://github.com/metosin/malli) | High-performance data-driven data specification library for Clojure/Script. | Clojure | 1748 |
+| [metosin/malli](https://github.com/metosin/malli) | High-performance data-driven data specification library for Clojure/Script. | Clojure | 1749 |
 | [tkrabel/bamboolib](https://github.com/tkrabel/bamboolib) | bamboolib - a GUI for pandas DataFrames | Jupyter Notebook | 956 |
-| [sqshq/sampler](https://github.com/sqshq/sampler) | Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. | Go | 14709 |
+| [sqshq/sampler](https://github.com/sqshq/sampler) | Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. | Go | 14708 |
 | [carp-lang/Carp](https://github.com/carp-lang/Carp) | A statically typed lisp, without a GC, for real-time applications. | Haskell | 5987 |
 | [clojure/math.combinatorics](https://github.com/clojure/math.combinatorics) | Efficient, functional algorithms for generating lazy sequences for common combinatorial functions | Clojure | 357 |
 | [clojure-cookbook/clojure-cookbook](https://github.com/clojure-cookbook/clojure-cookbook) | This is the home of O'Reilly's Clojure Cookbook - http://clojure-cookbook.com | Clojure | 2616 |
 | [alaricsp/chicken-scheme](https://github.com/alaricsp/chicken-scheme) | CHICKEN is a compiler for the Scheme programming language. CHICKEN produces portable, efficient C, supports almost all of the current Scheme language standard, R5RS and includes many enhancements and extensions. CHICKEN runs on MacOS X, Windows, and many Unix flavours. | Scheme | 147 |
-| [pallets/flask](https://github.com/pallets/flask) | The Python micro framework for building web applications. | Python | 71999 |
+| [pallets/flask](https://github.com/pallets/flask) | The Python micro framework for building web applications. | Python | 71992 |
 | [profet23/atreus62](https://github.com/profet23/atreus62) | Design files for the atreus62 keyboard |  | 238 |
 | [ryansuchocki/microscheme](https://github.com/ryansuchocki/microscheme) | A Scheme subset for Atmel microcontrollers. | C | 309 |
 | [James-Thibaudeau/bulma-cljs](https://github.com/James-Thibaudeau/bulma-cljs) | Reagent component library for Bulma | Clojure | 8 |
-| [wg/wrk](https://github.com/wg/wrk) | Modern HTTP benchmarking tool | C | 40358 |
+| [wg/wrk](https://github.com/wg/wrk) | Modern HTTP benchmarking tool | C | 40355 |
 | [oakes/Dynadoc](https://github.com/oakes/Dynadoc) | Dynamic documentation for Clojure(Script) | Clojure | 219 |
-| [clj-python/libpython-clj](https://github.com/clj-python/libpython-clj) | Python bindings for Clojure | Clojure | 1206 |
+| [clj-python/libpython-clj](https://github.com/clj-python/libpython-clj) | Python bindings for Clojure | Clojure | 1205 |
 | [alanmarazzi/panthera](https://github.com/alanmarazzi/panthera) | Data-frames & arrays on Clojure | Clojure | 191 |
 | [Factual/geo](https://github.com/Factual/geo) | Clojure library for working with geohashes, polygons, and other world geometry | Clojure | 319 |
-| [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) | The lazier way to manage everything docker | Go | 52114 |
+| [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) | The lazier way to manage everything docker | Go | 52120 |
 | [drewr/clojure-py](https://github.com/drewr/clojure-py) | A implementation of Clojure in pure (dynamic) Python | Python | 103 |
 | [Workiva/eva](https://github.com/Workiva/eva) | A distributed database-system implementing an entity-attribute-value data-model that is time-aware, accumulative, and atomically consistent | Clojure | 560 |
 | [tmattacchione/clojurescript-30](https://github.com/tmattacchione/clojurescript-30) | A ClojureScript Port of JavaScript 30 Exercises | HTML | 68 |
 | [day8/re-frame](https://github.com/day8/re-frame) | A ClojureScript framework for building user interfaces, leveraging React | Clojure | 5541 |
 | [ingesolvoll/kee-frame](https://github.com/ingesolvoll/kee-frame) | re-frame with batteries included | Clojure | 357 |
-| [cesanta/mongoose](https://github.com/cesanta/mongoose) | Embedded web server, with TCP/IP network stack, MQTT and Websocket | C | 12948 |
+| [cesanta/mongoose](https://github.com/cesanta/mongoose) | Embedded web server, with TCP/IP network stack, MQTT and Websocket | C | 12949 |
 | [yogthos/graal-web-app-example](https://github.com/yogthos/graal-web-app-example) | example web application using HTTP Kit and Reitit compiled with GraalVM | Clojure | 125 |
 | [google/closure-stylesheets](https://github.com/google/closure-stylesheets) | A CSS+ transpiler that lints, optimizes, and I18n-izes | Java | 315 |
 | [plumatic/schema](https://github.com/plumatic/schema) | Clojure(Script) library for declarative data description and validation | Clojure | 2461 |
 | [vvvvalvalval/supdate](https://github.com/vvvvalvalval/supdate) | Clojure's update with superpowers. | Clojure | 204 |
-| [tolitius/mount](https://github.com/tolitius/mount) | managing Clojure and ClojureScript app state since (reset) | Clojure | 1256 |
+| [tolitius/mount](https://github.com/tolitius/mount) | managing Clojure and ClojureScript app state since (reset) | Clojure | 1255 |
 | [anvilsecure/lookinsidethebox](https://github.com/anvilsecure/lookinsidethebox) | Breaks the encryption and obfuscation layers that Dropbox applies to their modified Python interpreter. | Python | 89 |
-| [janet-lang/janet](https://github.com/janet-lang/janet) | A dynamic language and bytecode vm | C | 4336 |
+| [janet-lang/janet](https://github.com/janet-lang/janet) | A dynamic language and bytecode vm | C | 4337 |
 | [lacarmen/reagent-markdown-editor](https://github.com/lacarmen/reagent-markdown-editor) | A simple live Markdown editor with Reagent | HTML | 16 |
 | [markbastian/datascript-playground](https://github.com/markbastian/datascript-playground) |  | HTML | 21 |
 | [wilkerlucio/pathom-viz](https://github.com/wilkerlucio/pathom-viz) | Visualization tools for Pathom | Clojure | 91 |
@@ -1895,14 +1896,14 @@
 | [wilkerlucio/pathom](https://github.com/wilkerlucio/pathom) | Pathom is a Clojure(script) engine for processing EQL requests. | Clojure | 631 |
 | [viebel/klipse](https://github.com/viebel/klipse) | Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs. | HTML | 3134 |
 | [simon-brooke/html-to-md](https://github.com/simon-brooke/html-to-md) | A Clojure library designed to convert (Enlivened) HTML to markdown; but, more generally, a framework for [HT\|SG\|X]ML transformation. | Clojure | 22 |
-| [wasmerio/wasmer-python](https://github.com/wasmerio/wasmer-python) | 🐍🕸 WebAssembly runtime for Python | Rust | 2151 |
-| [nim-lang/Nim](https://github.com/nim-lang/Nim) | Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority). | Nim | 18129 |
+| [wasmerio/wasmer-python](https://github.com/wasmerio/wasmer-python) | 🐍🕸 WebAssembly runtime for Python | Rust | 2149 |
+| [nim-lang/Nim](https://github.com/nim-lang/Nim) | Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority). | Nim | 18127 |
 | [metasoarous/datsync](https://github.com/metasoarous/datsync) | Datomic <-> DataScript syncing/replication utilities | Clojure | 331 |
-| [xtdb/xtdb](https://github.com/xtdb/xtdb) | An immutable SQL database for application development, time-travel reporting and data compliance. Developed by @juxt | Clojure | 3029 |
+| [xtdb/xtdb](https://github.com/xtdb/xtdb) | An immutable SQL database for application development, time-travel reporting and data compliance. Developed by @juxt | Clojure | 3030 |
 | [plexus/html-to-hiccup](https://github.com/plexus/html-to-hiccup) | Emacs package that turns HTML into Hiccup syntax | Emacs Lisp | 75 |
 | [dakrone/clj-http](https://github.com/dakrone/clj-http) | An idiomatic clojure http client wrapping the apache client. Officially supported version. | Clojure | 1823 |
-| [jackschaedler/goya](https://github.com/jackschaedler/goya) | Pixel art editor built on Clojurescript + Om | JavaScript | 1848 |
-| [bpampuch/pdfmake](https://github.com/bpampuch/pdfmake) | Client/server side PDF printing in pure JavaScript | JavaScript | 12314 |
+| [jackschaedler/goya](https://github.com/jackschaedler/goya) | Pixel art editor built on Clojurescript + Om | JavaScript | 1847 |
+| [bpampuch/pdfmake](https://github.com/bpampuch/pdfmake) | Client/server side PDF printing in pure JavaScript | JavaScript | 12317 |
 | [clojure-goes-fast/clj-async-profiler](https://github.com/clojure-goes-fast/clj-async-profiler) | Embedded high-precision Clojure profiler | Clojure | 468 |
 | [oakes/play-cljc](https://github.com/oakes/play-cljc) | A Clojure and ClojureScript game library | Clojure | 567 |
 | [farrellm/scad-clj](https://github.com/farrellm/scad-clj) | OpenSCAD DSL in Clojure | Clojure | 336 |
@@ -1912,9 +1913,9 @@
 | [crs48/cause](https://github.com/crs48/cause) | An EDN-like CRDT (Causal Tree) for Clojure & ClojureScript that automatically tracks history and resolves conflicts. | Clojure | 143 |
 | [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) | Terrain rendering algorithm in less than 20 lines of code | C | 6766 |
 | [s-macke/Kerasimo](https://github.com/s-macke/Kerasimo) | Plot neural networks generated by the Deep Learning library Keras | Python | 18 |
-| [kachayev/fn.py](https://github.com/kachayev/fn.py) | Functional programming in Python: implementation of missing features to enjoy FP | Python | 3370 |
+| [kachayev/fn.py](https://github.com/kachayev/fn.py) | Functional programming in Python: implementation of missing features to enjoy FP | Python | 3369 |
 | [kachayev/nasus](https://github.com/kachayev/nasus) | Zero-configuration command-line async HTTP files server in Clojure. Like Python's SimpleHTTPServer but scalable. | Clojure | 169 |
-| [metabase/metabase](https://github.com/metabase/metabase) | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart: | Clojure | 48301 |
+| [metabase/metabase](https://github.com/metabase/metabase) | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart: | Clojure | 48314 |
 | [pdcawley/bakehouse](https://github.com/pdcawley/bakehouse) | Support database for an artisan bakery | PLpgSQL | 127 |
 | [aria42/koala](https://github.com/aria42/koala) | Clojure dataframe library | Clojure | 59 |
 | [jaidetree/cljs-tui-template](https://github.com/jaidetree/cljs-tui-template) | A leiningen template to generate ClojureScript Terminal-User-Interface applications built on web technologies you already know. | Clojure | 237 |
@@ -1931,15 +1932,15 @@
 | [redplanetlabs/specter](https://github.com/redplanetlabs/specter) | Clojure(Script)'s missing piece | Clojure | 2618 |
 | [zalando-stups/cats.match](https://github.com/zalando-stups/cats.match) | Pattern matching for the monads in the cats Clojure library | Clojure | 52 |
 | [healthfinch/depstar](https://github.com/healthfinch/depstar) | A clj-based uberjarrer. See version maintained by Sean for up to date releases. | HTML | 103 |
-| [geldata/gel](https://github.com/geldata/gel) | Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more. | Python | 14125 |
+| [geldata/gel](https://github.com/geldata/gel) | Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more. | Python | 14148 |
 | [Engelberg/instaparse](https://github.com/Engelberg/instaparse) |  | Clojure | 2817 |
 | [LuxLang/lux](https://github.com/LuxLang/lux) | The Lux Programming Language | Emacs Lisp | 1739 |
-| [metasoarous/oz](https://github.com/metasoarous/oz) | Data visualizations in Clojure and ClojureScript using Vega and Vega-lite | Clojure | 834 |
+| [metasoarous/oz](https://github.com/metasoarous/oz) | Data visualizations in Clojure and ClojureScript using Vega and Vega-lite | Clojure | 833 |
 | [drj11/pypng](https://github.com/drj11/pypng) | Pure Python library for PNG image encoding/decoding | Python | 451 |
 | [plexus/chestnut](https://github.com/plexus/chestnut) | Application template for Clojure + ClojureScript web apps | Clojure | 1304 |
 | [luisbatalha/prime_motion_picture](https://github.com/luisbatalha/prime_motion_picture) |  | Python | 25 |
 | [Voltara/advent2018-fast](https://github.com/Voltara/advent2018-fast) | Advent of Code 2018 optimized solutions in C++ | C++ | 88 |
-| [MagicStack/immutables](https://github.com/MagicStack/immutables) | A high-performance immutable mapping type for Python. | C | 1206 |
+| [MagicStack/immutables](https://github.com/MagicStack/immutables) | A high-performance immutable mapping type for Python. | C | 1204 |
 | [santinic/pampy](https://github.com/santinic/pampy) | Pampy: The Pattern Matching for Python you always dreamed of. | Python | 3527 |
 | [jebberjeb/fsmviz](https://github.com/jebberjeb/fsmviz) | Generate Graphviz diagrams from FSM data | Clojure | 49 |
 | [day8/re-com](https://github.com/day8/re-com) | A ClojureScript library of reusable components for Reagent | Clojure | 821 |
@@ -1955,7 +1956,7 @@
 | [oakes/Nightcode](https://github.com/oakes/Nightcode) | An IDE for Clojure | Clojure | 1402 |
 | [bhauman/lein-figwheel](https://github.com/bhauman/lein-figwheel) | Figwheel builds your ClojureScript code and hot loads it into the browser as you are coding! | Clojure | 2874 |
 | [bhauman/devcards](https://github.com/bhauman/devcards) | Devcards aims to provide a visual REPL experience for ClojureScript | Clojure | 1536 |
-| [psf/requests-html](https://github.com/psf/requests-html) | Pythonic HTML Parsing for Humans™ | Python | 13828 |
+| [psf/requests-html](https://github.com/psf/requests-html) | Pythonic HTML Parsing for Humans™ | Python | 13827 |
 | [skulpt/skulpt](https://github.com/skulpt/skulpt) | Skulpt is a Javascript implementation of the Python programming language | Python | 3394 |
 | [ip-tools/python-epo-ops-client](https://github.com/ip-tools/python-epo-ops-client) | Python client for EPO OPS, the European Patent Office's Open Patent Services API. | Python | 186 |
 | [jorgenschaefer/elpy](https://github.com/jorgenschaefer/elpy) | Emacs Python Development Environment | Emacs Lisp | 1937 |
@@ -1965,19 +1966,19 @@
 | [kayak/pypika](https://github.com/kayak/pypika) | PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially useful for data analysis. | Python | 2926 |
 | [dropbox/pyannotate](https://github.com/dropbox/pyannotate) | Auto-generate PEP-484 annotations | Python | 1443 |
 | [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) | Freeze (package) Python programs into stand-alone executables | Python | 13042 |
-| [palantir/blueprint](https://github.com/palantir/blueprint) | A React-based UI toolkit for the web | TypeScript | 21935 |
-| [kristopolous/BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) | A vintage 1980s DOS inspired Twitter Bootstrap theme | HTML | 6869 |
-| [ParthS007/background](https://github.com/ParthS007/background) | Runs things in the background.  | Python | 507 |
-| [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) | What the f*ck Python? 😱 | Python | 37033 |
+| [palantir/blueprint](https://github.com/palantir/blueprint) | A React-based UI toolkit for the web | TypeScript | 21938 |
+| [kristopolous/BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) | A vintage 1980s DOS inspired Twitter Bootstrap theme | HTML | 6870 |
+| [ParthS007/background](https://github.com/ParthS007/background) | Runs things in the background.  | Python | 506 |
+| [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) | What the f*ck Python? 😱 | Python | 37031 |
 | [zendeskarchive/triggear](https://github.com/zendeskarchive/triggear) | Jenkins Pipelines - GitHub integration service | Python | 13 |
 | [encode/apistar](https://github.com/encode/apistar) | The Web API toolkit. 🛠 | Python | 5545 |
 | [ecederstrand/exchangelib](https://github.com/ecederstrand/exchangelib) | Python client for Microsoft Exchange Web Services (EWS) | Python | 1265 |
-| [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) | 📷 Instagram Bot - Tool for automated Instagram interactions | Python | 18048 |
-| [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) | Semantic is a UI component framework based around useful principles from natural language. | JavaScript | 51046 |
+| [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) | 📷 Instagram Bot - Tool for automated Instagram interactions | Python | 18051 |
+| [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) | Semantic is a UI component framework based around useful principles from natural language. | JavaScript | 51045 |
 | [miguelgrinberg/sqlalchemy-soft-delete](https://github.com/miguelgrinberg/sqlalchemy-soft-delete) | Implementation of soft deletes for Flask and SQLAlchemy | Python | 68 |
 | [miguelgrinberg/python-socketio](https://github.com/miguelgrinberg/python-socketio) | Python Socket.IO server and client | Python | 4369 |
 | [cannatag/ldap3](https://github.com/cannatag/ldap3) | a strictly RFC 4510 conforming LDAP V3 pure Python client. The same codebase works with Python 2. Python 3, PyPy and PyPy3 | Python | 938 |
-| [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) | Turn (almost) any Python command line program into a full GUI application with one line | Python | 21908 |
-| [inducer/pudb](https://github.com/inducer/pudb) | Full-screen console debugger for Python | Python | 3248 |
+| [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) | Turn (almost) any Python command line program into a full GUI application with one line | Python | 21906 |
+| [inducer/pudb](https://github.com/inducer/pudb) | Full-screen console debugger for Python | Python | 3249 |
 
-*Updated: 2026-07-22*
+*Updated: 2026-07-23*
